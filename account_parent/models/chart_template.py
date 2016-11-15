@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    ODOO, Open Source Management Solution
+#    OpenERP, Open Source Management Solution
 #    Copyright (C) 2016 Steigend IT Solutions
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
 
-from odoo import api, fields, models, _
+from openerp import api, fields, models, _
 
 class AccountAccountTemplate(models.Model):
     _inherit = "account.account.template"
