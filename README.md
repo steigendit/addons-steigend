@@ -1,1 +1,1 @@
-# Odoo Apps by Steigend Team
+# Odoo Addons by Steigend Team
