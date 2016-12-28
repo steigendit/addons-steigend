@@ -33,8 +33,8 @@
         </record>
 
         <menuitem icon="STOCK_INDENT" action="action_account_chart"
-            id="menu_action_account_tree2"
-            parent="account.menu_finance_entries" sequence="21" groups="account_parent.group_coas_user" />
+            id="menu_action_account_chart"
+            parent="account.menu_finance_entries" sequence="21" groups="group_coas_user" />
             
         
 

@@ -20,13 +20,15 @@ This module will be very useful for those who are still using v7/v8 because of t
     - Need to set the group show chart of account structure to view the chart of account heirarchy.
     - If no parent account is set, then just a list view with credit,debit, balance will be showed
     
+    IMPORTANT: Install chart of account only after installing this module 
+    
     Contact us for any need of customisation or chart of account migration from v7/v8 - v9/v10
     """,
 
     'author': 'Steigend IT Solutions',
     'website': 'http://www.steigendit.com',
     'category': 'Accounting &amp; Finance',
-    'version': '0.1',
+    'version': '1.2',
     'depends': ['account'],
     'data': [
         'security/account_parent_security.xml',
