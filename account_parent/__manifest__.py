@@ -18,7 +18,6 @@ This module will be very useful for those who are still using v7/v8 because of t
         * Adds credit, debit and balance in account
         * Shows chart of account based on the date and target moves we have selected
     - Need to set the group show chart of account structure to view the chart of account heirarchy.
-    - If no parent account is set, then just a list view with credit,debit, balance will be showed
     
     Contact us for any need of customisation or chart of account migration from v7/v8 - v9/v10
     """,
@@ -26,7 +25,7 @@ This module will be very useful for those who are still using v7/v8 because of t
     'author': 'Steigend IT Solutions',
     'website': 'http://www.steigendit.com',
     'category': 'Accounting &amp; Finance',
-    'version': '0.1',
+    'version': '1.2',
     'depends': ['account'],
     'data': [
         'security/account_parent_security.xml',
