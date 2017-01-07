@@ -37,13 +37,6 @@ class AccountAccountTemplate(models.Model):
                 #create the property
                 PropertyObj.create(vals)
         return True
-
-    @api.model
-    def search(self, args, offset=0, limit=None, order=None, count=False):
-        context = self._context or {}
-        if not context.get('show_parent_account_template',False):
-            args += [('user_type_id.type', '!=', 'view')]
-        return super(AccountAccountTemplate, self).search(args, offset, limit, order, count=count)
         
         
 class AccountChartTemplate(models.Model):
@@ -52,10 +45,16 @@ class AccountChartTemplate(models.Model):
     @api.multi
     def generate_account(self, tax_template_ref, acc_template_ref, code_digits, company):
         account_tmpl_pool = self.env['account.account.template']
+        account_pool = self.env['account.account']
         account_template_account_dict = super(AccountChartTemplate, self).generate_account(tax_template_ref, acc_template_ref, code_digits, company)
         account_template_objs = account_tmpl_pool.browse(account_template_account_dict.keys())
         for account_template_obj in account_template_objs:
             account_template_obj.update_template_property_field(account_template_account_dict[account_template_obj.id],company)
+            if not account_template_obj.parent_id:
+                continue
+            account_parent_id = account_template_account_dict.get(account_template_obj.parent_id.id,False)
+            account_obj = account_pool.browse(account_template_account_dict[account_template_obj.id])
+            account_obj.write({'parent_id': account_parent_id})
         return account_template_account_dict
     
     @api.multi
@@ -68,15 +67,25 @@ class AccountChartTemplate(models.Model):
             :returns: return acc_template_ref for reference purpose.
             :rtype: dict
         """
+        
+        account_tmpl_obj = self.env['account.account.template']
+        account_obj = self.env['account.account']
+        view_liquidity_type = self.env.ref('account_parent.data_account_type_view')
+        if not importing_parent:
+#             parent_account_id = account_obj.with_context({'show_parent_account':True}).search([('parent_id','=',False),
+#                                                              ('user_type_id','=',view_liquidity_type.id),('company_id','=',company.id)], limit=1)
+#             account = account_obj.search([('code','=',"999999"),('company_id','=',company.id)])
+#             account and account.with_context({'company_id':company.id}).write({'parent_id':parent_account_id.id})
+            return True
         self.ensure_one()
         if not company:
             company = self.env.user.company_id
-        account_tmpl_obj = self.env['account.account.template'].with_context({'show_parent_account_template':True})
+        account_tmpl_obj = self.env['account.account.template']
         account_obj = self.env['account.account']
         acc_template = account_tmpl_obj.search([('nocreate', '!=', True), ('chart_template_id', '=', self.id),
                                                 ], order='id')
         code_account_dict = {}
-        view_liquidity_type = self.env.ref('account_parent.data_account_type_view')
+        
         for account_template in acc_template:
             tax_ids = []
             for tax in account_template.tax_ids:
@@ -111,9 +120,7 @@ class AccountChartTemplate(models.Model):
             if code_account_dict.get(company.bank_account_code_prefix,False):
                 parent_account_id = code_account_dict.get(company.bank_account_code_prefix,False)
             else:
-                parent_account_id = account_obj.search([('code','=',company.bank_account_code_prefix),
-                                                        ('company_id','=',company.id),
-                                                        ('user_type_id','=',view_liquidity_type.id)], limit=1)
+                parent_account_id = account_obj.with_context({'show_parent_account':True}).search([('code','=',company.bank_account_code_prefix),('company_id','=',company.id)], limit=1)
             account = account_obj.search([('code','like',"%s%%"%company.bank_account_code_prefix),
                                                               ('id','!=',parent_account_id.id),('company_id','=',company.id)])
             account and account.write({'parent_id':parent_account_id.id})
@@ -121,16 +128,15 @@ class AccountChartTemplate(models.Model):
             if code_account_dict.get(company.cash_account_code_prefix,False):
                 parent_account_id = code_account_dict.get(company.cash_account_code_prefix,False)
             else:
-                parent_account_id = account_obj.search([('code','=',company.cash_account_code_prefix),
-                                                        ('company_id','=',company.id),
-                                                        ('user_type_id','=',view_liquidity_type.id)], limit=1)
+                parent_account_id = account_obj.with_context({'show_parent_account':True}).search([('code','=',company.cash_account_code_prefix),('company_id','=',company.id)], limit=1)
             
             account = account_obj.search([('code','like',"%s%%"%company.cash_account_code_prefix),
                                                               ('id','!=',parent_account_id.id),('company_id','=',company.id)])
             account and account.write({'parent_id':parent_account_id.id})
-        parent_template_account_id = account_tmpl_obj.search([('parent_id','=',False)], limit=1)
-        account = account_obj.search([('code','=',"999999"),('company_id','=',company.id)])
-        account and account.with_context({'company_id':company.id}).write({'parent_id':parent_template_account_id.property_temp_related_account_id.id})
+#         parent_account_id = account_obj.with_context({'show_parent_account':True}).search([('parent_id','=',False),
+#                                                              ('user_type_id','=',view_liquidity_type.id),('company_id','=',company.id)], limit=1)
+#         account = account_obj.search([('code','=',"999999"),('company_id','=',company.id)])
+#         account and account.with_context({'company_id':company.id}).write({'parent_id':parent_account_id.id})
         
         all_acc_templates = acc_template.with_context({'company_id':company.id})
         for account_template in all_acc_templates:
