@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data noupdate="0">
+
+
+    <record id="ao_483001" model="account.account.template">
+        <field name="parent_id" ref="ao_48"/>
+    </record>
+    
+    <record id="l10n_ao_chart_template" model="account.chart.template">
+        <field name="property_account_receivable_id" ref="ao_311210"/> 
+        <field name="property_account_payable_id" ref="ao_321210"/>
+        <field name="property_account_expense_categ_id" ref="ao_212100"/> 
+        <field name="property_account_income_categ_id" ref="ao_611100"/> 
+<!--         <field name="expense_currency_exchange_account_id" ref="au_61630"/> -->
+<!--         <field name="income_currency_exchange_account_id" ref="au_61630"/> -->
+    </record>
+
+
+</data>
+</openerp>

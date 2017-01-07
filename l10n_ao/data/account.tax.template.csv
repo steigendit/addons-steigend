@@ -1,0 +1,5 @@
+"id","chart_template_id:id","name","sequence","description","type_tax_use","amount_type","amount","price_include","account_id:id","refund_account_id:id","tag_ids:id"
+"ao_tax_sale_ic5","l10n_ao.l10n_ao_chart_template","I.C. 5%",1,"I.C. 5%","sale","percent",5,"FALSE","ao_342100","ao_342100",
+"ao_tax_sale_ic10","l10n_ao.l10n_ao_chart_template","I.C. 10%",2,"I.C. 10%","sale","percent",10,"FALSE","ao_342200","ao_342200",
+"ao_tax_purchase_ic5","l10n_ao.l10n_ao_chart_template","I.C. 5%",3,"I.C. 5%","purchase","percent",5,"FALSE","ao_342100","ao_342100",
+"ao_tax_purchase_ic10","l10n_ao.l10n_ao_chart_template","I.C. 10%",4,"I.C. 10%","purchase","percent",10,"FALSE","ao_342200","ao_342200",
