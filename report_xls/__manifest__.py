@@ -3,7 +3,7 @@
     'name': 'Excel Report Engine',
     'version': '0.1',
     'license': 'AGPL-3',
-    'author': "Steigend IT Solutions",
+    'author': "Steigend IT Solutions,Noviat ,Odoo Community Association (OCA)",
     'website': 'www.steigendit.com',
     'category': 'Reporting',
     'description': """
