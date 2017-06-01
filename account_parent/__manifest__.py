@@ -22,7 +22,7 @@ This module will be very useful for those who are still using v7/v8 because of t
     Contact us for any need of customisation or chart of account migration from v7/v8 - v9/v10
     """,
 
-    'author': 'Steigend IT Solutions',
+    'author': 'Steigend IT Solutions, Odoo Community Association (OCA)',
     'website': 'http://www.steigendit.com',
     'category': 'Accounting &amp; Finance',
     'version': '1.2.1',
