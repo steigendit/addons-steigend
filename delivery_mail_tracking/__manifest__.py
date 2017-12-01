@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016-2017 Steigend IT Solutions
+#    Copyright (C) 2016-TODAY Steigend IT Solutions
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
@@ -16,7 +16,7 @@ Send mails to customers regarding the shipment tracking details
     'license': 'LGPL-3',
     'website': "https://www.steigendit.com",
     'category': 'Technical Settings',
-    'version': '1.0',
+    'version': '10.0.1.1.0',
     'depends': ['delivery', 'mail'],
     'data': [
         'views/mail_template_data.xml',

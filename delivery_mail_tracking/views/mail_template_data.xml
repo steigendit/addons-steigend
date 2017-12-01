@@ -13,14 +13,14 @@
             <field name="body_html">
                 <![CDATA[
 <p>Dear ${object.partner_id.name}
-% set tracking_action = object.open_website_url()
-% set tracking_url = tracking_action['url'] or None
+% set tracking_url = object.carrier_id.get_tracking_link(object) and object.carrier_id.get_tracking_link(object)[0] or ''
 
 % if object.partner_id.parent_id:
     (<i>${object.partner_id.parent_id.name}</i>)
 % endif
 ,</p>
 <p>Your order with reference <b>${object.origin or object.name}</b> has been shipped. </p>
+
 
 <table style="width:100%;text-align:justify;margin:0 auto;border-collapse:collapse;border-top:1px solid lightgray">
 	<tbody>
@@ -37,15 +37,18 @@
 			</td>
         </tr>
         <tr>
-        	<td align="center" valign="top"  style="color:#2c2c2c;line-height:20px;font-weight:300;margin:0 auto;clear:both;background-color:#f7f7f7;padding:5px 20px 10px 20px" bgcolor="#F9F9F9"> 
-       			<a style="width:300px;margin:0px auto;background:linear-gradient(to bottom,#007fb8 1%,#6ebad5 3%,#007fb8 7%,#007fb8 100%);background-color:#007fb8;text-align:center;border:#004b91 solid 1px;padding:8px 0;text-decoration:none;border-radius:2px;display:block;color:#fff;font-size:13px" align="center" target="_blank" href="${tracking_url}"> 
-                <span style="color:#ffffff;font-size:13px;background-color:#007fb8">TRACK YOUR SHIPMENT</span> </a> 
- 				<p style="padding:0;margin:7px 0 0 0;font-size:11px;color:#848484"> Tracking ID may take up to 24 hours to get activated. </p> 
- 				<br><br>
+        	<td align="center" valign="top"  style="color:#2c2c2c;line-height:20px;font-weight:300;margin:0 auto;clear:both;background-color:#f7f7f7;padding:5px 20px 10px 20px" bgcolor="#F9F9F9">
+           		 % if object.carrier_id.name and object.carrier_tracking_ref and tracking_url:   
+                    <a style="width:300px;margin:0px auto;background:linear-gradient(to bottom,#007fb8 1%,#6ebad5 3%,#007fb8 7%,#007fb8 100%);background-color:#007fb8;text-align:center;border:#004b91 solid 1px;padding:8px 0;text-decoration:none;border-radius:2px;display:block;color:#fff;font-size:13px" align="center" target="_blank" href="${tracking_url}"> 
+                    <span style="color:#ffffff;font-size:13px;background-color:#007fb8">TRACK YOUR SHIPMENT</span> </a> 
+     				<p style="padding:0;margin:7px 0 0 0;font-size:11px;color:#848484"> Tracking ID may take up to 24 hours to get activated. </p> 
+     				<br><br>
+                 % endif
 			</td>
         </tr>
     </tbody>
 </table>  
+
 <p>Thank you,</p>
 % if object.user_id and object.user_id.signature:
     ${object.user_id.signature | safe}
@@ -55,5 +58,5 @@
             </field>
         </record>
 
-    </data>    
+  </data> 
 </odoo>
