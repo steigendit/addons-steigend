@@ -37,7 +37,6 @@ context: {'auto_switch_company_id': <id_of_the_company>}
     ],
     'license': 'LGPL-3',
     'currency': 'EUR',
-    'price': '13.0',
     'demo': [],
     'qweb':[],
     'installable': True,
