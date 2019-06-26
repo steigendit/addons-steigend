@@ -2,12 +2,12 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
 {
-    'name': "Parent Account",
+    'name': "Parent Account for v10",
     'summary': """
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
@@ -22,7 +22,7 @@ This module will be very useful for those who are still using v7/v8 because of t
     Contact us for any need of customisation or chart of account migration from v7/v8 - v9/v10
     """,
 
-    'author': 'Steigend IT Solutions, Odoo Community Association (OCA)',
+    'author': 'Omal Bastin / Steigend IT Solutions',
     'website': 'http://www.steigendit.com',
     'category': 'Accounting &amp; Finance',
     'version': '1.2.1',

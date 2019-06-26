@@ -8,7 +8,7 @@
         <field name="inherit_id" ref="account.view_account_form"/>
         <field name="arch" type="xml">
         	<field name="code" position="after">
-        		<field name="parent_id" domain="[('internal_type','=','view')]" groups="account_parent.group_coas_user" 
+        		<field name="parent_id" domain="[('internal_type','=','view')]" groups="account_parent_v10.group_coas_user" 
         			context="{'show_parent_account':True}" />
         	</field>
         </field>
@@ -18,7 +18,7 @@
     	<field name="context">{'show_parent_account':True}</field>
     </record>
         <menuitem action="account.action_account_type_form" id="menu_action_account_type_form" 
-    		parent="account.account_account_menu" sequence="1" groups="account_parent.group_coas_user"/>
+    		parent="account.account_account_menu" sequence="1" groups="account_parent_v10.group_coas_user"/>
     		
    
            <record id="view_account_tree" model="ir.ui.view">

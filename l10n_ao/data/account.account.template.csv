@@ -1,80 +1,80 @@
 "id","chart_template_id:id","code","parent_id:id","name","user_type_id:id","reconcile"
-"ao_0","l10n_ao.l10n_ao_chart_template",0,,"Account Chart - Angola","account_parent.data_account_type_view",0
-"ao_1","l10n_ao.l10n_ao_chart_template",1,"l10n_ao.ao_0","MEIOS FIXOS E INVESTIMENTOS","account_parent.data_account_type_view",0
-"ao_11","l10n_ao.l10n_ao_chart_template",11,"l10n_ao.ao_1","IMOBILIZAÇÕES CORPÓREAS","account_parent.data_account_type_view",0
-"ao_111","l10n_ao.l10n_ao_chart_template",111,"l10n_ao.ao_11","Terrenos e recursos naturais","account_parent.data_account_type_view",0
+"ao_0","l10n_ao.l10n_ao_chart_template",0,,"Account Chart - Angola","account_parent_v10.data_account_type_view",0
+"ao_1","l10n_ao.l10n_ao_chart_template",1,"l10n_ao.ao_0","MEIOS FIXOS E INVESTIMENTOS","account_parent_v10.data_account_type_view",0
+"ao_11","l10n_ao.l10n_ao_chart_template",11,"l10n_ao.ao_1","IMOBILIZAÇÕES CORPÓREAS","account_parent_v10.data_account_type_view",0
+"ao_111","l10n_ao.l10n_ao_chart_template",111,"l10n_ao.ao_11","Terrenos e recursos naturais","account_parent_v10.data_account_type_view",0
 "ao_111100","l10n_ao.l10n_ao_chart_template",111100,"l10n_ao.ao_111","Terrenos em bruto","account.data_account_type_current_assets",0
 "ao_111200","l10n_ao.l10n_ao_chart_template",111200,"l10n_ao.ao_111","Terrenos com arranjos","account.data_account_type_current_assets",0
 "ao_111300","l10n_ao.l10n_ao_chart_template",111300,"l10n_ao.ao_111","Subsolo","account.data_account_type_current_assets",0
-"ao_1114","l10n_ao.l10n_ao_chart_template",1114,"l10n_ao.ao_111","Terrenos com edifícios","account_parent.data_account_type_view",0
+"ao_1114","l10n_ao.l10n_ao_chart_template",1114,"l10n_ao.ao_111","Terrenos com edifícios","account_parent_v10.data_account_type_view",0
 "ao_111410","l10n_ao.l10n_ao_chart_template",111410,"l10n_ao.ao_1114","Relativos a edifícios industriais","account.data_account_type_current_assets",0
 "ao_111420","l10n_ao.l10n_ao_chart_template",111420,"l10n_ao.ao_1114","Relativos a edifícios administrativos e comerciais","account.data_account_type_current_assets",0
 "ao_111430","l10n_ao.l10n_ao_chart_template",111430,"l10n_ao.ao_1114","Relativos a outros edifícios","account.data_account_type_current_assets",0
-"ao_112","l10n_ao.l10n_ao_chart_template",112,"l10n_ao.ao_11","Edifícios e Outras Construções","account_parent.data_account_type_view",0
-"ao_1121","l10n_ao.l10n_ao_chart_template",1121,"l10n_ao.ao_112","Edifícios","account_parent.data_account_type_view",0
+"ao_112","l10n_ao.l10n_ao_chart_template",112,"l10n_ao.ao_11","Edifícios e Outras Construções","account_parent_v10.data_account_type_view",0
+"ao_1121","l10n_ao.l10n_ao_chart_template",1121,"l10n_ao.ao_112","Edifícios","account_parent_v10.data_account_type_view",0
 "ao_112110","l10n_ao.l10n_ao_chart_template",112110,"l10n_ao.ao_1121","Integrados em conjuntos industriais","account.data_account_type_current_assets",0
 "ao_112120","l10n_ao.l10n_ao_chart_template",112120,"l10n_ao.ao_1121","Integrados em conjuntos administrativos e comerciais","account.data_account_type_current_assets",0
 "ao_112130","l10n_ao.l10n_ao_chart_template",112130,"l10n_ao.ao_1121","Outros conjuntos industriais","account.data_account_type_current_assets",0
 "ao_112140","l10n_ao.l10n_ao_chart_template",112140,"l10n_ao.ao_1121","Implantados em propriedade alheia","account.data_account_type_current_assets",0
 "ao_112200","l10n_ao.l10n_ao_chart_template",112200,"l10n_ao.ao_112","Outras construções","account.data_account_type_current_assets",0
 "ao_112300","l10n_ao.l10n_ao_chart_template",112300,"l10n_ao.ao_112","Instalações","account.data_account_type_current_assets",0
-"ao_113","l10n_ao.l10n_ao_chart_template",113,"l10n_ao.ao_11","Equipamento Básico","account_parent.data_account_type_view",0
+"ao_113","l10n_ao.l10n_ao_chart_template",113,"l10n_ao.ao_11","Equipamento Básico","account_parent_v10.data_account_type_view",0
 "ao_113100","l10n_ao.l10n_ao_chart_template",113100,"l10n_ao.ao_113","Material industrial","account.data_account_type_current_assets",0
 "ao_113200","l10n_ao.l10n_ao_chart_template",113200,"l10n_ao.ao_113","Ferramentas industriais","account.data_account_type_current_assets",0
 "ao_113300","l10n_ao.l10n_ao_chart_template",113300,"l10n_ao.ao_113","Melhoramentos em equipamentos básicos","account.data_account_type_current_assets",0
-"ao_114","l10n_ao.l10n_ao_chart_template",114,"l10n_ao.ao_11","Equipamentos de carga e transporte","account_parent.data_account_type_view",0
+"ao_114","l10n_ao.l10n_ao_chart_template",114,"l10n_ao.ao_11","Equipamentos de carga e transporte","account_parent_v10.data_account_type_view",0
 "ao_114100","l10n_ao.l10n_ao_chart_template",114100,"l10n_ao.ao_114","Equipamentos de carga e transporte","account.data_account_type_current_assets",0
-"ao_115","l10n_ao.l10n_ao_chart_template",115,"l10n_ao.ao_11","Equipamento administrativo","account_parent.data_account_type_view",0
+"ao_115","l10n_ao.l10n_ao_chart_template",115,"l10n_ao.ao_11","Equipamento administrativo","account_parent_v10.data_account_type_view",0
 "ao_115100","l10n_ao.l10n_ao_chart_template",115100,"l10n_ao.ao_115","Equipamento administrativo","account.data_account_type_current_assets",0
-"ao_116","l10n_ao.l10n_ao_chart_template",116,"l10n_ao.ao_11","Taras e vasilhame","account_parent.data_account_type_view",0
+"ao_116","l10n_ao.l10n_ao_chart_template",116,"l10n_ao.ao_11","Taras e vasilhame","account_parent_v10.data_account_type_view",0
 "ao_116100","l10n_ao.l10n_ao_chart_template",116100,"l10n_ao.ao_116","Taras e vasilhame","account.data_account_type_current_assets",0
-"ao_119","l10n_ao.l10n_ao_chart_template",119,"l10n_ao.ao_11","Outras imobilizações corpóreas","account_parent.data_account_type_view",0
+"ao_119","l10n_ao.l10n_ao_chart_template",119,"l10n_ao.ao_11","Outras imobilizações corpóreas","account_parent_v10.data_account_type_view",0
 "ao_119100","l10n_ao.l10n_ao_chart_template",119100,"l10n_ao.ao_119","Outras imobilizações corpóreas","account.data_account_type_current_assets",0
-"ao_12","l10n_ao.l10n_ao_chart_template",12,"l10n_ao.ao_1","IMOBILIZAÇÕES INCORPÓREAS","account_parent.data_account_type_view",0
-"ao_121","l10n_ao.l10n_ao_chart_template",121,"l10n_ao.ao_12","Trespasses","account_parent.data_account_type_view",0
+"ao_12","l10n_ao.l10n_ao_chart_template",12,"l10n_ao.ao_1","IMOBILIZAÇÕES INCORPÓREAS","account_parent_v10.data_account_type_view",0
+"ao_121","l10n_ao.l10n_ao_chart_template",121,"l10n_ao.ao_12","Trespasses","account_parent_v10.data_account_type_view",0
 "ao_121100","l10n_ao.l10n_ao_chart_template",121100,"l10n_ao.ao_121","Trespasses","account.data_account_type_current_assets",0
-"ao_122","l10n_ao.l10n_ao_chart_template",122,"l10n_ao.ao_12","Despesas de investigação e desenvolvimento","account_parent.data_account_type_view",0
+"ao_122","l10n_ao.l10n_ao_chart_template",122,"l10n_ao.ao_12","Despesas de investigação e desenvolvimento","account_parent_v10.data_account_type_view",0
 "ao_122100","l10n_ao.l10n_ao_chart_template",122100,"l10n_ao.ao_122","Despesas de investigação e desenvolvimento","account.data_account_type_current_assets",0
-"ao_123","l10n_ao.l10n_ao_chart_template",123,"l10n_ao.ao_12","Propriedade industrial e outros direitos e contratos","account_parent.data_account_type_view",0
+"ao_123","l10n_ao.l10n_ao_chart_template",123,"l10n_ao.ao_12","Propriedade industrial e outros direitos e contratos","account_parent_v10.data_account_type_view",0
 "ao_123100","l10n_ao.l10n_ao_chart_template",123100,"l10n_ao.ao_123","Propriedade industrial e outros direitos e contratos","account.data_account_type_current_assets",0
-"ao_124","l10n_ao.l10n_ao_chart_template",124,"l10n_ao.ao_12","Despesas de constituição","account_parent.data_account_type_view",0
+"ao_124","l10n_ao.l10n_ao_chart_template",124,"l10n_ao.ao_12","Despesas de constituição","account_parent_v10.data_account_type_view",0
 "ao_124100","l10n_ao.l10n_ao_chart_template",124100,"l10n_ao.ao_124","Despesas de constituição","account.data_account_type_current_assets",0
-"ao_129","l10n_ao.l10n_ao_chart_template",129,"l10n_ao.ao_12","Outras imobilizações incorpóreas","account_parent.data_account_type_view",0
+"ao_129","l10n_ao.l10n_ao_chart_template",129,"l10n_ao.ao_12","Outras imobilizações incorpóreas","account_parent_v10.data_account_type_view",0
 "ao_129100","l10n_ao.l10n_ao_chart_template",129100,"l10n_ao.ao_129","Outras imobilizações incorpóreas","account.data_account_type_current_assets",0
-"ao_13","l10n_ao.l10n_ao_chart_template",13,"l10n_ao.ao_1","INVESTIMENTOS FINANCEIROS","account_parent.data_account_type_view",0
-"ao_131","l10n_ao.l10n_ao_chart_template",131,"l10n_ao.ao_13","Empresas Subsidiárias","account_parent.data_account_type_view",0
+"ao_13","l10n_ao.l10n_ao_chart_template",13,"l10n_ao.ao_1","INVESTIMENTOS FINANCEIROS","account_parent_v10.data_account_type_view",0
+"ao_131","l10n_ao.l10n_ao_chart_template",131,"l10n_ao.ao_13","Empresas Subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_131100","l10n_ao.l10n_ao_chart_template",131100,"l10n_ao.ao_131","Partes de capital","account.data_account_type_current_assets",0
 "ao_131200","l10n_ao.l10n_ao_chart_template",131200,"l10n_ao.ao_131","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_131300","l10n_ao.l10n_ao_chart_template",131300,"l10n_ao.ao_131","Empréstimos","account.data_account_type_current_assets",0
-"ao_132","l10n_ao.l10n_ao_chart_template",132,"l10n_ao.ao_13","Empresas associadas","account_parent.data_account_type_view",0
+"ao_132","l10n_ao.l10n_ao_chart_template",132,"l10n_ao.ao_13","Empresas associadas","account_parent_v10.data_account_type_view",0
 "ao_132100","l10n_ao.l10n_ao_chart_template",132100,"l10n_ao.ao_132","Partes de capital","account.data_account_type_current_assets",0
 "ao_132200","l10n_ao.l10n_ao_chart_template",132200,"l10n_ao.ao_132","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_132300","l10n_ao.l10n_ao_chart_template",132300,"l10n_ao.ao_132","Empréstimos","account.data_account_type_current_assets",0
-"ao_133","l10n_ao.l10n_ao_chart_template",133,"l10n_ao.ao_13","Outras empresas","account_parent.data_account_type_view",0
+"ao_133","l10n_ao.l10n_ao_chart_template",133,"l10n_ao.ao_13","Outras empresas","account_parent_v10.data_account_type_view",0
 "ao_133100","l10n_ao.l10n_ao_chart_template",133100,"l10n_ao.ao_133","Partes de capital","account.data_account_type_current_assets",0
 "ao_133200","l10n_ao.l10n_ao_chart_template",133200,"l10n_ao.ao_133","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_133300","l10n_ao.l10n_ao_chart_template",133300,"l10n_ao.ao_133","Empréstimos","account.data_account_type_current_assets",0
-"ao_134","l10n_ao.l10n_ao_chart_template",134,"l10n_ao.ao_13","Investimentos em imóveis","account_parent.data_account_type_view",0
+"ao_134","l10n_ao.l10n_ao_chart_template",134,"l10n_ao.ao_13","Investimentos em imóveis","account_parent_v10.data_account_type_view",0
 "ao_134100","l10n_ao.l10n_ao_chart_template",134100,"l10n_ao.ao_134","Investimentos em imóveis","account.data_account_type_current_assets",0
-"ao_135","l10n_ao.l10n_ao_chart_template",135,"l10n_ao.ao_13","Fundos","account_parent.data_account_type_view",0
+"ao_135","l10n_ao.l10n_ao_chart_template",135,"l10n_ao.ao_13","Fundos","account_parent_v10.data_account_type_view",0
 "ao_135100","l10n_ao.l10n_ao_chart_template",135100,"l10n_ao.ao_135","Fundos","account.data_account_type_current_assets",0
-"ao_139","l10n_ao.l10n_ao_chart_template",139,"l10n_ao.ao_13","Outros investimentos financeiros","account_parent.data_account_type_view",0
+"ao_139","l10n_ao.l10n_ao_chart_template",139,"l10n_ao.ao_13","Outros investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_139100","l10n_ao.l10n_ao_chart_template",139100,"l10n_ao.ao_139","Diamantes","account.data_account_type_current_assets",0
 "ao_139200","l10n_ao.l10n_ao_chart_template",139200,"l10n_ao.ao_139","Ouro","account.data_account_type_current_assets",0
 "ao_139300","l10n_ao.l10n_ao_chart_template",139300,"l10n_ao.ao_139","Depósitos bancários","account.data_account_type_current_assets",0
-"ao_14","l10n_ao.l10n_ao_chart_template",14,"l10n_ao.ao_1","IMOBILIZAÇÕES EM CURSO","account_parent.data_account_type_view",0
-"ao_141","l10n_ao.l10n_ao_chart_template",141,"l10n_ao.ao_14","Obra em curso","account_parent.data_account_type_view",0
+"ao_14","l10n_ao.l10n_ao_chart_template",14,"l10n_ao.ao_1","IMOBILIZAÇÕES EM CURSO","account_parent_v10.data_account_type_view",0
+"ao_141","l10n_ao.l10n_ao_chart_template",141,"l10n_ao.ao_14","Obra em curso","account_parent_v10.data_account_type_view",0
 "ao_141100","l10n_ao.l10n_ao_chart_template",141100,"l10n_ao.ao_141","Obra em curso","account.data_account_type_current_assets",0
-"ao_142","l10n_ao.l10n_ao_chart_template",142,"l10n_ao.ao_14","Obra em curso","account_parent.data_account_type_view",0
+"ao_142","l10n_ao.l10n_ao_chart_template",142,"l10n_ao.ao_14","Obra em curso","account_parent_v10.data_account_type_view",0
 "ao_142100","l10n_ao.l10n_ao_chart_template",142100,"l10n_ao.ao_142","Obra em curso","account.data_account_type_current_assets",0
-"ao_147","l10n_ao.l10n_ao_chart_template",147,"l10n_ao.ao_14","Adiantamentos por conta de imobilizado corpóreo","account_parent.data_account_type_view",0
+"ao_147","l10n_ao.l10n_ao_chart_template",147,"l10n_ao.ao_14","Adiantamentos por conta de imobilizado corpóreo","account_parent_v10.data_account_type_view",0
 "ao_147100","l10n_ao.l10n_ao_chart_template",147100,"l10n_ao.ao_147","Adiantamentos por conta de imobilizado corpóreo","account.data_account_type_current_assets",0
-"ao_148","l10n_ao.l10n_ao_chart_template",148,"l10n_ao.ao_14","Adiantamento por conta de imobilizado incorpóreo","account_parent.data_account_type_view",0
+"ao_148","l10n_ao.l10n_ao_chart_template",148,"l10n_ao.ao_14","Adiantamento por conta de imobilizado incorpóreo","account_parent_v10.data_account_type_view",0
 "ao_148100","l10n_ao.l10n_ao_chart_template",148100,"l10n_ao.ao_148","Adiantamentos por conta de imobilizado incorpóreo","account.data_account_type_current_assets",0
-"ao_149","l10n_ao.l10n_ao_chart_template",149,"l10n_ao.ao_14","Adiantamentos por conta de investimentos financeiros","account_parent.data_account_type_view",0
+"ao_149","l10n_ao.l10n_ao_chart_template",149,"l10n_ao.ao_14","Adiantamentos por conta de investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_149100","l10n_ao.l10n_ao_chart_template",149100,"l10n_ao.ao_149","Adiantamentos por conta de investimentos financeiros","account.data_account_type_current_assets",0
-"ao_18","l10n_ao.l10n_ao_chart_template",18,"l10n_ao.ao_1","AMORTIZAÇÕES ACUMULADAS","account_parent.data_account_type_view",0
-"ao_181","l10n_ao.l10n_ao_chart_template",181,"l10n_ao.ao_18","Imobilizações corpóreas","account_parent.data_account_type_view",0
+"ao_18","l10n_ao.l10n_ao_chart_template",18,"l10n_ao.ao_1","AMORTIZAÇÕES ACUMULADAS","account_parent_v10.data_account_type_view",0
+"ao_181","l10n_ao.l10n_ao_chart_template",181,"l10n_ao.ao_18","Imobilizações corpóreas","account_parent_v10.data_account_type_view",0
 "ao_181100","l10n_ao.l10n_ao_chart_template",181100,"l10n_ao.ao_181","Terrenos e recursos naturais","account.data_account_type_current_assets",0
 "ao_181200","l10n_ao.l10n_ao_chart_template",181200,"l10n_ao.ao_181","Edifícios e outras construções","account.data_account_type_current_assets",0
 "ao_181300","l10n_ao.l10n_ao_chart_template",181300,"l10n_ao.ao_181","Equipamento básico","account.data_account_type_current_assets",0
@@ -82,466 +82,466 @@
 "ao_181500","l10n_ao.l10n_ao_chart_template",181500,"l10n_ao.ao_181","Equipamento administrativo","account.data_account_type_current_assets",0
 "ao_181600","l10n_ao.l10n_ao_chart_template",181600,"l10n_ao.ao_181","Taras e vasilhame","account.data_account_type_current_assets",0
 "ao_181900","l10n_ao.l10n_ao_chart_template",181900,"l10n_ao.ao_181","Outras imobilizações corpóreas","account.data_account_type_current_assets",0
-"ao_182","l10n_ao.l10n_ao_chart_template",182,"l10n_ao.ao_18","Imobilizações incorpóreas","account_parent.data_account_type_view",0
+"ao_182","l10n_ao.l10n_ao_chart_template",182,"l10n_ao.ao_18","Imobilizações incorpóreas","account_parent_v10.data_account_type_view",0
 "ao_182100","l10n_ao.l10n_ao_chart_template",182100,"l10n_ao.ao_182","Trespasses","account.data_account_type_current_assets",0
 "ao_182200","l10n_ao.l10n_ao_chart_template",182200,"l10n_ao.ao_182","Despesas de investigação e desenvolvimento","account.data_account_type_current_assets",0
 "ao_182300","l10n_ao.l10n_ao_chart_template",182300,"l10n_ao.ao_182","Propriedade industrial e outros direitos e contratos","account.data_account_type_current_assets",0
 "ao_182400","l10n_ao.l10n_ao_chart_template",182400,"l10n_ao.ao_182","Despesas de constituição","account.data_account_type_current_assets",0
 "ao_182900","l10n_ao.l10n_ao_chart_template",182900,"l10n_ao.ao_182","Outras imobilizações incorpóreas","account.data_account_type_current_assets",0
-"ao_183","l10n_ao.l10n_ao_chart_template",183,"l10n_ao.ao_18","Investimentos financeiros em imóveis","account_parent.data_account_type_view",0
+"ao_183","l10n_ao.l10n_ao_chart_template",183,"l10n_ao.ao_18","Investimentos financeiros em imóveis","account_parent_v10.data_account_type_view",0
 "ao_183100","l10n_ao.l10n_ao_chart_template",183100,"l10n_ao.ao_183","Terrenos e recursos naturais","account.data_account_type_current_assets",0
 "ao_183200","l10n_ao.l10n_ao_chart_template",183200,"l10n_ao.ao_183","Edifícios e outras construções","account.data_account_type_current_assets",0
-"ao_19","l10n_ao.l10n_ao_chart_template",19,"l10n_ao.ao_1","PROVISÕES PARA INVESTIMENTOS FINANCEIROS","account_parent.data_account_type_view",0
-"ao_191","l10n_ao.l10n_ao_chart_template",191,"l10n_ao.ao_19","Empresas Subsidiárias","account_parent.data_account_type_view",0
+"ao_19","l10n_ao.l10n_ao_chart_template",19,"l10n_ao.ao_1","PROVISÕES PARA INVESTIMENTOS FINANCEIROS","account_parent_v10.data_account_type_view",0
+"ao_191","l10n_ao.l10n_ao_chart_template",191,"l10n_ao.ao_19","Empresas Subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_191100","l10n_ao.l10n_ao_chart_template",191100,"l10n_ao.ao_191","Partes de capital","account.data_account_type_current_assets",0
 "ao_191200","l10n_ao.l10n_ao_chart_template",191200,"l10n_ao.ao_191","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_191300","l10n_ao.l10n_ao_chart_template",191300,"l10n_ao.ao_191","Empréstimos","account.data_account_type_current_assets",0
-"ao_192","l10n_ao.l10n_ao_chart_template",192,"l10n_ao.ao_19","Empresas associadas","account_parent.data_account_type_view",0
+"ao_192","l10n_ao.l10n_ao_chart_template",192,"l10n_ao.ao_19","Empresas associadas","account_parent_v10.data_account_type_view",0
 "ao_192100","l10n_ao.l10n_ao_chart_template",192100,"l10n_ao.ao_192","Partes de capital","account.data_account_type_current_assets",0
 "ao_192200","l10n_ao.l10n_ao_chart_template",192200,"l10n_ao.ao_192","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_192300","l10n_ao.l10n_ao_chart_template",192300,"l10n_ao.ao_192","Empréstimos","account.data_account_type_current_assets",0
-"ao_193","l10n_ao.l10n_ao_chart_template",193,"l10n_ao.ao_19","Outras empresas","account_parent.data_account_type_view",0
+"ao_193","l10n_ao.l10n_ao_chart_template",193,"l10n_ao.ao_19","Outras empresas","account_parent_v10.data_account_type_view",0
 "ao_193100","l10n_ao.l10n_ao_chart_template",193100,"l10n_ao.ao_193","Partes de capital","account.data_account_type_current_assets",0
 "ao_193200","l10n_ao.l10n_ao_chart_template",193200,"l10n_ao.ao_193","Obrigações e títulos de participação","account.data_account_type_current_assets",0
 "ao_193300","l10n_ao.l10n_ao_chart_template",193300,"l10n_ao.ao_193","Empréstimos","account.data_account_type_current_assets",0
-"ao_194","l10n_ao.l10n_ao_chart_template",194,"l10n_ao.ao_19","Fundos","account_parent.data_account_type_view",0
+"ao_194","l10n_ao.l10n_ao_chart_template",194,"l10n_ao.ao_19","Fundos","account_parent_v10.data_account_type_view",0
 "ao_194100","l10n_ao.l10n_ao_chart_template",194100,"l10n_ao.ao_194","Partes de capital","account.data_account_type_current_assets",0
-"ao_199","l10n_ao.l10n_ao_chart_template",199,"l10n_ao.ao_19","Outros investimentos financeiros","account_parent.data_account_type_view",0
+"ao_199","l10n_ao.l10n_ao_chart_template",199,"l10n_ao.ao_19","Outros investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_199100","l10n_ao.l10n_ao_chart_template",199100,"l10n_ao.ao_199","Diamantes","account.data_account_type_current_assets",0
 "ao_199200","l10n_ao.l10n_ao_chart_template",199200,"l10n_ao.ao_199","Ouro","account.data_account_type_current_assets",0
 "ao_199300","l10n_ao.l10n_ao_chart_template",199300,"l10n_ao.ao_199","Depósitos bancários","account.data_account_type_current_assets",0
-"ao_2","l10n_ao.l10n_ao_chart_template",2,"l10n_ao.ao_0","EXISTÊNCIAS","account_parent.data_account_type_view",0
-"ao_21","l10n_ao.l10n_ao_chart_template",21,"l10n_ao.ao_2","COMPRAS","account_parent.data_account_type_view",0
-"ao_211","l10n_ao.l10n_ao_chart_template",211,"l10n_ao.ao_21","Matériais-primas,subsidiárias e de consumo","account_parent.data_account_type_view",0
-"ao_212","l10n_ao.l10n_ao_chart_template",212,"l10n_ao.ao_21","Mercadorias","account_parent.data_account_type_view",0
+"ao_2","l10n_ao.l10n_ao_chart_template",2,"l10n_ao.ao_0","EXISTÊNCIAS","account_parent_v10.data_account_type_view",0
+"ao_21","l10n_ao.l10n_ao_chart_template",21,"l10n_ao.ao_2","COMPRAS","account_parent_v10.data_account_type_view",0
+"ao_211","l10n_ao.l10n_ao_chart_template",211,"l10n_ao.ao_21","Matériais-primas,subsidiárias e de consumo","account_parent_v10.data_account_type_view",0
+"ao_212","l10n_ao.l10n_ao_chart_template",212,"l10n_ao.ao_21","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_212100","l10n_ao.l10n_ao_chart_template",212100,"l10n_ao.ao_212","Aquisição mercadorias","account.data_account_type_expenses",0
-"ao_217","l10n_ao.l10n_ao_chart_template",217,"l10n_ao.ao_21","Devoluções de compras","account_parent.data_account_type_view",0
+"ao_217","l10n_ao.l10n_ao_chart_template",217,"l10n_ao.ao_21","Devoluções de compras","account_parent_v10.data_account_type_view",0
 "ao_217100","l10n_ao.l10n_ao_chart_template",217100,"l10n_ao.ao_217","Devoluções de compras","account.data_account_type_expenses",0
-"ao_218","l10n_ao.l10n_ao_chart_template",218,"l10n_ao.ao_21","Descontos e abatimentos em compras","account_parent.data_account_type_view",0
+"ao_218","l10n_ao.l10n_ao_chart_template",218,"l10n_ao.ao_21","Descontos e abatimentos em compras","account_parent_v10.data_account_type_view",0
 "ao_218100","l10n_ao.l10n_ao_chart_template",218100,"l10n_ao.ao_218","Descontos e abatimentos em compras","account.data_account_type_expenses",0
-"ao_219","l10n_ao.l10n_ao_chart_template",219,"l10n_ao.ao_21","Descontos diversos","account_parent.data_account_type_view",0
+"ao_219","l10n_ao.l10n_ao_chart_template",219,"l10n_ao.ao_21","Descontos diversos","account_parent_v10.data_account_type_view",0
 "ao_219100","l10n_ao.l10n_ao_chart_template",219100,"l10n_ao.ao_219","Descontos diversos","account.data_account_type_expenses",0
-"ao_22","l10n_ao.l10n_ao_chart_template",22,"l10n_ao.ao_2","MATÉRIAS PRIMAS, SUBSIDIÁRIAS E DE CONSUMO","account_parent.data_account_type_view",0
-"ao_221","l10n_ao.l10n_ao_chart_template",221,"l10n_ao.ao_22","Matérias-primas","account_parent.data_account_type_view",0
+"ao_22","l10n_ao.l10n_ao_chart_template",22,"l10n_ao.ao_2","MATÉRIAS PRIMAS, SUBSIDIÁRIAS E DE CONSUMO","account_parent_v10.data_account_type_view",0
+"ao_221","l10n_ao.l10n_ao_chart_template",221,"l10n_ao.ao_22","Matérias-primas","account_parent_v10.data_account_type_view",0
 "ao_221100","l10n_ao.l10n_ao_chart_template",221100,"l10n_ao.ao_221","Matérias-primas","account.data_account_type_expenses",0
-"ao_222","l10n_ao.l10n_ao_chart_template",222,"l10n_ao.ao_22","Matérias subsidiárias","account_parent.data_account_type_view",0
+"ao_222","l10n_ao.l10n_ao_chart_template",222,"l10n_ao.ao_22","Matérias subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_222100","l10n_ao.l10n_ao_chart_template",222100,"l10n_ao.ao_222","Matérias subsidiárias","account.data_account_type_expenses",0
-"ao_223","l10n_ao.l10n_ao_chart_template",223,"l10n_ao.ao_22","Materiais diversos","account_parent.data_account_type_view",0
+"ao_223","l10n_ao.l10n_ao_chart_template",223,"l10n_ao.ao_22","Materiais diversos","account_parent_v10.data_account_type_view",0
 "ao_223100","l10n_ao.l10n_ao_chart_template",223100,"l10n_ao.ao_223","Materiais diversos","account.data_account_type_expenses",0
-"ao_224","l10n_ao.l10n_ao_chart_template",224,"l10n_ao.ao_22","Embalagens de consumo","account_parent.data_account_type_view",0
+"ao_224","l10n_ao.l10n_ao_chart_template",224,"l10n_ao.ao_22","Embalagens de consumo","account_parent_v10.data_account_type_view",0
 "ao_224100","l10n_ao.l10n_ao_chart_template",224100,"l10n_ao.ao_224","Embalagens de consumo","account.data_account_type_expenses",0
-"ao_225","l10n_ao.l10n_ao_chart_template",225,"l10n_ao.ao_22","Outros materiais","account_parent.data_account_type_view",0
+"ao_225","l10n_ao.l10n_ao_chart_template",225,"l10n_ao.ao_22","Outros materiais","account_parent_v10.data_account_type_view",0
 "ao_225100","l10n_ao.l10n_ao_chart_template",225100,"l10n_ao.ao_225","Outros materiais","account.data_account_type_expenses",0
-"ao_23","l10n_ao.l10n_ao_chart_template",23,"l10n_ao.ao_2","PRODUTOS E TRABALHOS EM CURSO","account_parent.data_account_type_view",0
+"ao_23","l10n_ao.l10n_ao_chart_template",23,"l10n_ao.ao_2","PRODUTOS E TRABALHOS EM CURSO","account_parent_v10.data_account_type_view",0
 "ao_231000","l10n_ao.l10n_ao_chart_template",231000,"l10n_ao.ao_23","Produtos e trabalhos em curso","account.data_account_type_expenses",0
 "ao_232000","l10n_ao.l10n_ao_chart_template",232000,"l10n_ao.ao_23","Produtos e trabalhos em curso","account.data_account_type_expenses",0
-"ao_24","l10n_ao.l10n_ao_chart_template",24,"l10n_ao.ao_2","PRODUTOS ACABADOS E INTERMÉDIOS","account_parent.data_account_type_view",0
-"ao_241","l10n_ao.l10n_ao_chart_template",241,"l10n_ao.ao_24","Produtos acabados","account_parent.data_account_type_view",0
+"ao_24","l10n_ao.l10n_ao_chart_template",24,"l10n_ao.ao_2","PRODUTOS ACABADOS E INTERMÉDIOS","account_parent_v10.data_account_type_view",0
+"ao_241","l10n_ao.l10n_ao_chart_template",241,"l10n_ao.ao_24","Produtos acabados","account_parent_v10.data_account_type_view",0
 "ao_241100","l10n_ao.l10n_ao_chart_template",241100,"l10n_ao.ao_241","Produtos acabados","account.data_account_type_expenses",0
-"ao_242","l10n_ao.l10n_ao_chart_template",242,"l10n_ao.ao_24","Produtos intermédios","account_parent.data_account_type_view",0
+"ao_242","l10n_ao.l10n_ao_chart_template",242,"l10n_ao.ao_24","Produtos intermédios","account_parent_v10.data_account_type_view",0
 "ao_242100","l10n_ao.l10n_ao_chart_template",242100,"l10n_ao.ao_242","Produtos intermédios","account.data_account_type_expenses",0
-"ao_249","l10n_ao.l10n_ao_chart_template",249,"l10n_ao.ao_24","Em poder de terceiros","account_parent.data_account_type_view",0
+"ao_249","l10n_ao.l10n_ao_chart_template",249,"l10n_ao.ao_24","Em poder de terceiros","account_parent_v10.data_account_type_view",0
 "ao_249100","l10n_ao.l10n_ao_chart_template",249100,"l10n_ao.ao_249","Em poder de terceiros","account.data_account_type_expenses",0
-"ao_25","l10n_ao.l10n_ao_chart_template",25,"l10n_ao.ao_2","SUBPRODUTOS, DESPERDÍCIOS, RESÍDUOS E REFUGOS","account_parent.data_account_type_view",0
-"ao_251","l10n_ao.l10n_ao_chart_template",251,"l10n_ao.ao_25","Subprodutos","account_parent.data_account_type_view",0
+"ao_25","l10n_ao.l10n_ao_chart_template",25,"l10n_ao.ao_2","SUBPRODUTOS, DESPERDÍCIOS, RESÍDUOS E REFUGOS","account_parent_v10.data_account_type_view",0
+"ao_251","l10n_ao.l10n_ao_chart_template",251,"l10n_ao.ao_25","Subprodutos","account_parent_v10.data_account_type_view",0
 "ao_251100","l10n_ao.l10n_ao_chart_template",251100,"l10n_ao.ao_251","Subprodutos","account.data_account_type_expenses",0
-"ao_252","l10n_ao.l10n_ao_chart_template",252,"l10n_ao.ao_25","Desperdicios, resíduos e refugos","account_parent.data_account_type_view",0
+"ao_252","l10n_ao.l10n_ao_chart_template",252,"l10n_ao.ao_25","Desperdicios, resíduos e refugos","account_parent_v10.data_account_type_view",0
 "ao_252100","l10n_ao.l10n_ao_chart_template",252100,"l10n_ao.ao_252","Desperdicios, resíduos e refugos","account.data_account_type_expenses",0
-"ao_26","l10n_ao.l10n_ao_chart_template",26,"l10n_ao.ao_2","MERCADORIAS","account_parent.data_account_type_view",0
-"ao_261","l10n_ao.l10n_ao_chart_template",261,"l10n_ao.ao_26","Mercadorias","account_parent.data_account_type_view",0
+"ao_26","l10n_ao.l10n_ao_chart_template",26,"l10n_ao.ao_2","MERCADORIAS","account_parent_v10.data_account_type_view",0
+"ao_261","l10n_ao.l10n_ao_chart_template",261,"l10n_ao.ao_26","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_261000","l10n_ao.l10n_ao_chart_template",261000,"l10n_ao.ao_261","Mercadorias","account.data_account_type_expenses",0
 "ao_262000","l10n_ao.l10n_ao_chart_template",262000,"l10n_ao.ao_261","Mercadorias","account.data_account_type_expenses",0
-"ao_269","l10n_ao.l10n_ao_chart_template",269,"l10n_ao.ao_26","Em poder de terceiros","account_parent.data_account_type_view",0
+"ao_269","l10n_ao.l10n_ao_chart_template",269,"l10n_ao.ao_26","Em poder de terceiros","account_parent_v10.data_account_type_view",0
 "ao_269100","l10n_ao.l10n_ao_chart_template",269100,"l10n_ao.ao_269","Em poder de terceiros","account.data_account_type_expenses",0
-"ao_27","l10n_ao.l10n_ao_chart_template",27,"l10n_ao.ao_2","MATÉRIAS-PRIMAS,MERCADORIAS E OUTROS MATERIAIS EM TRÂNSITO","account_parent.data_account_type_view",0
-"ao_271","l10n_ao.l10n_ao_chart_template",271,"l10n_ao.ao_27","Matérias-primas","account_parent.data_account_type_view",0
+"ao_27","l10n_ao.l10n_ao_chart_template",27,"l10n_ao.ao_2","MATÉRIAS-PRIMAS,MERCADORIAS E OUTROS MATERIAIS EM TRÂNSITO","account_parent_v10.data_account_type_view",0
+"ao_271","l10n_ao.l10n_ao_chart_template",271,"l10n_ao.ao_27","Matérias-primas","account_parent_v10.data_account_type_view",0
 "ao_271100","l10n_ao.l10n_ao_chart_template",271100,"l10n_ao.ao_271","Matérias-primas","account.data_account_type_expenses",0
-"ao_272","l10n_ao.l10n_ao_chart_template",272,"l10n_ao.ao_27","Outros materiais","account_parent.data_account_type_view",0
+"ao_272","l10n_ao.l10n_ao_chart_template",272,"l10n_ao.ao_27","Outros materiais","account_parent_v10.data_account_type_view",0
 "ao_272100","l10n_ao.l10n_ao_chart_template",272100,"l10n_ao.ao_272","Outros materiais","account.data_account_type_expenses",0
-"ao_273","l10n_ao.l10n_ao_chart_template",273,"l10n_ao.ao_27","Mercadorias","account_parent.data_account_type_view",0
+"ao_273","l10n_ao.l10n_ao_chart_template",273,"l10n_ao.ao_27","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_273100","l10n_ao.l10n_ao_chart_template",273100,"l10n_ao.ao_273","Mercadorias","account.data_account_type_expenses",0
-"ao_28","l10n_ao.l10n_ao_chart_template",28,"l10n_ao.ao_2","ADIANTAMENTOS POR CONTA DE COMPRAS","account_parent.data_account_type_view",0
-"ao_281","l10n_ao.l10n_ao_chart_template",281,"l10n_ao.ao_28","Matérias-primas e outros materiais","account_parent.data_account_type_view",0
+"ao_28","l10n_ao.l10n_ao_chart_template",28,"l10n_ao.ao_2","ADIANTAMENTOS POR CONTA DE COMPRAS","account_parent_v10.data_account_type_view",0
+"ao_281","l10n_ao.l10n_ao_chart_template",281,"l10n_ao.ao_28","Matérias-primas e outros materiais","account_parent_v10.data_account_type_view",0
 "ao_281100","l10n_ao.l10n_ao_chart_template",281100,"l10n_ao.ao_281","Matérias-primas e outros materiais","account.data_account_type_expenses",0
-"ao_282","l10n_ao.l10n_ao_chart_template",282,"l10n_ao.ao_28","Mercadorias","account_parent.data_account_type_view",0
+"ao_282","l10n_ao.l10n_ao_chart_template",282,"l10n_ao.ao_28","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_282100","l10n_ao.l10n_ao_chart_template",282100,"l10n_ao.ao_282","Mercadorias","account.data_account_type_expenses",0
-"ao_29","l10n_ao.l10n_ao_chart_template",29,"l10n_ao.ao_2","PROVISÃO PARA DEPRECIAÇÃO DE EXISTENCIAS","account_parent.data_account_type_view",0
-"ao_291","l10n_ao.l10n_ao_chart_template",291,"l10n_ao.ao_29","Provisão para depreciação de existências","account_parent.data_account_type_view",0
+"ao_29","l10n_ao.l10n_ao_chart_template",29,"l10n_ao.ao_2","PROVISÃO PARA DEPRECIAÇÃO DE EXISTENCIAS","account_parent_v10.data_account_type_view",0
+"ao_291","l10n_ao.l10n_ao_chart_template",291,"l10n_ao.ao_29","Provisão para depreciação de existências","account_parent_v10.data_account_type_view",0
 "ao_291100","l10n_ao.l10n_ao_chart_template",291100,"l10n_ao.ao_291","Provisão para depreciação de existências","account.data_account_type_expenses",0
-"ao_292","l10n_ao.l10n_ao_chart_template",292,"l10n_ao.ao_29","Matérias-prima, subsidiárias e de consumo","account_parent.data_account_type_view",0
+"ao_292","l10n_ao.l10n_ao_chart_template",292,"l10n_ao.ao_29","Matérias-prima, subsidiárias e de consumo","account_parent_v10.data_account_type_view",0
 "ao_292100","l10n_ao.l10n_ao_chart_template",292100,"l10n_ao.ao_292","Matérias-primas, subsidiárias e de consumo","account.data_account_type_expenses",0
-"ao_293","l10n_ao.l10n_ao_chart_template",293,"l10n_ao.ao_29","Produtos e trabalhos em curso","account_parent.data_account_type_view",0
+"ao_293","l10n_ao.l10n_ao_chart_template",293,"l10n_ao.ao_29","Produtos e trabalhos em curso","account_parent_v10.data_account_type_view",0
 "ao_293100","l10n_ao.l10n_ao_chart_template",293100,"l10n_ao.ao_293","Produtos e trabalhos em curso","account.data_account_type_expenses",0
-"ao_294","l10n_ao.l10n_ao_chart_template",294,"l10n_ao.ao_29","Produtos acabados e intermédios","account_parent.data_account_type_view",0
+"ao_294","l10n_ao.l10n_ao_chart_template",294,"l10n_ao.ao_29","Produtos acabados e intermédios","account_parent_v10.data_account_type_view",0
 "ao_294100","l10n_ao.l10n_ao_chart_template",294100,"l10n_ao.ao_294","Produtos acabados e intermédios","account.data_account_type_expenses",0
-"ao_295","l10n_ao.l10n_ao_chart_template",295,"l10n_ao.ao_29","Subprodutos, desperdicios, resíduos e refugos","account_parent.data_account_type_view",0
+"ao_295","l10n_ao.l10n_ao_chart_template",295,"l10n_ao.ao_29","Subprodutos, desperdicios, resíduos e refugos","account_parent_v10.data_account_type_view",0
 "ao_295100","l10n_ao.l10n_ao_chart_template",295100,"l10n_ao.ao_295","Subprodutos, desperdicios, resíduos e refugos","account.data_account_type_expenses",0
-"ao_296","l10n_ao.l10n_ao_chart_template",296,"l10n_ao.ao_29","Mercadorias","account_parent.data_account_type_view",0
+"ao_296","l10n_ao.l10n_ao_chart_template",296,"l10n_ao.ao_29","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_296100","l10n_ao.l10n_ao_chart_template",296100,"l10n_ao.ao_296","Mercadorias","account.data_account_type_expenses",0
-"ao_3","l10n_ao.l10n_ao_chart_template",3,"l10n_ao.ao_0","TERCEIROS","account_parent.data_account_type_view",0
-"ao_31","l10n_ao.l10n_ao_chart_template",31,"l10n_ao.ao_3","CLIENTE","account_parent.data_account_type_view",0
-"ao_311","l10n_ao.l10n_ao_chart_template",311,"l10n_ao.ao_31","Clientes Correntes","account_parent.data_account_type_view",0
-"ao_3111","l10n_ao.l10n_ao_chart_template",3111,"l10n_ao.ao_311","Grupo","account_parent.data_account_type_view",0
+"ao_3","l10n_ao.l10n_ao_chart_template",3,"l10n_ao.ao_0","TERCEIROS","account_parent_v10.data_account_type_view",0
+"ao_31","l10n_ao.l10n_ao_chart_template",31,"l10n_ao.ao_3","CLIENTE","account_parent_v10.data_account_type_view",0
+"ao_311","l10n_ao.l10n_ao_chart_template",311,"l10n_ao.ao_31","Clientes Correntes","account_parent_v10.data_account_type_view",0
+"ao_3111","l10n_ao.l10n_ao_chart_template",3111,"l10n_ao.ao_311","Grupo","account_parent_v10.data_account_type_view",0
 "ao_311110","l10n_ao.l10n_ao_chart_template",311110,"l10n_ao.ao_3111","Subsidiárias","account.data_account_type_current_assets",0
 "ao_311120","l10n_ao.l10n_ao_chart_template",311120,"l10n_ao.ao_3111","Associadas","account.data_account_type_current_assets",0
-"ao_3112","l10n_ao.l10n_ao_chart_template",3112,"l10n_ao.ao_311","Não Grupo","account_parent.data_account_type_view",0
+"ao_3112","l10n_ao.l10n_ao_chart_template",3112,"l10n_ao.ao_311","Não Grupo","account_parent_v10.data_account_type_view",0
 "ao_311210","l10n_ao.l10n_ao_chart_template",311210,"l10n_ao.ao_3112","Nacionais","account.data_account_type_receivable",1
 "ao_311220","l10n_ao.l10n_ao_chart_template",311220,"l10n_ao.ao_3112","Estrangeiros","account.data_account_type_receivable",1
-"ao_312","l10n_ao.l10n_ao_chart_template",312,"l10n_ao.ao_31","Clientes - títulos a receber","account_parent.data_account_type_view",0
-"ao_3121","l10n_ao.l10n_ao_chart_template",3121,"l10n_ao.ao_312","Grupo","account_parent.data_account_type_view",0
+"ao_312","l10n_ao.l10n_ao_chart_template",312,"l10n_ao.ao_31","Clientes - títulos a receber","account_parent_v10.data_account_type_view",0
+"ao_3121","l10n_ao.l10n_ao_chart_template",3121,"l10n_ao.ao_312","Grupo","account_parent_v10.data_account_type_view",0
 "ao_312110","l10n_ao.l10n_ao_chart_template",312110,"l10n_ao.ao_3121","Subsidiárias","account.data_account_type_current_assets",0
 "ao_312120","l10n_ao.l10n_ao_chart_template",312120,"l10n_ao.ao_3121","Associadas","account.data_account_type_current_assets",0
-"ao_3122","l10n_ao.l10n_ao_chart_template",3122,"l10n_ao.ao_312","Não grupo","account_parent.data_account_type_view",0
+"ao_3122","l10n_ao.l10n_ao_chart_template",3122,"l10n_ao.ao_312","Não grupo","account_parent_v10.data_account_type_view",0
 "ao_312210","l10n_ao.l10n_ao_chart_template",312210,"l10n_ao.ao_3122","Nacionais","account.data_account_type_current_assets",0
 "ao_312220","l10n_ao.l10n_ao_chart_template",312220,"l10n_ao.ao_3122","Estrangeiros","account.data_account_type_current_assets",0
-"ao_313","l10n_ao.l10n_ao_chart_template",313,"l10n_ao.ao_31","Clientes - títulos descontados","account_parent.data_account_type_view",0
-"ao_3131","l10n_ao.l10n_ao_chart_template",3131,"l10n_ao.ao_313","Grupo","account_parent.data_account_type_view",0
+"ao_313","l10n_ao.l10n_ao_chart_template",313,"l10n_ao.ao_31","Clientes - títulos descontados","account_parent_v10.data_account_type_view",0
+"ao_3131","l10n_ao.l10n_ao_chart_template",3131,"l10n_ao.ao_313","Grupo","account_parent_v10.data_account_type_view",0
 "ao_313110","l10n_ao.l10n_ao_chart_template",313110,"l10n_ao.ao_3131","Subsidiárias","account.data_account_type_current_assets",0
 "ao_313120","l10n_ao.l10n_ao_chart_template",313120,"l10n_ao.ao_3131","Associadas","account.data_account_type_current_assets",0
-"ao_3132","l10n_ao.l10n_ao_chart_template",3132,"l10n_ao.ao_313","Não grupo","account_parent.data_account_type_view",0
+"ao_3132","l10n_ao.l10n_ao_chart_template",3132,"l10n_ao.ao_313","Não grupo","account_parent_v10.data_account_type_view",0
 "ao_313210","l10n_ao.l10n_ao_chart_template",313210,"l10n_ao.ao_3132","Nacionais","account.data_account_type_current_assets",0
 "ao_313220","l10n_ao.l10n_ao_chart_template",313220,"l10n_ao.ao_3132","Estrangeiros","account.data_account_type_current_assets",0
-"ao_318","l10n_ao.l10n_ao_chart_template",318,"l10n_ao.ao_31","Clientes de cobranças duvidosa","account_parent.data_account_type_view",0
+"ao_318","l10n_ao.l10n_ao_chart_template",318,"l10n_ao.ao_31","Clientes de cobranças duvidosa","account_parent_v10.data_account_type_view",0
 "ao_318100","l10n_ao.l10n_ao_chart_template",318100,"l10n_ao.ao_318","Clientes - correntes","account.data_account_type_current_assets",0
 "ao_318200","l10n_ao.l10n_ao_chart_template",318200,"l10n_ao.ao_318","Clientes - títulos","account.data_account_type_current_assets",0
-"ao_319","l10n_ao.l10n_ao_chart_template",319,"l10n_ao.ao_31","Clientes - saldos credores","account_parent.data_account_type_view",0
+"ao_319","l10n_ao.l10n_ao_chart_template",319,"l10n_ao.ao_31","Clientes - saldos credores","account_parent_v10.data_account_type_view",0
 "ao_319100","l10n_ao.l10n_ao_chart_template",319100,"l10n_ao.ao_319","Adiantamentos","account.data_account_type_current_assets",0
 "ao_319200","l10n_ao.l10n_ao_chart_template",319200,"l10n_ao.ao_319","Embalagens a devolver","account.data_account_type_current_assets",0
 "ao_319300","l10n_ao.l10n_ao_chart_template",319300,"l10n_ao.ao_319","Material à consignação","account.data_account_type_current_assets",0
-"ao_32","l10n_ao.l10n_ao_chart_template",32,"l10n_ao.ao_3","FORNECEDORES","account_parent.data_account_type_view",0
-"ao_321","l10n_ao.l10n_ao_chart_template",321,"l10n_ao.ao_32","Fornecedores - correntes","account_parent.data_account_type_view",0
-"ao_3211","l10n_ao.l10n_ao_chart_template",3211,"l10n_ao.ao_321","Grupo","account_parent.data_account_type_view",0
+"ao_32","l10n_ao.l10n_ao_chart_template",32,"l10n_ao.ao_3","FORNECEDORES","account_parent_v10.data_account_type_view",0
+"ao_321","l10n_ao.l10n_ao_chart_template",321,"l10n_ao.ao_32","Fornecedores - correntes","account_parent_v10.data_account_type_view",0
+"ao_3211","l10n_ao.l10n_ao_chart_template",3211,"l10n_ao.ao_321","Grupo","account_parent_v10.data_account_type_view",0
 "ao_321110","l10n_ao.l10n_ao_chart_template",321110,"l10n_ao.ao_3211","Subsidiárias","account.data_account_type_current_liabilities",0
 "ao_321120","l10n_ao.l10n_ao_chart_template",321120,"l10n_ao.ao_3211","Associadas","account.data_account_type_current_liabilities",0
-"ao_3212","l10n_ao.l10n_ao_chart_template",3212,"l10n_ao.ao_321","Não grupo","account_parent.data_account_type_view",0
+"ao_3212","l10n_ao.l10n_ao_chart_template",3212,"l10n_ao.ao_321","Não grupo","account_parent_v10.data_account_type_view",0
 "ao_321210","l10n_ao.l10n_ao_chart_template",321210,"l10n_ao.ao_3212","Nacionais","account.data_account_type_payable",1
 "ao_321220","l10n_ao.l10n_ao_chart_template",321220,"l10n_ao.ao_3212","Estrangeiros","account.data_account_type_payable",1
-"ao_322","l10n_ao.l10n_ao_chart_template",322,"l10n_ao.ao_32","Fornecedores - títulos a pagar","account_parent.data_account_type_view",0
-"ao_3221","l10n_ao.l10n_ao_chart_template",3221,"l10n_ao.ao_322","Grupo","account_parent.data_account_type_view",0
+"ao_322","l10n_ao.l10n_ao_chart_template",322,"l10n_ao.ao_32","Fornecedores - títulos a pagar","account_parent_v10.data_account_type_view",0
+"ao_3221","l10n_ao.l10n_ao_chart_template",3221,"l10n_ao.ao_322","Grupo","account_parent_v10.data_account_type_view",0
 "ao_322110","l10n_ao.l10n_ao_chart_template",322110,"l10n_ao.ao_3221","Subsidiárias","account.data_account_type_current_liabilities",0
 "ao_322120","l10n_ao.l10n_ao_chart_template",322120,"l10n_ao.ao_3221","Associadas","account.data_account_type_current_liabilities",0
-"ao_3222","l10n_ao.l10n_ao_chart_template",3222,"l10n_ao.ao_322","Não Grupo","account_parent.data_account_type_view",0
+"ao_3222","l10n_ao.l10n_ao_chart_template",3222,"l10n_ao.ao_322","Não Grupo","account_parent_v10.data_account_type_view",0
 "ao_3222100","l10n_ao.l10n_ao_chart_template",3222100,"l10n_ao.ao_3222","Nacionais","account.data_account_type_current_liabilities",0
 "ao_3222200","l10n_ao.l10n_ao_chart_template",3222200,"l10n_ao.ao_3222","Estrangeiros","account.data_account_type_current_liabilities",0
-"ao_328","l10n_ao.l10n_ao_chart_template",328,"l10n_ao.ao_32","Fornecedores - facturas em recepção e conferência","account_parent.data_account_type_view",0
+"ao_328","l10n_ao.l10n_ao_chart_template",328,"l10n_ao.ao_32","Fornecedores - facturas em recepção e conferência","account_parent_v10.data_account_type_view",0
 "ao_328100","l10n_ao.l10n_ao_chart_template",328100,"l10n_ao.ao_328","Fornecedores - facturas em recepção e conferência","account.data_account_type_current_liabilities",0
-"ao_329","l10n_ao.l10n_ao_chart_template",329,"l10n_ao.ao_32","Fornecedores - saldos devedores","account_parent.data_account_type_view",0
+"ao_329","l10n_ao.l10n_ao_chart_template",329,"l10n_ao.ao_32","Fornecedores - saldos devedores","account_parent_v10.data_account_type_view",0
 "ao_329100","l10n_ao.l10n_ao_chart_template",329100,"l10n_ao.ao_329","Adiantamentos","account.data_account_type_current_liabilities",0
 "ao_329200","l10n_ao.l10n_ao_chart_template",329200,"l10n_ao.ao_329","Embalagens a devolver","account.data_account_type_current_liabilities",0
 "ao_329300","l10n_ao.l10n_ao_chart_template",329300,"l10n_ao.ao_329","Material à consignação","account.data_account_type_current_liabilities",0
-"ao_33","l10n_ao.l10n_ao_chart_template",33,"l10n_ao.ao_3","EMPRÉSTIMOS","account_parent.data_account_type_view",0
-"ao_331","l10n_ao.l10n_ao_chart_template",331,"l10n_ao.ao_33","Empréstimos bancários","account_parent.data_account_type_view",0
-"ao_3311","l10n_ao.l10n_ao_chart_template",3311,"l10n_ao.ao_331","Moeda nacional","account_parent.data_account_type_view",0
+"ao_33","l10n_ao.l10n_ao_chart_template",33,"l10n_ao.ao_3","EMPRÉSTIMOS","account_parent_v10.data_account_type_view",0
+"ao_331","l10n_ao.l10n_ao_chart_template",331,"l10n_ao.ao_33","Empréstimos bancários","account_parent_v10.data_account_type_view",0
+"ao_3311","l10n_ao.l10n_ao_chart_template",3311,"l10n_ao.ao_331","Moeda nacional","account_parent_v10.data_account_type_view",0
 "ao_331110","l10n_ao.l10n_ao_chart_template",331110,"l10n_ao.ao_3311","Banco","account.data_account_type_current_liabilities",0
-"ao_3312","l10n_ao.l10n_ao_chart_template",3312,"l10n_ao.ao_331","Moeda estrangeira","account_parent.data_account_type_view",0
+"ao_3312","l10n_ao.l10n_ao_chart_template",3312,"l10n_ao.ao_331","Moeda estrangeira","account_parent_v10.data_account_type_view",0
 "ao_331210","l10n_ao.l10n_ao_chart_template",331210,"l10n_ao.ao_3312","Banco","account.data_account_type_current_liabilities",0
-"ao_332","l10n_ao.l10n_ao_chart_template",332,"l10n_ao.ao_33","Empréstimos por obrigações","account_parent.data_account_type_view",0
-"ao_3321","l10n_ao.l10n_ao_chart_template",3321,"l10n_ao.ao_332","Convertíveis","account_parent.data_account_type_view",0
+"ao_332","l10n_ao.l10n_ao_chart_template",332,"l10n_ao.ao_33","Empréstimos por obrigações","account_parent_v10.data_account_type_view",0
+"ao_3321","l10n_ao.l10n_ao_chart_template",3321,"l10n_ao.ao_332","Convertíveis","account_parent_v10.data_account_type_view",0
 "ao_332110","l10n_ao.l10n_ao_chart_template",332110,"l10n_ao.ao_3321","Entidade","account.data_account_type_current_liabilities",0
-"ao_3322","l10n_ao.l10n_ao_chart_template",3322,"l10n_ao.ao_332","Não convertiveis","account_parent.data_account_type_view",0
+"ao_3322","l10n_ao.l10n_ao_chart_template",3322,"l10n_ao.ao_332","Não convertiveis","account_parent_v10.data_account_type_view",0
 "ao_332210","l10n_ao.l10n_ao_chart_template",332210,"l10n_ao.ao_3322","Entidade","account.data_account_type_current_liabilities",0
-"ao_333","l10n_ao.l10n_ao_chart_template",333,"l10n_ao.ao_33","Empréstimos por título de participação","account_parent.data_account_type_view",0
+"ao_333","l10n_ao.l10n_ao_chart_template",333,"l10n_ao.ao_33","Empréstimos por título de participação","account_parent_v10.data_account_type_view",0
 "ao_333100","l10n_ao.l10n_ao_chart_template",333100,"l10n_ao.ao_333","Entidade","account.data_account_type_current_liabilities",0
-"ao_339","l10n_ao.l10n_ao_chart_template",339,"l10n_ao.ao_33","Outros empréstimos obtidos","account_parent.data_account_type_view",0
+"ao_339","l10n_ao.l10n_ao_chart_template",339,"l10n_ao.ao_33","Outros empréstimos obtidos","account_parent_v10.data_account_type_view",0
 "ao_339100","l10n_ao.l10n_ao_chart_template",339100,"l10n_ao.ao_339","Entidade","account.data_account_type_current_liabilities",0
-"ao_34","l10n_ao.l10n_ao_chart_template",34,"l10n_ao.ao_3","ESTADO","account_parent.data_account_type_view",0
-"ao_341","l10n_ao.l10n_ao_chart_template",341,"l10n_ao.ao_34","Imposto sobre os lucros","account_parent.data_account_type_view",0
+"ao_34","l10n_ao.l10n_ao_chart_template",34,"l10n_ao.ao_3","ESTADO","account_parent_v10.data_account_type_view",0
+"ao_341","l10n_ao.l10n_ao_chart_template",341,"l10n_ao.ao_34","Imposto sobre os lucros","account_parent_v10.data_account_type_view",0
 "ao_341100","l10n_ao.l10n_ao_chart_template",341100,"l10n_ao.ao_341","Imposto Corrente","account.data_account_type_current_liabilities",0
 "ao_341200","l10n_ao.l10n_ao_chart_template",341200,"l10n_ao.ao_341","Pagamentos por conta","account.data_account_type_current_liabilities",0
-"ao_3413","l10n_ao.l10n_ao_chart_template",3413,"l10n_ao.ao_341","Retenções na Fonte","account_parent.data_account_type_view",0
+"ao_3413","l10n_ao.l10n_ao_chart_template",3413,"l10n_ao.ao_341","Retenções na Fonte","account_parent_v10.data_account_type_view",0
 "ao_341310","l10n_ao.l10n_ao_chart_template",341310,"l10n_ao.ao_3413","Retenção na Fonte de 6,5%","account.data_account_type_current_assets",0
 "ao_341400","l10n_ao.l10n_ao_chart_template",341400,"l10n_ao.ao_3413","Imposto Estimado","account.data_account_type_current_liabilities",0
 "ao_341500","l10n_ao.l10n_ao_chart_template",341500,"l10n_ao.ao_3413","Imposto Liquidado","account.data_account_type_current_liabilities",0
 "ao_341600","l10n_ao.l10n_ao_chart_template",341600,"l10n_ao.ao_3413","Apuramento","account.data_account_type_current_liabilities",0
 "ao_341700","l10n_ao.l10n_ao_chart_template",341700,"l10n_ao.ao_3413","Imposto a Pagar","account.data_account_type_current_liabilities",0
 "ao_341800","l10n_ao.l10n_ao_chart_template",341800,"l10n_ao.ao_3413","Imposto a Recuperar","account.data_account_type_current_assets",0
-"ao_342","l10n_ao.l10n_ao_chart_template",342,"l10n_ao.ao_34","Imposto de produção e consumo","account_parent.data_account_type_view",0
+"ao_342","l10n_ao.l10n_ao_chart_template",342,"l10n_ao.ao_34","Imposto de produção e consumo","account_parent_v10.data_account_type_view",0
 "ao_342100","l10n_ao.l10n_ao_chart_template",342100,"l10n_ao.ao_342","Imposto de Consumo 5%","account.data_account_type_current_liabilities",0
 "ao_342200","l10n_ao.l10n_ao_chart_template",342200,"l10n_ao.ao_342","Imposto de Consumo 10%","account.data_account_type_current_liabilities",0
-"ao_343","l10n_ao.l10n_ao_chart_template",343,"l10n_ao.ao_34","Imposto de rendimento de trabalho","account_parent.data_account_type_view",0
+"ao_343","l10n_ao.l10n_ao_chart_template",343,"l10n_ao.ao_34","Imposto de rendimento de trabalho","account_parent_v10.data_account_type_view",0
 "ao_343100","l10n_ao.l10n_ao_chart_template",343100,"l10n_ao.ao_343","Trabalhadores Dependentes","account.data_account_type_current_liabilities",0
 "ao_343200","l10n_ao.l10n_ao_chart_template",343200,"l10n_ao.ao_343","Trabalhadores Independentes","account.data_account_type_current_liabilities",0
-"ao_344","l10n_ao.l10n_ao_chart_template",344,"l10n_ao.ao_34","Imposto de circulação","account_parent.data_account_type_view",0
+"ao_344","l10n_ao.l10n_ao_chart_template",344,"l10n_ao.ao_34","Imposto de circulação","account_parent_v10.data_account_type_view",0
 "ao_344100","l10n_ao.l10n_ao_chart_template",344100,"l10n_ao.ao_344","Taxa de Circulação","account.data_account_type_current_liabilities",0
-"ao_345","l10n_ao.l10n_ao_chart_template",345,"l10n_ao.ao_34","Instituto Nacional Segurança Social","account_parent.data_account_type_view",0
+"ao_345","l10n_ao.l10n_ao_chart_template",345,"l10n_ao.ao_34","Instituto Nacional Segurança Social","account_parent_v10.data_account_type_view",0
 "ao_345100","l10n_ao.l10n_ao_chart_template",345100,"l10n_ao.ao_345","INSS Conta do Trabalhador","account.data_account_type_current_liabilities",0
 "ao_345200","l10n_ao.l10n_ao_chart_template",345200,"l10n_ao.ao_345","INSS Conta da Empresa","account.data_account_type_current_liabilities",0
-"ao_347","l10n_ao.l10n_ao_chart_template",347,"l10n_ao.ao_34","Imposto Industrial Retido","account_parent.data_account_type_view",0
+"ao_347","l10n_ao.l10n_ao_chart_template",347,"l10n_ao.ao_34","Imposto Industrial Retido","account_parent_v10.data_account_type_view",0
 "ao_347100","l10n_ao.l10n_ao_chart_template",347100,"l10n_ao.ao_347","Retenção na Fonte de 6,5%","account.data_account_type_current_liabilities",0
-"ao_348","l10n_ao.l10n_ao_chart_template",348,"l10n_ao.ao_34","Subsídios a preços","account_parent.data_account_type_view",0
+"ao_348","l10n_ao.l10n_ao_chart_template",348,"l10n_ao.ao_34","Subsídios a preços","account_parent_v10.data_account_type_view",0
 "ao_348100","l10n_ao.l10n_ao_chart_template",348100,"l10n_ao.ao_348","Subsídios a preços","account.data_account_type_current_liabilities",0
-"ao_349","l10n_ao.l10n_ao_chart_template",349,"l10n_ao.ao_34","Outros impostos","account_parent.data_account_type_view",0
+"ao_349","l10n_ao.l10n_ao_chart_template",349,"l10n_ao.ao_34","Outros impostos","account_parent_v10.data_account_type_view",0
 "ao_349100","l10n_ao.l10n_ao_chart_template",349100,"l10n_ao.ao_349","Imposto de Selo","account.data_account_type_current_liabilities",0
-"ao_35","l10n_ao.l10n_ao_chart_template",35,"l10n_ao.ao_3","ENTIDADES PARTICIPANTES E PARTICIPADAS","account_parent.data_account_type_view",0
-"ao_351","l10n_ao.l10n_ao_chart_template",351,"l10n_ao.ao_35","Entidades participantes","account_parent.data_account_type_view",0
-"ao_3511","l10n_ao.l10n_ao_chart_template",3511,"l10n_ao.ao_351","Estado","account_parent.data_account_type_view",0
+"ao_35","l10n_ao.l10n_ao_chart_template",35,"l10n_ao.ao_3","ENTIDADES PARTICIPANTES E PARTICIPADAS","account_parent_v10.data_account_type_view",0
+"ao_351","l10n_ao.l10n_ao_chart_template",351,"l10n_ao.ao_35","Entidades participantes","account_parent_v10.data_account_type_view",0
+"ao_3511","l10n_ao.l10n_ao_chart_template",3511,"l10n_ao.ao_351","Estado","account_parent_v10.data_account_type_view",0
 "ao_351110","l10n_ao.l10n_ao_chart_template",351110,"l10n_ao.ao_3511","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_351120","l10n_ao.l10n_ao_chart_template",351120,"l10n_ao.ao_3511","C/adiatamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_351130","l10n_ao.l10n_ao_chart_template",351130,"l10n_ao.ao_3511","C/lucros","account.data_account_type_current_liabilities",0
 "ao_351140","l10n_ao.l10n_ao_chart_template",351140,"l10n_ao.ao_3511","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_3512","l10n_ao.l10n_ao_chart_template",3512,"l10n_ao.ao_351","Empresas do grupo - subsidiárias","account_parent.data_account_type_view",0
+"ao_3512","l10n_ao.l10n_ao_chart_template",3512,"l10n_ao.ao_351","Empresas do grupo - subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_351210","l10n_ao.l10n_ao_chart_template",351210,"l10n_ao.ao_3512","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_351220","l10n_ao.l10n_ao_chart_template",351220,"l10n_ao.ao_3512","C/adiantamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_351230","l10n_ao.l10n_ao_chart_template",351230,"l10n_ao.ao_3512","C/lucro","account.data_account_type_current_liabilities",0
 "ao_351240","l10n_ao.l10n_ao_chart_template",351240,"l10n_ao.ao_3512","C/Empréstimo","account.data_account_type_current_liabilities",0
-"ao_3513","l10n_ao.l10n_ao_chart_template",3513,"l10n_ao.ao_351","Empresas do grupo - associadas","account_parent.data_account_type_view",0
+"ao_3513","l10n_ao.l10n_ao_chart_template",3513,"l10n_ao.ao_351","Empresas do grupo - associadas","account_parent_v10.data_account_type_view",0
 "ao_351310","l10n_ao.l10n_ao_chart_template",351310,"l10n_ao.ao_3513","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_351320","l10n_ao.l10n_ao_chart_template",351320,"l10n_ao.ao_3513","C/adiantamentos sobre lucros","account.data_account_type_current_liabilities",0
 "ao_351330","l10n_ao.l10n_ao_chart_template",351330,"l10n_ao.ao_3513","C/lucros","account.data_account_type_current_liabilities",0
 "ao_351340","l10n_ao.l10n_ao_chart_template",351340,"l10n_ao.ao_3513","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_3514","l10n_ao.l10n_ao_chart_template",3514,"l10n_ao.ao_351","Outros","account_parent.data_account_type_view",0
+"ao_3514","l10n_ao.l10n_ao_chart_template",3514,"l10n_ao.ao_351","Outros","account_parent_v10.data_account_type_view",0
 "ao_351410","l10n_ao.l10n_ao_chart_template",351410,"l10n_ao.ao_3514","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_351420","l10n_ao.l10n_ao_chart_template",351420,"l10n_ao.ao_3514","C/adiatamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_351430","l10n_ao.l10n_ao_chart_template",351430,"l10n_ao.ao_3514","C/lucros","account.data_account_type_current_liabilities",0
 "ao_351440","l10n_ao.l10n_ao_chart_template",351440,"l10n_ao.ao_3514","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_352","l10n_ao.l10n_ao_chart_template",352,"l10n_ao.ao_35","Entidades Participadas","account_parent.data_account_type_view",0
-"ao_3521","l10n_ao.l10n_ao_chart_template",3521,"l10n_ao.ao_352","Estado","account_parent.data_account_type_view",0
+"ao_352","l10n_ao.l10n_ao_chart_template",352,"l10n_ao.ao_35","Entidades Participadas","account_parent_v10.data_account_type_view",0
+"ao_3521","l10n_ao.l10n_ao_chart_template",3521,"l10n_ao.ao_352","Estado","account_parent_v10.data_account_type_view",0
 "ao_352110","l10n_ao.l10n_ao_chart_template",352110,"l10n_ao.ao_3521","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_352120","l10n_ao.l10n_ao_chart_template",352120,"l10n_ao.ao_3521","C/adiatamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_352130","l10n_ao.l10n_ao_chart_template",352130,"l10n_ao.ao_3521","C/lucros","account.data_account_type_current_liabilities",0
 "ao_352140","l10n_ao.l10n_ao_chart_template",352140,"l10n_ao.ao_3521","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_3522","l10n_ao.l10n_ao_chart_template",3522,"l10n_ao.ao_352","Empresas do grupo - subsidiárias","account_parent.data_account_type_view",0
+"ao_3522","l10n_ao.l10n_ao_chart_template",3522,"l10n_ao.ao_352","Empresas do grupo - subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_352210","l10n_ao.l10n_ao_chart_template",352210,"l10n_ao.ao_3522","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_352220","l10n_ao.l10n_ao_chart_template",352220,"l10n_ao.ao_3522","C/adiantamentos sobre lucros","account.data_account_type_current_liabilities",0
 "ao_352230","l10n_ao.l10n_ao_chart_template",352230,"l10n_ao.ao_3522","C/lucros","account.data_account_type_current_liabilities",0
 "ao_352240","l10n_ao.l10n_ao_chart_template",352240,"l10n_ao.ao_3522","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_3523","l10n_ao.l10n_ao_chart_template",3523,"l10n_ao.ao_352","Empresas do grupo - associadas","account_parent.data_account_type_view",0
+"ao_3523","l10n_ao.l10n_ao_chart_template",3523,"l10n_ao.ao_352","Empresas do grupo - associadas","account_parent_v10.data_account_type_view",0
 "ao_352310","l10n_ao.l10n_ao_chart_template",352310,"l10n_ao.ao_3523","C/subscriçao","account.data_account_type_current_liabilities",0
 "ao_352320","l10n_ao.l10n_ao_chart_template",352320,"l10n_ao.ao_3523","C/adiantamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_352330","l10n_ao.l10n_ao_chart_template",352330,"l10n_ao.ao_3523","C/lucro","account.data_account_type_current_liabilities",0
 "ao_352340","l10n_ao.l10n_ao_chart_template",352340,"l10n_ao.ao_3523","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_3524","l10n_ao.l10n_ao_chart_template",3524,"l10n_ao.ao_352","Outros","account_parent.data_account_type_view",0
+"ao_3524","l10n_ao.l10n_ao_chart_template",3524,"l10n_ao.ao_352","Outros","account_parent_v10.data_account_type_view",0
 "ao_352410","l10n_ao.l10n_ao_chart_template",352410,"l10n_ao.ao_3524","C/subscrição","account.data_account_type_current_liabilities",0
 "ao_352420","l10n_ao.l10n_ao_chart_template",352420,"l10n_ao.ao_3524","C/adiantamentos sobre lucro","account.data_account_type_current_liabilities",0
 "ao_352430","l10n_ao.l10n_ao_chart_template",352430,"l10n_ao.ao_3524","C/lucro","account.data_account_type_current_liabilities",0
 "ao_352440","l10n_ao.l10n_ao_chart_template",352440,"l10n_ao.ao_3524","Empréstimos","account.data_account_type_current_liabilities",0
-"ao_36","l10n_ao.l10n_ao_chart_template",36,"l10n_ao.ao_3","PESSOAL","account_parent.data_account_type_view",0
-"ao_361","l10n_ao.l10n_ao_chart_template",361,"l10n_ao.ao_36","Pessoal - remunerações","account_parent.data_account_type_view",0
-"ao_3611","l10n_ao.l10n_ao_chart_template",3611,"l10n_ao.ao_361","Órgãos sociais","account_parent.data_account_type_view",0
+"ao_36","l10n_ao.l10n_ao_chart_template",36,"l10n_ao.ao_3","PESSOAL","account_parent_v10.data_account_type_view",0
+"ao_361","l10n_ao.l10n_ao_chart_template",361,"l10n_ao.ao_36","Pessoal - remunerações","account_parent_v10.data_account_type_view",0
+"ao_3611","l10n_ao.l10n_ao_chart_template",3611,"l10n_ao.ao_361","Órgãos sociais","account_parent_v10.data_account_type_view",0
 "ao_361110","l10n_ao.l10n_ao_chart_template",361110,"l10n_ao.ao_3611","Órgãos Sociais","account.data_account_type_current_liabilities",0
-"ao_3612","l10n_ao.l10n_ao_chart_template",3612,"l10n_ao.ao_361","Empregados","account_parent.data_account_type_view",0
+"ao_3612","l10n_ao.l10n_ao_chart_template",3612,"l10n_ao.ao_361","Empregados","account_parent_v10.data_account_type_view",0
 "ao_361210","l10n_ao.l10n_ao_chart_template",361210,"l10n_ao.ao_3612","Empregados","account.data_account_type_current_liabilities",0
-"ao_362","l10n_ao.l10n_ao_chart_template",362,"l10n_ao.ao_36","Pessoal - participação nos resultados","account_parent.data_account_type_view",0
-"ao_3621","l10n_ao.l10n_ao_chart_template",3621,"l10n_ao.ao_362","Órgãos sociais","account_parent.data_account_type_view",0
+"ao_362","l10n_ao.l10n_ao_chart_template",362,"l10n_ao.ao_36","Pessoal - participação nos resultados","account_parent_v10.data_account_type_view",0
+"ao_3621","l10n_ao.l10n_ao_chart_template",3621,"l10n_ao.ao_362","Órgãos sociais","account_parent_v10.data_account_type_view",0
 "ao_362110","l10n_ao.l10n_ao_chart_template",362110,"l10n_ao.ao_3621","Órgãos Sociais","account.data_account_type_current_liabilities",0
-"ao_3622","l10n_ao.l10n_ao_chart_template",3622,"l10n_ao.ao_362","Empregados","account_parent.data_account_type_view",0
+"ao_3622","l10n_ao.l10n_ao_chart_template",3622,"l10n_ao.ao_362","Empregados","account_parent_v10.data_account_type_view",0
 "ao_362210","l10n_ao.l10n_ao_chart_template",362210,"l10n_ao.ao_3622","Empregados","account.data_account_type_current_liabilities",0
-"ao_363","l10n_ao.l10n_ao_chart_template",363,"l10n_ao.ao_36","Pessoal - adiantamentos","account_parent.data_account_type_view",0
+"ao_363","l10n_ao.l10n_ao_chart_template",363,"l10n_ao.ao_36","Pessoal - adiantamentos","account_parent_v10.data_account_type_view",0
 "ao_363100","l10n_ao.l10n_ao_chart_template",363100,"l10n_ao.ao_363","Pessoal - adiantamentos","account.data_account_type_current_liabilities",0
-"ao_369","l10n_ao.l10n_ao_chart_template",369,"l10n_ao.ao_36","Pessoal - outros","account_parent.data_account_type_view",0
+"ao_369","l10n_ao.l10n_ao_chart_template",369,"l10n_ao.ao_36","Pessoal - outros","account_parent_v10.data_account_type_view",0
 "ao_369100","l10n_ao.l10n_ao_chart_template",369100,"l10n_ao.ao_369","Pessoal - outros","account.data_account_type_current_liabilities",0
-"ao_37","l10n_ao.l10n_ao_chart_template",37,"l10n_ao.ao_3","OUTROS VALORES A RECEBER E A PAGAR","account_parent.data_account_type_view",0
-"ao_371","l10n_ao.l10n_ao_chart_template",371,"l10n_ao.ao_37","Compras de imobilizado","account_parent.data_account_type_view",0
+"ao_37","l10n_ao.l10n_ao_chart_template",37,"l10n_ao.ao_3","OUTROS VALORES A RECEBER E A PAGAR","account_parent_v10.data_account_type_view",0
+"ao_371","l10n_ao.l10n_ao_chart_template",371,"l10n_ao.ao_37","Compras de imobilizado","account_parent_v10.data_account_type_view",0
 "ao_371100","l10n_ao.l10n_ao_chart_template",371100,"l10n_ao.ao_371","Corpóreo","account.data_account_type_current_liabilities",0
 "ao_371200","l10n_ao.l10n_ao_chart_template",371200,"l10n_ao.ao_371","Incorpóreo","account.data_account_type_current_liabilities",0
 "ao_371300","l10n_ao.l10n_ao_chart_template",371300,"l10n_ao.ao_371","Financeiro","account.data_account_type_current_liabilities",0
-"ao_372","l10n_ao.l10n_ao_chart_template",372,"l10n_ao.ao_37","Vendas de Imobilizado","account_parent.data_account_type_view",0
+"ao_372","l10n_ao.l10n_ao_chart_template",372,"l10n_ao.ao_37","Vendas de Imobilizado","account_parent_v10.data_account_type_view",0
 "ao_372100","l10n_ao.l10n_ao_chart_template",372100,"l10n_ao.ao_372","Corpóreo","account.data_account_type_current_liabilities",0
 "ao_372200","l10n_ao.l10n_ao_chart_template",372200,"l10n_ao.ao_372","Incorpóreo","account.data_account_type_current_liabilities",0
 "ao_372300","l10n_ao.l10n_ao_chart_template",372300,"l10n_ao.ao_372","Financeiro","account.data_account_type_current_liabilities",0
-"ao_373","l10n_ao.l10n_ao_chart_template",373,"l10n_ao.ao_37","Proveitos a facturar","account_parent.data_account_type_view",0
+"ao_373","l10n_ao.l10n_ao_chart_template",373,"l10n_ao.ao_37","Proveitos a facturar","account_parent_v10.data_account_type_view",0
 "ao_373100","l10n_ao.l10n_ao_chart_template",373100,"l10n_ao.ao_373","Vendas","account.data_account_type_current_liabilities",0
 "ao_373200","l10n_ao.l10n_ao_chart_template",373200,"l10n_ao.ao_373","Prestações de serviços","account.data_account_type_current_liabilities",0
 "ao_373300","l10n_ao.l10n_ao_chart_template",373300,"l10n_ao.ao_373","Juros","account.data_account_type_current_liabilities",0
-"ao_374","l10n_ao.l10n_ao_chart_template",374,"l10n_ao.ao_37","Encargos a repartir por períodos futuros","account_parent.data_account_type_view",0
+"ao_374","l10n_ao.l10n_ao_chart_template",374,"l10n_ao.ao_37","Encargos a repartir por períodos futuros","account_parent_v10.data_account_type_view",0
 "ao_374100","l10n_ao.l10n_ao_chart_template",374100,"l10n_ao.ao_374","Descontos de emissão de obrigações","account.data_account_type_current_liabilities",0
 "ao_374200","l10n_ao.l10n_ao_chart_template",374200,"l10n_ao.ao_374","Descontos de emissão de títulos de participação","account.data_account_type_current_liabilities",0
-"ao_375","l10n_ao.l10n_ao_chart_template",375,"l10n_ao.ao_37","Encargos a pagar","account_parent.data_account_type_view",0
+"ao_375","l10n_ao.l10n_ao_chart_template",375,"l10n_ao.ao_37","Encargos a pagar","account_parent_v10.data_account_type_view",0
 "ao_375100","l10n_ao.l10n_ao_chart_template",375100,"l10n_ao.ao_375","Remunerações","account.data_account_type_current_liabilities",0
 "ao_375200","l10n_ao.l10n_ao_chart_template",375200,"l10n_ao.ao_375","Juros","account.data_account_type_current_liabilities",0
-"ao_376","l10n_ao.l10n_ao_chart_template",376,"l10n_ao.ao_37","Proveitos a repartir por períodos futuros","account_parent.data_account_type_view",0
+"ao_376","l10n_ao.l10n_ao_chart_template",376,"l10n_ao.ao_37","Proveitos a repartir por períodos futuros","account_parent_v10.data_account_type_view",0
 "ao_376100","l10n_ao.l10n_ao_chart_template",376100,"l10n_ao.ao_376","Prémios de emissão de obrigações","account.data_account_type_current_liabilities",0
 "ao_376200","l10n_ao.l10n_ao_chart_template",376200,"l10n_ao.ao_376","Prémios de emissão de títulos de participação","account.data_account_type_current_liabilities",0
 "ao_376300","l10n_ao.l10n_ao_chart_template",376300,"l10n_ao.ao_376","Subsídios para investimento","account.data_account_type_current_liabilities",0
 "ao_376400","l10n_ao.l10n_ao_chart_template",376400,"l10n_ao.ao_376","Diferenças de câmbio favoráveis reversíveis","account.data_account_type_current_liabilities",0
-"ao_377","l10n_ao.l10n_ao_chart_template",377,"l10n_ao.ao_37","Contas transitórias","account_parent.data_account_type_view",0
+"ao_377","l10n_ao.l10n_ao_chart_template",377,"l10n_ao.ao_37","Contas transitórias","account_parent_v10.data_account_type_view",0
 "ao_377100","l10n_ao.l10n_ao_chart_template",377100,"l10n_ao.ao_377","Transacções entre a sede e as dependências da empresa","account.data_account_type_current_liabilities",0
-"ao_379","l10n_ao.l10n_ao_chart_template",379,"l10n_ao.ao_37","Outros valores a receber e a pagar","account_parent.data_account_type_view",0
+"ao_379","l10n_ao.l10n_ao_chart_template",379,"l10n_ao.ao_37","Outros valores a receber e a pagar","account_parent_v10.data_account_type_view",0
 "ao_379100","l10n_ao.l10n_ao_chart_template",379100,"l10n_ao.ao_379","Outros valores a receber e a pagar","account.data_account_type_current_liabilities",0
-"ao_38","l10n_ao.l10n_ao_chart_template",38,"l10n_ao.ao_3","PROVISÕES PARA COBRANÇAS DUVIDOSAS","account_parent.data_account_type_view",0
-"ao_381","l10n_ao.l10n_ao_chart_template",381,"l10n_ao.ao_38","Provisões para clientes","account_parent.data_account_type_view",0
-"ao_3811","l10n_ao.l10n_ao_chart_template",3811,"l10n_ao.ao_381","Clientes - correntes","account_parent.data_account_type_view",0
+"ao_38","l10n_ao.l10n_ao_chart_template",38,"l10n_ao.ao_3","PROVISÕES PARA COBRANÇAS DUVIDOSAS","account_parent_v10.data_account_type_view",0
+"ao_381","l10n_ao.l10n_ao_chart_template",381,"l10n_ao.ao_38","Provisões para clientes","account_parent_v10.data_account_type_view",0
+"ao_3811","l10n_ao.l10n_ao_chart_template",3811,"l10n_ao.ao_381","Clientes - correntes","account_parent_v10.data_account_type_view",0
 "ao_381110","l10n_ao.l10n_ao_chart_template",381110,"l10n_ao.ao_3811","Grupo","account.data_account_type_current_liabilities",0
 "ao_381120","l10n_ao.l10n_ao_chart_template",381120,"l10n_ao.ao_3811","Não grupo","account.data_account_type_current_liabilities",0
-"ao_3812","l10n_ao.l10n_ao_chart_template",3812,"l10n_ao.ao_381","Clientes - títulos a receber","account_parent.data_account_type_view",0
+"ao_3812","l10n_ao.l10n_ao_chart_template",3812,"l10n_ao.ao_381","Clientes - títulos a receber","account_parent_v10.data_account_type_view",0
 "ao_381210","l10n_ao.l10n_ao_chart_template",381210,"l10n_ao.ao_3812","Grupo","account.data_account_type_current_liabilities",0
 "ao_381220","l10n_ao.l10n_ao_chart_template",381220,"l10n_ao.ao_3812","Não Grupo","account.data_account_type_current_liabilities",0
-"ao_3813","l10n_ao.l10n_ao_chart_template",3813,"l10n_ao.ao_381","Clientes - cobrança duvidosa","account_parent.data_account_type_view",0
+"ao_3813","l10n_ao.l10n_ao_chart_template",3813,"l10n_ao.ao_381","Clientes - cobrança duvidosa","account_parent_v10.data_account_type_view",0
 "ao_381310","l10n_ao.l10n_ao_chart_template",381310,"l10n_ao.ao_3813","Grupo","account.data_account_type_current_liabilities",0
 "ao_381320","l10n_ao.l10n_ao_chart_template",381320,"l10n_ao.ao_3813","Não grupo","account.data_account_type_current_liabilities",0
-"ao_382","l10n_ao.l10n_ao_chart_template",382,"l10n_ao.ao_38","Provisões para saldos devedores de fornecedores","account_parent.data_account_type_view",0
+"ao_382","l10n_ao.l10n_ao_chart_template",382,"l10n_ao.ao_38","Provisões para saldos devedores de fornecedores","account_parent_v10.data_account_type_view",0
 "ao_382100","l10n_ao.l10n_ao_chart_template",382100,"l10n_ao.ao_382","Provisões para saldos devedores de fornecedores","account.data_account_type_current_liabilities",0
-"ao_383","l10n_ao.l10n_ao_chart_template",383,"l10n_ao.ao_38","Provisões p/participantes e participadas","account_parent.data_account_type_view",0
+"ao_383","l10n_ao.l10n_ao_chart_template",383,"l10n_ao.ao_38","Provisões p/participantes e participadas","account_parent_v10.data_account_type_view",0
 "ao_383100","l10n_ao.l10n_ao_chart_template",383100,"l10n_ao.ao_383","Participantes","account.data_account_type_current_liabilities",0
 "ao_383200","l10n_ao.l10n_ao_chart_template",383200,"l10n_ao.ao_383","Participadas","account.data_account_type_current_liabilities",0
-"ao_384","l10n_ao.l10n_ao_chart_template",384,"l10n_ao.ao_38","Provisões p/ dívidas do pessoal","account_parent.data_account_type_view",0
+"ao_384","l10n_ao.l10n_ao_chart_template",384,"l10n_ao.ao_38","Provisões p/ dívidas do pessoal","account_parent_v10.data_account_type_view",0
 "ao_384100","l10n_ao.l10n_ao_chart_template",384100,"l10n_ao.ao_384","Provisões p/ dívidas do pessoal","account.data_account_type_current_liabilities",0
-"ao_389","l10n_ao.l10n_ao_chart_template",389,"l10n_ao.ao_38","Provisões para outros saldos a receber","account_parent.data_account_type_view",0
+"ao_389","l10n_ao.l10n_ao_chart_template",389,"l10n_ao.ao_38","Provisões para outros saldos a receber","account_parent_v10.data_account_type_view",0
 "ao_389100","l10n_ao.l10n_ao_chart_template",389100,"l10n_ao.ao_389","Vendas imobilizado","account.data_account_type_current_liabilities",0
-"ao_39","l10n_ao.l10n_ao_chart_template",39,"l10n_ao.ao_3","PROVISÕES PARA OUTROS RISCOS E ENCARGOS","account_parent.data_account_type_view",0
-"ao_391","l10n_ao.l10n_ao_chart_template",391,"l10n_ao.ao_39","Provisões para pensões","account_parent.data_account_type_view",0
+"ao_39","l10n_ao.l10n_ao_chart_template",39,"l10n_ao.ao_3","PROVISÕES PARA OUTROS RISCOS E ENCARGOS","account_parent_v10.data_account_type_view",0
+"ao_391","l10n_ao.l10n_ao_chart_template",391,"l10n_ao.ao_39","Provisões para pensões","account_parent_v10.data_account_type_view",0
 "ao_391100","l10n_ao.l10n_ao_chart_template",391100,"l10n_ao.ao_391","Provisões para pensões","account.data_account_type_current_liabilities",0
-"ao_392","l10n_ao.l10n_ao_chart_template",392,"l10n_ao.ao_39","Provisões para processos judiciais em curso","account_parent.data_account_type_view",0
+"ao_392","l10n_ao.l10n_ao_chart_template",392,"l10n_ao.ao_39","Provisões para processos judiciais em curso","account_parent_v10.data_account_type_view",0
 "ao_392100","l10n_ao.l10n_ao_chart_template",392100,"l10n_ao.ao_392","Provisões para processos judiciais em curso","account.data_account_type_current_liabilities",0
-"ao_393","l10n_ao.l10n_ao_chart_template",393,"l10n_ao.ao_39","Provisões para acidentes de trabalho","account_parent.data_account_type_view",0
+"ao_393","l10n_ao.l10n_ao_chart_template",393,"l10n_ao.ao_39","Provisões para acidentes de trabalho","account_parent_v10.data_account_type_view",0
 "ao_393100","l10n_ao.l10n_ao_chart_template",393100,"l10n_ao.ao_393","Provisões para acidentes de trabalho","account.data_account_type_current_liabilities",0
-"ao_394","l10n_ao.l10n_ao_chart_template",394,"l10n_ao.ao_39","Provisões para garantias dadas a clientes","account_parent.data_account_type_view",0
+"ao_394","l10n_ao.l10n_ao_chart_template",394,"l10n_ao.ao_39","Provisões para garantias dadas a clientes","account_parent_v10.data_account_type_view",0
 "ao_394100","l10n_ao.l10n_ao_chart_template",394100,"l10n_ao.ao_394","Provisões para garantias dadas a clientes","account.data_account_type_current_liabilities",0
-"ao_399","l10n_ao.l10n_ao_chart_template",399,"l10n_ao.ao_39","Provisões para outros riscos e encargos","account_parent.data_account_type_view",0
+"ao_399","l10n_ao.l10n_ao_chart_template",399,"l10n_ao.ao_39","Provisões para outros riscos e encargos","account_parent_v10.data_account_type_view",0
 "ao_399100","l10n_ao.l10n_ao_chart_template",399100,"l10n_ao.ao_399","Provisões para outros riscos e encargos","account.data_account_type_current_liabilities",0
-"ao_4","l10n_ao.l10n_ao_chart_template",4,"l10n_ao.ao_0","MEIOS MONETÁRIOS","account_parent.data_account_type_view",0
-"ao_41","l10n_ao.l10n_ao_chart_template",41,"l10n_ao.ao_4","TÍTULOS NEGOCIÁVEIS","account_parent.data_account_type_view",0
-"ao_411","l10n_ao.l10n_ao_chart_template",411,"l10n_ao.ao_41","Acções","account_parent.data_account_type_view",0
+"ao_4","l10n_ao.l10n_ao_chart_template",4,"l10n_ao.ao_0","MEIOS MONETÁRIOS","account_parent_v10.data_account_type_view",0
+"ao_41","l10n_ao.l10n_ao_chart_template",41,"l10n_ao.ao_4","TÍTULOS NEGOCIÁVEIS","account_parent_v10.data_account_type_view",0
+"ao_411","l10n_ao.l10n_ao_chart_template",411,"l10n_ao.ao_41","Acções","account_parent_v10.data_account_type_view",0
 "ao_411100","l10n_ao.l10n_ao_chart_template",411100,"l10n_ao.ao_411","Empresas do grupo","account.data_account_type_current_assets",0
 "ao_411200","l10n_ao.l10n_ao_chart_template",411200,"l10n_ao.ao_411","Associadas","account.data_account_type_current_assets",0
 "ao_411300","l10n_ao.l10n_ao_chart_template",411300,"l10n_ao.ao_411","Outras empresas","account.data_account_type_current_assets",0
-"ao_412","l10n_ao.l10n_ao_chart_template",412,"l10n_ao.ao_41","Obrigações","account_parent.data_account_type_view",0
+"ao_412","l10n_ao.l10n_ao_chart_template",412,"l10n_ao.ao_41","Obrigações","account_parent_v10.data_account_type_view",0
 "ao_412100","l10n_ao.l10n_ao_chart_template",412100,"l10n_ao.ao_412","Empresas do grupo","account.data_account_type_current_assets",0
 "ao_412200","l10n_ao.l10n_ao_chart_template",412200,"l10n_ao.ao_412","Associadas","account.data_account_type_current_assets",0
 "ao_412300","l10n_ao.l10n_ao_chart_template",412300,"l10n_ao.ao_412","Outras empresas","account.data_account_type_current_assets",0
-"ao_413","l10n_ao.l10n_ao_chart_template",413,"l10n_ao.ao_41","Títulos da dívida pública","account_parent.data_account_type_view",0
+"ao_413","l10n_ao.l10n_ao_chart_template",413,"l10n_ao.ao_41","Títulos da dívida pública","account_parent_v10.data_account_type_view",0
 "ao_413100","l10n_ao.l10n_ao_chart_template",413100,"l10n_ao.ao_413","Títulos da dívida pública","account.data_account_type_current_assets",0
-"ao_42","l10n_ao.l10n_ao_chart_template",42,"l10n_ao.ao_4","DEPÓSITOS A PRAZO","account_parent.data_account_type_view",0
-"ao_421","l10n_ao.l10n_ao_chart_template",421,"l10n_ao.ao_42","Moeda nacional","account_parent.data_account_type_view",0
+"ao_42","l10n_ao.l10n_ao_chart_template",42,"l10n_ao.ao_4","DEPÓSITOS A PRAZO","account_parent_v10.data_account_type_view",0
+"ao_421","l10n_ao.l10n_ao_chart_template",421,"l10n_ao.ao_42","Moeda nacional","account_parent_v10.data_account_type_view",0
 "ao_421100","l10n_ao.l10n_ao_chart_template",421100,"l10n_ao.ao_421","Banco","account.data_account_type_current_assets",0
-"ao_422","l10n_ao.l10n_ao_chart_template",422,"l10n_ao.ao_42","Moeda estrangeira","account_parent.data_account_type_view",0
+"ao_422","l10n_ao.l10n_ao_chart_template",422,"l10n_ao.ao_42","Moeda estrangeira","account_parent_v10.data_account_type_view",0
 "ao_422100","l10n_ao.l10n_ao_chart_template",422100,"l10n_ao.ao_422","Banco","account.data_account_type_current_assets",0
-"ao_43","l10n_ao.l10n_ao_chart_template",43,"l10n_ao.ao_4","DEPÓSITOS À ORDEM","account_parent.data_account_type_view",0
-"ao_431","l10n_ao.l10n_ao_chart_template",431,"l10n_ao.ao_43","Moeda nacional","account_parent.data_account_type_view",0
+"ao_43","l10n_ao.l10n_ao_chart_template",43,"l10n_ao.ao_4","DEPÓSITOS À ORDEM","account_parent_v10.data_account_type_view",0
+"ao_431","l10n_ao.l10n_ao_chart_template",431,"l10n_ao.ao_43","Moeda nacional","account_parent_v10.data_account_type_view",0
 "ao_431101","l10n_ao.l10n_ao_chart_template",431101,"l10n_ao.ao_431","Banco","account.data_account_type_liquidity",0
-"ao_432","l10n_ao.l10n_ao_chart_template",432,"l10n_ao.ao_43","Moeda estrangeira","account_parent.data_account_type_view",0
+"ao_432","l10n_ao.l10n_ao_chart_template",432,"l10n_ao.ao_43","Moeda estrangeira","account_parent_v10.data_account_type_view",0
 "ao_432101","l10n_ao.l10n_ao_chart_template",432101,"l10n_ao.ao_432","Banco","account.data_account_type_liquidity",0
-"ao_44","l10n_ao.l10n_ao_chart_template",44,"l10n_ao.ao_4","OUTROS DEPÓSITOS","account_parent.data_account_type_view",0
-"ao_441","l10n_ao.l10n_ao_chart_template",441,"l10n_ao.ao_44","Moedas nacional","account_parent.data_account_type_view",0
+"ao_44","l10n_ao.l10n_ao_chart_template",44,"l10n_ao.ao_4","OUTROS DEPÓSITOS","account_parent_v10.data_account_type_view",0
+"ao_441","l10n_ao.l10n_ao_chart_template",441,"l10n_ao.ao_44","Moedas nacional","account_parent_v10.data_account_type_view",0
 "ao_441101","l10n_ao.l10n_ao_chart_template",441101,"l10n_ao.ao_441","Banco","account.data_account_type_current_assets",0
-"ao_442","l10n_ao.l10n_ao_chart_template",442,"l10n_ao.ao_44","Moeda estrangeira","account_parent.data_account_type_view",0
+"ao_442","l10n_ao.l10n_ao_chart_template",442,"l10n_ao.ao_44","Moeda estrangeira","account_parent_v10.data_account_type_view",0
 "ao_442101","l10n_ao.l10n_ao_chart_template",442101,"l10n_ao.ao_442","Banco","account.data_account_type_current_assets",0
-"ao_45","l10n_ao.l10n_ao_chart_template",45,"l10n_ao.ao_4","CAIXA","account_parent.data_account_type_view",0
-"ao_451","l10n_ao.l10n_ao_chart_template",451,"l10n_ao.ao_45","Fundo fixo","account_parent.data_account_type_view",0
+"ao_45","l10n_ao.l10n_ao_chart_template",45,"l10n_ao.ao_4","CAIXA","account_parent_v10.data_account_type_view",0
+"ao_451","l10n_ao.l10n_ao_chart_template",451,"l10n_ao.ao_45","Fundo fixo","account_parent_v10.data_account_type_view",0
 "ao_451101","l10n_ao.l10n_ao_chart_template",451101,"l10n_ao.ao_451","Caixa","account.data_account_type_liquidity",0
-"ao_452","l10n_ao.l10n_ao_chart_template",452,"l10n_ao.ao_45","Valores para depositar","account_parent.data_account_type_view",0
+"ao_452","l10n_ao.l10n_ao_chart_template",452,"l10n_ao.ao_45","Valores para depositar","account_parent_v10.data_account_type_view",0
 "ao_452100","l10n_ao.l10n_ao_chart_template",452100,"l10n_ao.ao_452","Valores para depositar","account.data_account_type_current_assets",0
-"ao_453","l10n_ao.l10n_ao_chart_template",453,"l10n_ao.ao_45","Valores destinados a pagamentos específicos","account_parent.data_account_type_view",0
+"ao_453","l10n_ao.l10n_ao_chart_template",453,"l10n_ao.ao_45","Valores destinados a pagamentos específicos","account_parent_v10.data_account_type_view",0
 "ao_453100","l10n_ao.l10n_ao_chart_template",453100,"l10n_ao.ao_453","Salários","account.data_account_type_current_assets",0
-"ao_48","l10n_ao.l10n_ao_chart_template",48,"l10n_ao.ao_4","CONTAS TRANSITÓRIAS","account_parent.data_account_type_view",0
+"ao_48","l10n_ao.l10n_ao_chart_template",48,"l10n_ao.ao_4","CONTAS TRANSITÓRIAS","account_parent_v10.data_account_type_view",0
 "ao_481001","l10n_ao.l10n_ao_chart_template",481001,"l10n_ao.ao_48","Banco","account.data_account_type_current_assets",0
 "ao_482001","l10n_ao.l10n_ao_chart_template",482001,"l10n_ao.ao_48","Banco","account.data_account_type_current_assets",0
-"ao_49","l10n_ao.l10n_ao_chart_template",49,"l10n_ao.ao_4","PROVISÕES PARA APLICAÇÕES DE TESOURARIA","account_parent.data_account_type_view",0
-"ao_491","l10n_ao.l10n_ao_chart_template",491,"l10n_ao.ao_49","Títulos negociáveis","account_parent.data_account_type_view",0
+"ao_49","l10n_ao.l10n_ao_chart_template",49,"l10n_ao.ao_4","PROVISÕES PARA APLICAÇÕES DE TESOURARIA","account_parent_v10.data_account_type_view",0
+"ao_491","l10n_ao.l10n_ao_chart_template",491,"l10n_ao.ao_49","Títulos negociáveis","account_parent_v10.data_account_type_view",0
 "ao_491100","l10n_ao.l10n_ao_chart_template",491100,"l10n_ao.ao_491","Acções","account.data_account_type_current_assets",0
 "ao_491200","l10n_ao.l10n_ao_chart_template",491200,"l10n_ao.ao_491","Obrigações","account.data_account_type_current_assets",0
 "ao_491300","l10n_ao.l10n_ao_chart_template",491300,"l10n_ao.ao_491","Títulos da dívida pública","account.data_account_type_current_assets",0
-"ao_492","l10n_ao.l10n_ao_chart_template",492,"l10n_ao.ao_49","Outras aplicações de tesouraria","account_parent.data_account_type_view",0
+"ao_492","l10n_ao.l10n_ao_chart_template",492,"l10n_ao.ao_49","Outras aplicações de tesouraria","account_parent_v10.data_account_type_view",0
 "ao_492100","l10n_ao.l10n_ao_chart_template",492100,"l10n_ao.ao_492","Outras aplicações de tesouraria","account.data_account_type_current_assets",0
-"ao_5","l10n_ao.l10n_ao_chart_template",5,"l10n_ao.ao_0","CAPITAL E RESERVAS","account_parent.data_account_type_view",0
+"ao_5","l10n_ao.l10n_ao_chart_template",5,"l10n_ao.ao_0","CAPITAL E RESERVAS","account_parent_v10.data_account_type_view",0
 "ao_51","l10n_ao.l10n_ao_chart_template",51,"l10n_ao.ao_5","CAPITAL","account.data_account_type_current_liabilities",0
-"ao_52","l10n_ao.l10n_ao_chart_template",52,"l10n_ao.ao_5","ACÇÕES, QUOTAS PRÓPRIAS","account_parent.data_account_type_view",0
-"ao_521","l10n_ao.l10n_ao_chart_template",521,"l10n_ao.ao_52","Valor nominal","account_parent.data_account_type_view",0
+"ao_52","l10n_ao.l10n_ao_chart_template",52,"l10n_ao.ao_5","ACÇÕES, QUOTAS PRÓPRIAS","account_parent_v10.data_account_type_view",0
+"ao_521","l10n_ao.l10n_ao_chart_template",521,"l10n_ao.ao_52","Valor nominal","account_parent_v10.data_account_type_view",0
 "ao_521100","l10n_ao.l10n_ao_chart_template",521100,"l10n_ao.ao_521","Valor nominal","account.data_account_type_current_liabilities",0
-"ao_522","l10n_ao.l10n_ao_chart_template",522,"l10n_ao.ao_52","Descontos","account_parent.data_account_type_view",0
+"ao_522","l10n_ao.l10n_ao_chart_template",522,"l10n_ao.ao_52","Descontos","account_parent_v10.data_account_type_view",0
 "ao_522100","l10n_ao.l10n_ao_chart_template",522100,"l10n_ao.ao_522","Descontos","account.data_account_type_current_liabilities",0
-"ao_523","l10n_ao.l10n_ao_chart_template",523,"l10n_ao.ao_52","Prémios","account_parent.data_account_type_view",0
+"ao_523","l10n_ao.l10n_ao_chart_template",523,"l10n_ao.ao_52","Prémios","account_parent_v10.data_account_type_view",0
 "ao_523100","l10n_ao.l10n_ao_chart_template",523100,"l10n_ao.ao_523","Prémios","account.data_account_type_current_liabilities",0
 "ao_53","l10n_ao.l10n_ao_chart_template",53,"l10n_ao.ao_5","PRÉMIOS DE EMISSÃO","account.data_account_type_current_liabilities",0
 "ao_54","l10n_ao.l10n_ao_chart_template",54,"l10n_ao.ao_5","PRESTAÇÕES SUPLEMENTARES","account.data_account_type_current_liabilities",0
 "ao_55","l10n_ao.l10n_ao_chart_template",55,"l10n_ao.ao_5","RESERVAS LEGAIS","account.data_account_type_current_liabilities",0
 "ao_56","l10n_ao.l10n_ao_chart_template",56,"l10n_ao.ao_5","RESERVAS DE REAVALIAÇÃO","account.data_account_type_current_liabilities",0
-"ao_561","l10n_ao.l10n_ao_chart_template",561,"l10n_ao.ao_56","Legais","account_parent.data_account_type_view",0
+"ao_561","l10n_ao.l10n_ao_chart_template",561,"l10n_ao.ao_56","Legais","account_parent_v10.data_account_type_view",0
 "ao_561100","l10n_ao.l10n_ao_chart_template",561100,"l10n_ao.ao_561","Decreto-Lei nº","account.data_account_type_current_liabilities",0
 "ao_561200","l10n_ao.l10n_ao_chart_template",561200,"l10n_ao.ao_561","Decreto-Lei nº","account.data_account_type_current_liabilities",0
-"ao_562","l10n_ao.l10n_ao_chart_template",562,"l10n_ao.ao_56","Autónomas","account_parent.data_account_type_view",0
+"ao_562","l10n_ao.l10n_ao_chart_template",562,"l10n_ao.ao_56","Autónomas","account_parent_v10.data_account_type_view",0
 "ao_562100","l10n_ao.l10n_ao_chart_template",562100,"l10n_ao.ao_562","Avaliação","account.data_account_type_current_liabilities",0
 "ao_562200","l10n_ao.l10n_ao_chart_template",562200,"l10n_ao.ao_562","Realização","account.data_account_type_current_liabilities",0
 "ao_57","l10n_ao.l10n_ao_chart_template",57,"l10n_ao.ao_5","RESERVAS COM FINS ESPECIAIS","account.data_account_type_current_liabilities",0
 "ao_58","l10n_ao.l10n_ao_chart_template",58,"l10n_ao.ao_5","RESERVAS LIVRES","account.data_account_type_current_liabilities",0
-"ao_6","l10n_ao.l10n_ao_chart_template",6,"l10n_ao.ao_0","PROVEITOS E GANHOS POR NATUREZA","account_parent.data_account_type_view",0
-"ao_61","l10n_ao.l10n_ao_chart_template",61,"l10n_ao.ao_6","VENDAS","account_parent.data_account_type_view",0
-"ao_611","l10n_ao.l10n_ao_chart_template",611,"l10n_ao.ao_61","Produtos acabados e intermédios","account_parent.data_account_type_view",0
+"ao_6","l10n_ao.l10n_ao_chart_template",6,"l10n_ao.ao_0","PROVEITOS E GANHOS POR NATUREZA","account_parent_v10.data_account_type_view",0
+"ao_61","l10n_ao.l10n_ao_chart_template",61,"l10n_ao.ao_6","VENDAS","account_parent_v10.data_account_type_view",0
+"ao_611","l10n_ao.l10n_ao_chart_template",611,"l10n_ao.ao_61","Produtos acabados e intermédios","account_parent_v10.data_account_type_view",0
 "ao_611100","l10n_ao.l10n_ao_chart_template",611100,"l10n_ao.ao_611","Mercado nacional","account.data_account_type_revenue",0
 "ao_611200","l10n_ao.l10n_ao_chart_template",611200,"l10n_ao.ao_611","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_612","l10n_ao.l10n_ao_chart_template",612,"l10n_ao.ao_61","Subprodutos, desperdícios, resíduos e refugos","account_parent.data_account_type_view",0
+"ao_612","l10n_ao.l10n_ao_chart_template",612,"l10n_ao.ao_61","Subprodutos, desperdícios, resíduos e refugos","account_parent_v10.data_account_type_view",0
 "ao_612100","l10n_ao.l10n_ao_chart_template",612100,"l10n_ao.ao_612","Mercado nacional","account.data_account_type_revenue",0
 "ao_612200","l10n_ao.l10n_ao_chart_template",612200,"l10n_ao.ao_612","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_613","l10n_ao.l10n_ao_chart_template",613,"l10n_ao.ao_61","Mercadorias","account_parent.data_account_type_view",0
+"ao_613","l10n_ao.l10n_ao_chart_template",613,"l10n_ao.ao_61","Mercadorias","account_parent_v10.data_account_type_view",0
 "ao_613100","l10n_ao.l10n_ao_chart_template",613100,"l10n_ao.ao_613","Mercado nacional","account.data_account_type_revenue",0
 "ao_613200","l10n_ao.l10n_ao_chart_template",613200,"l10n_ao.ao_613","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_614","l10n_ao.l10n_ao_chart_template",614,"l10n_ao.ao_61","Embalagens de consumo","account_parent.data_account_type_view",0
+"ao_614","l10n_ao.l10n_ao_chart_template",614,"l10n_ao.ao_61","Embalagens de consumo","account_parent_v10.data_account_type_view",0
 "ao_614100","l10n_ao.l10n_ao_chart_template",614100,"l10n_ao.ao_614","Mercado nacional","account.data_account_type_revenue",0
 "ao_614200","l10n_ao.l10n_ao_chart_template",614200,"l10n_ao.ao_614","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_615","l10n_ao.l10n_ao_chart_template",615,"l10n_ao.ao_61","Subsídios a preços","account_parent.data_account_type_view",0
+"ao_615","l10n_ao.l10n_ao_chart_template",615,"l10n_ao.ao_61","Subsídios a preços","account_parent_v10.data_account_type_view",0
 "ao_615100","l10n_ao.l10n_ao_chart_template",615100,"l10n_ao.ao_615","Subsídios a preços","account.data_account_type_revenue",0
-"ao_617","l10n_ao.l10n_ao_chart_template",617,"l10n_ao.ao_61","Devoluções","account_parent.data_account_type_view",0
+"ao_617","l10n_ao.l10n_ao_chart_template",617,"l10n_ao.ao_61","Devoluções","account_parent_v10.data_account_type_view",0
 "ao_617100","l10n_ao.l10n_ao_chart_template",617100,"l10n_ao.ao_617","Mercado nacional","account.data_account_type_revenue",0
 "ao_617200","l10n_ao.l10n_ao_chart_template",617200,"l10n_ao.ao_617","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_618","l10n_ao.l10n_ao_chart_template",618,"l10n_ao.ao_61","Descontos e abatimentos","account_parent.data_account_type_view",0
+"ao_618","l10n_ao.l10n_ao_chart_template",618,"l10n_ao.ao_61","Descontos e abatimentos","account_parent_v10.data_account_type_view",0
 "ao_618100","l10n_ao.l10n_ao_chart_template",618100,"l10n_ao.ao_618","Mercado nacional","account.data_account_type_revenue",0
 "ao_618200","l10n_ao.l10n_ao_chart_template",618200,"l10n_ao.ao_618","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_619","l10n_ao.l10n_ao_chart_template",619,"l10n_ao.ao_61","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_62","l10n_ao.l10n_ao_chart_template",62,"l10n_ao.ao_6","PRESTAÇÕES DE SERVIÇOS","account_parent.data_account_type_view",0
-"ao_621","l10n_ao.l10n_ao_chart_template",621,"l10n_ao.ao_62","Serviços principais","account_parent.data_account_type_view",0
+"ao_619","l10n_ao.l10n_ao_chart_template",619,"l10n_ao.ao_61","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_62","l10n_ao.l10n_ao_chart_template",62,"l10n_ao.ao_6","PRESTAÇÕES DE SERVIÇOS","account_parent_v10.data_account_type_view",0
+"ao_621","l10n_ao.l10n_ao_chart_template",621,"l10n_ao.ao_62","Serviços principais","account_parent_v10.data_account_type_view",0
 "ao_621100","l10n_ao.l10n_ao_chart_template",621100,"l10n_ao.ao_621","Mercado nacional","account.data_account_type_revenue",0
 "ao_621200","l10n_ao.l10n_ao_chart_template",621200,"l10n_ao.ao_621","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_622","l10n_ao.l10n_ao_chart_template",622,"l10n_ao.ao_62","Serviços secundários","account_parent.data_account_type_view",0
+"ao_622","l10n_ao.l10n_ao_chart_template",622,"l10n_ao.ao_62","Serviços secundários","account_parent_v10.data_account_type_view",0
 "ao_622100","l10n_ao.l10n_ao_chart_template",622100,"l10n_ao.ao_622","Mercado nacional","account.data_account_type_revenue",0
 "ao_622200","l10n_ao.l10n_ao_chart_template",622200,"l10n_ao.ao_622","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_628","l10n_ao.l10n_ao_chart_template",628,"l10n_ao.ao_62","Descontos e abatimentos","account_parent.data_account_type_view",0
+"ao_628","l10n_ao.l10n_ao_chart_template",628,"l10n_ao.ao_62","Descontos e abatimentos","account_parent_v10.data_account_type_view",0
 "ao_628100","l10n_ao.l10n_ao_chart_template",628100,"l10n_ao.ao_628","Mercado nacional","account.data_account_type_revenue",0
 "ao_628200","l10n_ao.l10n_ao_chart_template",628200,"l10n_ao.ao_628","Mercado estrangeiro","account.data_account_type_revenue",0
-"ao_629","l10n_ao.l10n_ao_chart_template",629,"l10n_ao.ao_62","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_63","l10n_ao.l10n_ao_chart_template",63,"l10n_ao.ao_6","OUTROS PROVEITOS OPERACIONAIS","account_parent.data_account_type_view",0
-"ao_631","l10n_ao.l10n_ao_chart_template",631,"l10n_ao.ao_63","Serviços suplementares","account_parent.data_account_type_view",0
+"ao_629","l10n_ao.l10n_ao_chart_template",629,"l10n_ao.ao_62","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_63","l10n_ao.l10n_ao_chart_template",63,"l10n_ao.ao_6","OUTROS PROVEITOS OPERACIONAIS","account_parent_v10.data_account_type_view",0
+"ao_631","l10n_ao.l10n_ao_chart_template",631,"l10n_ao.ao_63","Serviços suplementares","account_parent_v10.data_account_type_view",0
 "ao_631100","l10n_ao.l10n_ao_chart_template",631100,"l10n_ao.ao_631","Aluguer de equipamento","account.data_account_type_revenue",0
 "ao_631200","l10n_ao.l10n_ao_chart_template",631200,"l10n_ao.ao_631","Cedência de pessoal","account.data_account_type_revenue",0
 "ao_631300","l10n_ao.l10n_ao_chart_template",631300,"l10n_ao.ao_631","Cedência de energia","account.data_account_type_revenue",0
 "ao_631400","l10n_ao.l10n_ao_chart_template",631400,"l10n_ao.ao_631","Estudos, projectos e assistência técnica","account.data_account_type_revenue",0
-"ao_632","l10n_ao.l10n_ao_chart_template",632,"l10n_ao.ao_63","Royalties","account_parent.data_account_type_view",0
-"ao_633","l10n_ao.l10n_ao_chart_template",633,"l10n_ao.ao_63","Subsídios à exploração","account_parent.data_account_type_view",0
-"ao_634","l10n_ao.l10n_ao_chart_template",634,"l10n_ao.ao_63","Subsídios a investimento","account_parent.data_account_type_view",0
-"ao_638","l10n_ao.l10n_ao_chart_template",638,"l10n_ao.ao_63","Outros proveitos e ganhos operacionais","account_parent.data_account_type_view",0
+"ao_632","l10n_ao.l10n_ao_chart_template",632,"l10n_ao.ao_63","Royalties","account_parent_v10.data_account_type_view",0
+"ao_633","l10n_ao.l10n_ao_chart_template",633,"l10n_ao.ao_63","Subsídios à exploração","account_parent_v10.data_account_type_view",0
+"ao_634","l10n_ao.l10n_ao_chart_template",634,"l10n_ao.ao_63","Subsídios a investimento","account_parent_v10.data_account_type_view",0
+"ao_638","l10n_ao.l10n_ao_chart_template",638,"l10n_ao.ao_63","Outros proveitos e ganhos operacionais","account_parent_v10.data_account_type_view",0
 "ao_638100","l10n_ao.l10n_ao_chart_template",638100,"l10n_ao.ao_638","Outros proveitos e ganhos operacionais","account.data_account_type_revenue",0
-"ao_639","l10n_ao.l10n_ao_chart_template",639,"l10n_ao.ao_63","Transfêrencia para resultados operacionais","account_parent.data_account_type_view",0
-"ao_64","l10n_ao.l10n_ao_chart_template",64,"l10n_ao.ao_6","VARIAÇÃO NOS INVENTÁRIOS DE PRODUTOS ACABADOS E DE PRODUÇÃO EM CURSO","account_parent.data_account_type_view",0
-"ao_641","l10n_ao.l10n_ao_chart_template",641,"l10n_ao.ao_64","Produtos e trabalhos em curso","account_parent.data_account_type_view",0
+"ao_639","l10n_ao.l10n_ao_chart_template",639,"l10n_ao.ao_63","Transfêrencia para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_64","l10n_ao.l10n_ao_chart_template",64,"l10n_ao.ao_6","VARIAÇÃO NOS INVENTÁRIOS DE PRODUTOS ACABADOS E DE PRODUÇÃO EM CURSO","account_parent_v10.data_account_type_view",0
+"ao_641","l10n_ao.l10n_ao_chart_template",641,"l10n_ao.ao_64","Produtos e trabalhos em curso","account_parent_v10.data_account_type_view",0
 "ao_641100","l10n_ao.l10n_ao_chart_template",641100,"l10n_ao.ao_641","Income","account.data_account_type_revenue",0
-"ao_642","l10n_ao.l10n_ao_chart_template",642,"l10n_ao.ao_64","Produtos acabados","account_parent.data_account_type_view",0
+"ao_642","l10n_ao.l10n_ao_chart_template",642,"l10n_ao.ao_64","Produtos acabados","account_parent_v10.data_account_type_view",0
 "ao_642100","l10n_ao.l10n_ao_chart_template",642100,"l10n_ao.ao_642","Income","account.data_account_type_revenue",0
-"ao_643","l10n_ao.l10n_ao_chart_template",643,"l10n_ao.ao_64","Produtos intermédios","account_parent.data_account_type_view",0
+"ao_643","l10n_ao.l10n_ao_chart_template",643,"l10n_ao.ao_64","Produtos intermédios","account_parent_v10.data_account_type_view",0
 "ao_643100","l10n_ao.l10n_ao_chart_template",643100,"l10n_ao.ao_643","Produtos intermédios","account.data_account_type_revenue",0
-"ao_649","l10n_ao.l10n_ao_chart_template",649,"l10n_ao.ao_64","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_65","l10n_ao.l10n_ao_chart_template",65,"l10n_ao.ao_6","TRABALHOS PARA PRÓPRIA EMPRESA","account_parent.data_account_type_view",0
-"ao_651","l10n_ao.l10n_ao_chart_template",651,"l10n_ao.ao_65","Para imobilizado","account_parent.data_account_type_view",0
+"ao_649","l10n_ao.l10n_ao_chart_template",649,"l10n_ao.ao_64","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_65","l10n_ao.l10n_ao_chart_template",65,"l10n_ao.ao_6","TRABALHOS PARA PRÓPRIA EMPRESA","account_parent_v10.data_account_type_view",0
+"ao_651","l10n_ao.l10n_ao_chart_template",651,"l10n_ao.ao_65","Para imobilizado","account_parent_v10.data_account_type_view",0
 "ao_651100","l10n_ao.l10n_ao_chart_template",651100,"l10n_ao.ao_651","Corpóreo","account.data_account_type_revenue",0
 "ao_651200","l10n_ao.l10n_ao_chart_template",651200,"l10n_ao.ao_651","Incorpóreo","account.data_account_type_revenue",0
 "ao_651300","l10n_ao.l10n_ao_chart_template",651300,"l10n_ao.ao_651","Financeiro","account.data_account_type_revenue",0
 "ao_651400","l10n_ao.l10n_ao_chart_template",651400,"l10n_ao.ao_651","Em curso","account.data_account_type_revenue",0
-"ao_652","l10n_ao.l10n_ao_chart_template",652,"l10n_ao.ao_65","Para encargos a repartir por exercícios futuros","account_parent.data_account_type_view",0
+"ao_652","l10n_ao.l10n_ao_chart_template",652,"l10n_ao.ao_65","Para encargos a repartir por exercícios futuros","account_parent_v10.data_account_type_view",0
 "ao_652100","l10n_ao.l10n_ao_chart_template",652100,"l10n_ao.ao_652","Para encargos a repartir por exercícios futuros","account.data_account_type_revenue",0
-"ao_659","l10n_ao.l10n_ao_chart_template",659,"l10n_ao.ao_65","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_66","l10n_ao.l10n_ao_chart_template",66,"l10n_ao.ao_6","PROVEITOS E GANHOS FINANCEIROS GERAIS","account_parent.data_account_type_view",0
-"ao_661","l10n_ao.l10n_ao_chart_template",661,"l10n_ao.ao_66","Juros","account_parent.data_account_type_view",0
-"ao_6611","l10n_ao.l10n_ao_chart_template",6611,"l10n_ao.ao_661","De investimentos financeiros","account_parent.data_account_type_view",0
+"ao_659","l10n_ao.l10n_ao_chart_template",659,"l10n_ao.ao_65","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_66","l10n_ao.l10n_ao_chart_template",66,"l10n_ao.ao_6","PROVEITOS E GANHOS FINANCEIROS GERAIS","account_parent_v10.data_account_type_view",0
+"ao_661","l10n_ao.l10n_ao_chart_template",661,"l10n_ao.ao_66","Juros","account_parent_v10.data_account_type_view",0
+"ao_6611","l10n_ao.l10n_ao_chart_template",6611,"l10n_ao.ao_661","De investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_661110","l10n_ao.l10n_ao_chart_template",661110,"l10n_ao.ao_6611","Obrigações","account.data_account_type_revenue",0
 "ao_661130","l10n_ao.l10n_ao_chart_template",661130,"l10n_ao.ao_6611","Títulos de participação","account.data_account_type_revenue",0
 "ao_661140","l10n_ao.l10n_ao_chart_template",661140,"l10n_ao.ao_6611","Empréstimos","account.data_account_type_revenue",0
 "ao_661190","l10n_ao.l10n_ao_chart_template",661190,"l10n_ao.ao_6611","Outros","account.data_account_type_revenue",0
-"ao_6612","l10n_ao.l10n_ao_chart_template",6612,"l10n_ao.ao_661","De mora relativos a dívidas de terceiros","account_parent.data_account_type_view",0
+"ao_6612","l10n_ao.l10n_ao_chart_template",6612,"l10n_ao.ao_661","De mora relativos a dívidas de terceiros","account_parent_v10.data_account_type_view",0
 "ao_661210","l10n_ao.l10n_ao_chart_template",661210,"l10n_ao.ao_6612","Dívidas recebidas a prestações","account.data_account_type_revenue",0
 "ao_661220","l10n_ao.l10n_ao_chart_template",661220,"l10n_ao.ao_6612","De empréstimos a terceiros","account.data_account_type_revenue",0
 "ao_661400","l10n_ao.l10n_ao_chart_template",661400,"l10n_ao.ao_6612","De aplicações de tesouraria","account.data_account_type_revenue",0
 "ao_661500","l10n_ao.l10n_ao_chart_template",661500,"l10n_ao.ao_6612","Descontos de títulos","account.data_account_type_revenue",0
-"ao_662","l10n_ao.l10n_ao_chart_template",662,"l10n_ao.ao_66","Diferenças de câmbio favoráveis","account_parent.data_account_type_view",0
+"ao_662","l10n_ao.l10n_ao_chart_template",662,"l10n_ao.ao_66","Diferenças de câmbio favoráveis","account_parent_v10.data_account_type_view",0
 "ao_662100","l10n_ao.l10n_ao_chart_template",662100,"l10n_ao.ao_662","Realizadas","account.data_account_type_revenue",0
 "ao_662200","l10n_ao.l10n_ao_chart_template",662200,"l10n_ao.ao_662","Não realizadas","account.data_account_type_revenue",0
-"ao_663","l10n_ao.l10n_ao_chart_template",663,"l10n_ao.ao_66","Descontos de pronto pagamento obtidos","account_parent.data_account_type_view",0
+"ao_663","l10n_ao.l10n_ao_chart_template",663,"l10n_ao.ao_66","Descontos de pronto pagamento obtidos","account_parent_v10.data_account_type_view",0
 "ao_663100","l10n_ao.l10n_ao_chart_template",663100,"l10n_ao.ao_663","Descontos de pronto pagamento obtidos","account.data_account_type_revenue",0
-"ao_664","l10n_ao.l10n_ao_chart_template",664,"l10n_ao.ao_66","Rendimentos de investimentos em imóveis","account_parent.data_account_type_view",0
+"ao_664","l10n_ao.l10n_ao_chart_template",664,"l10n_ao.ao_66","Rendimentos de investimentos em imóveis","account_parent_v10.data_account_type_view",0
 "ao_664100","l10n_ao.l10n_ao_chart_template",664100,"l10n_ao.ao_664","Rendimentos de investimentos em imóveis","account.data_account_type_revenue",0
-"ao_665","l10n_ao.l10n_ao_chart_template",665,"l10n_ao.ao_66","Rendimento de participações de capital","account_parent.data_account_type_view",0
+"ao_665","l10n_ao.l10n_ao_chart_template",665,"l10n_ao.ao_66","Rendimento de participações de capital","account_parent_v10.data_account_type_view",0
 "ao_665100","l10n_ao.l10n_ao_chart_template",665100,"l10n_ao.ao_665","Acções, quotas em outras empresa","account.data_account_type_revenue",0
 "ao_665200","l10n_ao.l10n_ao_chart_template",665200,"l10n_ao.ao_665","Acções, quotas incluídas nos fundos","account.data_account_type_revenue",0
 "ao_665300","l10n_ao.l10n_ao_chart_template",665300,"l10n_ao.ao_665","Acções, quotas incluídas nos títulos negociáveis","account.data_account_type_revenue",0
-"ao_666","l10n_ao.l10n_ao_chart_template",666,"l10n_ao.ao_66","Ganhos na alienação de aplicações financeiras","account_parent.data_account_type_view",0
-"ao_6661","l10n_ao.l10n_ao_chart_template",6661,"l10n_ao.ao_666","Investimentos financeiros","account_parent.data_account_type_view",0
+"ao_666","l10n_ao.l10n_ao_chart_template",666,"l10n_ao.ao_66","Ganhos na alienação de aplicações financeiras","account_parent_v10.data_account_type_view",0
+"ao_6661","l10n_ao.l10n_ao_chart_template",6661,"l10n_ao.ao_666","Investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_666110","l10n_ao.l10n_ao_chart_template",666110,"l10n_ao.ao_6661","Subsidiárias","account.data_account_type_revenue",0
 "ao_666120","l10n_ao.l10n_ao_chart_template",666120,"l10n_ao.ao_6661","Associadas","account.data_account_type_revenue",0
 "ao_666130","l10n_ao.l10n_ao_chart_template",666130,"l10n_ao.ao_6661","Outras empresas","account.data_account_type_revenue",0
@@ -549,32 +549,32 @@
 "ao_666150","l10n_ao.l10n_ao_chart_template",666150,"l10n_ao.ao_6661","Fundos","account.data_account_type_revenue",0
 "ao_666190","l10n_ao.l10n_ao_chart_template",666190,"l10n_ao.ao_6661","Outros investimentos","account.data_account_type_revenue",0
 "ao_666200","l10n_ao.l10n_ao_chart_template",666200,"l10n_ao.ao_6661","Títulos negociáveis","account.data_account_type_revenue",0
-"ao_667","l10n_ao.l10n_ao_chart_template",667,"l10n_ao.ao_66","Reposição de provisões","account_parent.data_account_type_view",0
-"ao_6671","l10n_ao.l10n_ao_chart_template",6671,"l10n_ao.ao_667","Investimentos financeiros","account_parent.data_account_type_view",0
+"ao_667","l10n_ao.l10n_ao_chart_template",667,"l10n_ao.ao_66","Reposição de provisões","account_parent_v10.data_account_type_view",0
+"ao_6671","l10n_ao.l10n_ao_chart_template",6671,"l10n_ao.ao_667","Investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_667110","l10n_ao.l10n_ao_chart_template",667110,"l10n_ao.ao_6671","Subsidiárias","account.data_account_type_revenue",0
 "ao_667120","l10n_ao.l10n_ao_chart_template",667120,"l10n_ao.ao_6671","Associadas","account.data_account_type_revenue",0
 "ao_667130","l10n_ao.l10n_ao_chart_template",667130,"l10n_ao.ao_6671","Outras empresas","account.data_account_type_revenue",0
 "ao_667140","l10n_ao.l10n_ao_chart_template",667140,"l10n_ao.ao_6671","Fundos","account.data_account_type_revenue",0
 "ao_667190","l10n_ao.l10n_ao_chart_template",667190,"l10n_ao.ao_6671","Outros investimentos","account.data_account_type_revenue",0
-"ao_6672","l10n_ao.l10n_ao_chart_template",6672,"l10n_ao.ao_667","Aplicações de tesouraria","account_parent.data_account_type_view",0
+"ao_6672","l10n_ao.l10n_ao_chart_template",6672,"l10n_ao.ao_667","Aplicações de tesouraria","account_parent_v10.data_account_type_view",0
 "ao_667210","l10n_ao.l10n_ao_chart_template",667210,"l10n_ao.ao_6672","Títulos negociáveis","account.data_account_type_revenue",0
 "ao_667220","l10n_ao.l10n_ao_chart_template",667220,"l10n_ao.ao_6672","Depósitos a prazo","account.data_account_type_revenue",0
 "ao_667230","l10n_ao.l10n_ao_chart_template",667230,"l10n_ao.ao_6672","Outros depósitos","account.data_account_type_revenue",0
 "ao_667290","l10n_ao.l10n_ao_chart_template",667290,"l10n_ao.ao_6672","Outros investimentos","account.data_account_type_revenue",0
-"ao_67","l10n_ao.l10n_ao_chart_template",67,"l10n_ao.ao_6","PROVEITOS E GANHOS FINANCEIROS EM SUBSIDIÁRIAS E ASSOCIADAS","account_parent.data_account_type_view",0
-"ao_671","l10n_ao.l10n_ao_chart_template",671,"l10n_ao.ao_67","Rendimento de participações de capital","account_parent.data_account_type_view",0
+"ao_67","l10n_ao.l10n_ao_chart_template",67,"l10n_ao.ao_6","PROVEITOS E GANHOS FINANCEIROS EM SUBSIDIÁRIAS E ASSOCIADAS","account_parent_v10.data_account_type_view",0
+"ao_671","l10n_ao.l10n_ao_chart_template",671,"l10n_ao.ao_67","Rendimento de participações de capital","account_parent_v10.data_account_type_view",0
 "ao_671100","l10n_ao.l10n_ao_chart_template",671100,"l10n_ao.ao_671","Subsidiárias","account.data_account_type_revenue",0
 "ao_671200","l10n_ao.l10n_ao_chart_template",671200,"l10n_ao.ao_671","Associadas","account.data_account_type_revenue",0
-"ao_679","l10n_ao.l10n_ao_chart_template",679,"l10n_ao.ao_67","Transferência para resultados em filiais e associadas","account_parent.data_account_type_view",0
-"ao_68","l10n_ao.l10n_ao_chart_template",68,"l10n_ao.ao_6","OUTROS PROVEITOS E GANHOS NÃO OPERACIONAIS","account_parent.data_account_type_view",0
-"ao_6801","l10n_ao.l10n_ao_chart_template",6801,"l10n_ao.ao_68","Redução de provisões","account_parent.data_account_type_view",0
-"ao_68011","l10n_ao.l10n_ao_chart_template",68011,"l10n_ao.ao_6801","Existências","account_parent.data_account_type_view",0
+"ao_679","l10n_ao.l10n_ao_chart_template",679,"l10n_ao.ao_67","Transferência para resultados em filiais e associadas","account_parent_v10.data_account_type_view",0
+"ao_68","l10n_ao.l10n_ao_chart_template",68,"l10n_ao.ao_6","OUTROS PROVEITOS E GANHOS NÃO OPERACIONAIS","account_parent_v10.data_account_type_view",0
+"ao_6801","l10n_ao.l10n_ao_chart_template",6801,"l10n_ao.ao_68","Redução de provisões","account_parent_v10.data_account_type_view",0
+"ao_68011","l10n_ao.l10n_ao_chart_template",68011,"l10n_ao.ao_6801","Existências","account_parent_v10.data_account_type_view",0
 "ao_680111","l10n_ao.l10n_ao_chart_template",680111,"l10n_ao.ao_68011","Matérias-primas, subsidiárias e de consumo","account.data_account_type_revenue",0
 "ao_680112","l10n_ao.l10n_ao_chart_template",680112,"l10n_ao.ao_68011","Produtos e trabalhos em curso","account.data_account_type_revenue",0
 "ao_680113","l10n_ao.l10n_ao_chart_template",680113,"l10n_ao.ao_68011","Produtos acabados e intermédios","account.data_account_type_revenue",0
 "ao_680114","l10n_ao.l10n_ao_chart_template",680114,"l10n_ao.ao_68011","Subprodutos, desperdícios, resíduos e refugos","account.data_account_type_revenue",0
 "ao_680115","l10n_ao.l10n_ao_chart_template",680115,"l10n_ao.ao_68011","Mercadorias","account.data_account_type_revenue",0
-"ao_68012","l10n_ao.l10n_ao_chart_template",68012,"l10n_ao.ao_6801","Cobranças duvidosas","account_parent.data_account_type_view",0
+"ao_68012","l10n_ao.l10n_ao_chart_template",68012,"l10n_ao.ao_6801","Cobranças duvidosas","account_parent_v10.data_account_type_view",0
 "ao_680121","l10n_ao.l10n_ao_chart_template",680121,"l10n_ao.ao_68012","Clientes","account.data_account_type_revenue",0
 "ao_680122","l10n_ao.l10n_ao_chart_template",680122,"l10n_ao.ao_68012","Clientes-títulos a receber","account.data_account_type_revenue",0
 "ao_680123","l10n_ao.l10n_ao_chart_template",680123,"l10n_ao.ao_68012","Clientes-cobranças duvidosa","account.data_account_type_revenue",0
@@ -582,61 +582,61 @@
 "ao_680125","l10n_ao.l10n_ao_chart_template",680125,"l10n_ao.ao_68012","Participantes e participadas","account.data_account_type_revenue",0
 "ao_680126","l10n_ao.l10n_ao_chart_template",680126,"l10n_ao.ao_68012","Dídidas do pessoal","account.data_account_type_revenue",0
 "ao_680129","l10n_ao.l10n_ao_chart_template",680129,"l10n_ao.ao_68012","Outros saldos a receber","account.data_account_type_revenue",0
-"ao_68013","l10n_ao.l10n_ao_chart_template",68013,"l10n_ao.ao_6801","Riscos e encargos","account_parent.data_account_type_view",0
+"ao_68013","l10n_ao.l10n_ao_chart_template",68013,"l10n_ao.ao_6801","Riscos e encargos","account_parent_v10.data_account_type_view",0
 "ao_680131","l10n_ao.l10n_ao_chart_template",680131,"l10n_ao.ao_68013","Pensões","account.data_account_type_revenue",0
 "ao_680132","l10n_ao.l10n_ao_chart_template",680132,"l10n_ao.ao_68013","Processos judiciais em curso","account.data_account_type_revenue",0
 "ao_680133","l10n_ao.l10n_ao_chart_template",680133,"l10n_ao.ao_68013","Acidentes de trabalho","account.data_account_type_revenue",0
 "ao_680134","l10n_ao.l10n_ao_chart_template",680134,"l10n_ao.ao_68013","Garantias dadas a clientes","account.data_account_type_revenue",0
 "ao_680139","l10n_ao.l10n_ao_chart_template",680139,"l10n_ao.ao_68013","Outros riscos e encargos","account.data_account_type_revenue",0
-"ao_6802","l10n_ao.l10n_ao_chart_template",6802,"l10n_ao.ao_68","Anulação de amortizações extraordinárias","account_parent.data_account_type_view",0
+"ao_6802","l10n_ao.l10n_ao_chart_template",6802,"l10n_ao.ao_68","Anulação de amortizações extraordinárias","account_parent_v10.data_account_type_view",0
 "ao_680210","l10n_ao.l10n_ao_chart_template",680210,"l10n_ao.ao_6802","Imobilizações corpóreas","account.data_account_type_revenue",0
 "ao_680220","l10n_ao.l10n_ao_chart_template",680220,"l10n_ao.ao_6802","Imobilizações incorpóreas","account.data_account_type_revenue",0
-"ao_6803","l10n_ao.l10n_ao_chart_template",6803,"l10n_ao.ao_68","Ganhos em imobilizações","account_parent.data_account_type_view",0
+"ao_6803","l10n_ao.l10n_ao_chart_template",6803,"l10n_ao.ao_68","Ganhos em imobilizações","account_parent_v10.data_account_type_view",0
 "ao_680310","l10n_ao.l10n_ao_chart_template",680310,"l10n_ao.ao_6803","Venda de imobilizações corpóreas","account.data_account_type_revenue",0
 "ao_680320","l10n_ao.l10n_ao_chart_template",680320,"l10n_ao.ao_6803","Venda de imobilizações incorpóreas","account.data_account_type_revenue",0
-"ao_6804","l10n_ao.l10n_ao_chart_template",6804,"l10n_ao.ao_68","Ganhos em existências","account_parent.data_account_type_view",0
+"ao_6804","l10n_ao.l10n_ao_chart_template",6804,"l10n_ao.ao_68","Ganhos em existências","account_parent_v10.data_account_type_view",0
 "ao_680410","l10n_ao.l10n_ao_chart_template",680410,"l10n_ao.ao_6804","Sobras","account.data_account_type_revenue",0
-"ao_6805","l10n_ao.l10n_ao_chart_template",6805,"l10n_ao.ao_68","Recuperação de dívidas","account_parent.data_account_type_view",0
+"ao_6805","l10n_ao.l10n_ao_chart_template",6805,"l10n_ao.ao_68","Recuperação de dívidas","account_parent_v10.data_account_type_view",0
 "ao_680510","l10n_ao.l10n_ao_chart_template",680510,"l10n_ao.ao_6805","Recuperação de dívidas","account.data_account_type_revenue",0
-"ao_6806","l10n_ao.l10n_ao_chart_template",6806,"l10n_ao.ao_68","Benefícios de penalidades contratuais","account_parent.data_account_type_view",0
+"ao_6806","l10n_ao.l10n_ao_chart_template",6806,"l10n_ao.ao_68","Benefícios de penalidades contratuais","account_parent_v10.data_account_type_view",0
 "ao_680610","l10n_ao.l10n_ao_chart_template",680610,"l10n_ao.ao_6806","Benefícios de penalidades contratuais","account.data_account_type_revenue",0
-"ao_6808","l10n_ao.l10n_ao_chart_template",6808,"l10n_ao.ao_68","Descontinuidade de operações","account_parent.data_account_type_view",0
-"ao_6809","l10n_ao.l10n_ao_chart_template",6809,"l10n_ao.ao_68","Alterações de políticas contabilísticas","account_parent.data_account_type_view",0
-"ao_6810","l10n_ao.l10n_ao_chart_template",6810,"l10n_ao.ao_68","Correcções relativas a exercícios anteriores","account_parent.data_account_type_view",0
+"ao_6808","l10n_ao.l10n_ao_chart_template",6808,"l10n_ao.ao_68","Descontinuidade de operações","account_parent_v10.data_account_type_view",0
+"ao_6809","l10n_ao.l10n_ao_chart_template",6809,"l10n_ao.ao_68","Alterações de políticas contabilísticas","account_parent_v10.data_account_type_view",0
+"ao_6810","l10n_ao.l10n_ao_chart_template",6810,"l10n_ao.ao_68","Correcções relativas a exercícios anteriores","account_parent_v10.data_account_type_view",0
 "ao_681010","l10n_ao.l10n_ao_chart_template",681010,"l10n_ao.ao_6810","Estimativa impostos","account.data_account_type_revenue",0
 "ao_681020","l10n_ao.l10n_ao_chart_template",681020,"l10n_ao.ao_6810","Restituição de impostos","account.data_account_type_revenue",0
-"ao_6811","l10n_ao.l10n_ao_chart_template",6811,"l10n_ao.ao_68","Outros ganhos e perdas não operacionais","account_parent.data_account_type_view",0
+"ao_6811","l10n_ao.l10n_ao_chart_template",6811,"l10n_ao.ao_68","Outros ganhos e perdas não operacionais","account_parent_v10.data_account_type_view",0
 "ao_681110","l10n_ao.l10n_ao_chart_template",681110,"l10n_ao.ao_6811","Donativos","account.data_account_type_revenue",0
-"ao_6819","l10n_ao.l10n_ao_chart_template",6819,"l10n_ao.ao_68","Transferência para resultados não operacionais","account_parent.data_account_type_view",0
-"ao_69","l10n_ao.l10n_ao_chart_template",69,"l10n_ao.ao_6","PROVEITOS E GANHOS EXTRAORDINÁRIOS","account_parent.data_account_type_view",0
-"ao_691","l10n_ao.l10n_ao_chart_template",691,"l10n_ao.ao_69","Ganhos resultantes de catástrofes naturais","account_parent.data_account_type_view",0
+"ao_6819","l10n_ao.l10n_ao_chart_template",6819,"l10n_ao.ao_68","Transferência para resultados não operacionais","account_parent_v10.data_account_type_view",0
+"ao_69","l10n_ao.l10n_ao_chart_template",69,"l10n_ao.ao_6","PROVEITOS E GANHOS EXTRAORDINÁRIOS","account_parent_v10.data_account_type_view",0
+"ao_691","l10n_ao.l10n_ao_chart_template",691,"l10n_ao.ao_69","Ganhos resultantes de catástrofes naturais","account_parent_v10.data_account_type_view",0
 "ao_691100","l10n_ao.l10n_ao_chart_template",691100,"l10n_ao.ao_691","Ganhos resultantes de catástrofes naturais","account.data_account_type_revenue",0
-"ao_692","l10n_ao.l10n_ao_chart_template",692,"l10n_ao.ao_69","Ganhos resultantes de convulsões políticas","account_parent.data_account_type_view",0
+"ao_692","l10n_ao.l10n_ao_chart_template",692,"l10n_ao.ao_69","Ganhos resultantes de convulsões políticas","account_parent_v10.data_account_type_view",0
 "ao_692100","l10n_ao.l10n_ao_chart_template",692100,"l10n_ao.ao_692","Ganhos resultantes de convulsões políticas","account.data_account_type_revenue",0
-"ao_693","l10n_ao.l10n_ao_chart_template",693,"l10n_ao.ao_69","Ganhos resultantes de expropriações","account_parent.data_account_type_view",0
+"ao_693","l10n_ao.l10n_ao_chart_template",693,"l10n_ao.ao_69","Ganhos resultantes de expropriações","account_parent_v10.data_account_type_view",0
 "ao_693100","l10n_ao.l10n_ao_chart_template",693100,"l10n_ao.ao_693","Ganhos resultantes de expropriações","account.data_account_type_revenue",0
-"ao_694","l10n_ao.l10n_ao_chart_template",694,"l10n_ao.ao_69","Ganhos resultantes de sinistros","account_parent.data_account_type_view",0
+"ao_694","l10n_ao.l10n_ao_chart_template",694,"l10n_ao.ao_69","Ganhos resultantes de sinistros","account_parent_v10.data_account_type_view",0
 "ao_694100","l10n_ao.l10n_ao_chart_template",694100,"l10n_ao.ao_694","Ganhos resultantes de sinistros","account.data_account_type_revenue",0
-"ao_695","l10n_ao.l10n_ao_chart_template",695,"l10n_ao.ao_69","Subsídios","account_parent.data_account_type_view",0
+"ao_695","l10n_ao.l10n_ao_chart_template",695,"l10n_ao.ao_69","Subsídios","account_parent_v10.data_account_type_view",0
 "ao_695100","l10n_ao.l10n_ao_chart_template",695100,"l10n_ao.ao_695","Subsídios","account.data_account_type_revenue",0
-"ao_696","l10n_ao.l10n_ao_chart_template",696,"l10n_ao.ao_69","Anulação de passivos não exigíveis","account_parent.data_account_type_view",0
+"ao_696","l10n_ao.l10n_ao_chart_template",696,"l10n_ao.ao_69","Anulação de passivos não exigíveis","account_parent_v10.data_account_type_view",0
 "ao_696100","l10n_ao.l10n_ao_chart_template",696100,"l10n_ao.ao_696","Anulação de passivos não exigíveis","account.data_account_type_revenue",0
-"ao_699","l10n_ao.l10n_ao_chart_template",699,"l10n_ao.ao_69","Transferência para resultados extraordinários","account_parent.data_account_type_view",0
-"ao_7","l10n_ao.l10n_ao_chart_template",7,"l10n_ao.ao_0","CUSTOS E PERDAS POR NATUREZA","account_parent.data_account_type_view",0
-"ao_71","l10n_ao.l10n_ao_chart_template",71,"l10n_ao.ao_7","CUSTOS DAS EXISTÊNCIAS VENDIDAS","account_parent.data_account_type_view",0
-"ao_711","l10n_ao.l10n_ao_chart_template",711,"l10n_ao.ao_71","Matérias - primas","account_parent.data_account_type_view",0
+"ao_699","l10n_ao.l10n_ao_chart_template",699,"l10n_ao.ao_69","Transferência para resultados extraordinários","account_parent_v10.data_account_type_view",0
+"ao_7","l10n_ao.l10n_ao_chart_template",7,"l10n_ao.ao_0","CUSTOS E PERDAS POR NATUREZA","account_parent_v10.data_account_type_view",0
+"ao_71","l10n_ao.l10n_ao_chart_template",71,"l10n_ao.ao_7","CUSTOS DAS EXISTÊNCIAS VENDIDAS","account_parent_v10.data_account_type_view",0
+"ao_711","l10n_ao.l10n_ao_chart_template",711,"l10n_ao.ao_71","Matérias - primas","account_parent_v10.data_account_type_view",0
 "ao_711100","l10n_ao.l10n_ao_chart_template",711100,"l10n_ao.ao_711","Matérias-primas","account.data_account_type_expenses",0
-"ao_712","l10n_ao.l10n_ao_chart_template",712,"l10n_ao.ao_71","Matérias subsidiárias","account_parent.data_account_type_view",0
+"ao_712","l10n_ao.l10n_ao_chart_template",712,"l10n_ao.ao_71","Matérias subsidiárias","account_parent_v10.data_account_type_view",0
 "ao_712100","l10n_ao.l10n_ao_chart_template",712100,"l10n_ao.ao_712","Matérias subsidiárias","account.data_account_type_expenses",0
-"ao_713","l10n_ao.l10n_ao_chart_template",713,"l10n_ao.ao_71","Materiais diversos","account_parent.data_account_type_view",0
+"ao_713","l10n_ao.l10n_ao_chart_template",713,"l10n_ao.ao_71","Materiais diversos","account_parent_v10.data_account_type_view",0
 "ao_713100","l10n_ao.l10n_ao_chart_template",713100,"l10n_ao.ao_713","Materiais diversos","account.data_account_type_expenses",0
-"ao_714","l10n_ao.l10n_ao_chart_template",714,"l10n_ao.ao_71","Embalagens de consumo","account_parent.data_account_type_view",0
+"ao_714","l10n_ao.l10n_ao_chart_template",714,"l10n_ao.ao_71","Embalagens de consumo","account_parent_v10.data_account_type_view",0
 "ao_714100","l10n_ao.l10n_ao_chart_template",714100,"l10n_ao.ao_714","Embalagens de consumo","account.data_account_type_expenses",0
-"ao_715","l10n_ao.l10n_ao_chart_template",715,"l10n_ao.ao_71","Outros materiais","account_parent.data_account_type_view",0
+"ao_715","l10n_ao.l10n_ao_chart_template",715,"l10n_ao.ao_71","Outros materiais","account_parent_v10.data_account_type_view",0
 "ao_715100","l10n_ao.l10n_ao_chart_template",715100,"l10n_ao.ao_715","Outros materiais","account.data_account_type_expenses",0
-"ao_719","l10n_ao.l10n_ao_chart_template",719,"l10n_ao.ao_71","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_72","l10n_ao.l10n_ao_chart_template",72,"l10n_ao.ao_7","CUSTOS COM PESSOAL","account_parent.data_account_type_view",0
-"ao_721","l10n_ao.l10n_ao_chart_template",721,"l10n_ao.ao_72","Remunerações - Órgãos sociais","account_parent.data_account_type_view",0
+"ao_719","l10n_ao.l10n_ao_chart_template",719,"l10n_ao.ao_71","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_72","l10n_ao.l10n_ao_chart_template",72,"l10n_ao.ao_7","CUSTOS COM PESSOAL","account_parent_v10.data_account_type_view",0
+"ao_721","l10n_ao.l10n_ao_chart_template",721,"l10n_ao.ao_72","Remunerações - Órgãos sociais","account_parent_v10.data_account_type_view",0
 "ao_721100","l10n_ao.l10n_ao_chart_template",721100,"l10n_ao.ao_721","Ordenados","account.data_account_type_expenses",0
 "ao_721300","l10n_ao.l10n_ao_chart_template",721300,"l10n_ao.ao_721","Subsídio de Férias","account.data_account_type_expenses",0
 "ao_721400","l10n_ao.l10n_ao_chart_template",721400,"l10n_ao.ao_721","Subsídio de Natal","account.data_account_type_expenses",0
@@ -644,7 +644,7 @@
 "ao_721600","l10n_ao.l10n_ao_chart_template",721600,"l10n_ao.ao_721","Subsídio de Transporte","account.data_account_type_expenses",0
 "ao_721700","l10n_ao.l10n_ao_chart_template",721700,"l10n_ao.ao_721","Horas Extra / Prémios","account.data_account_type_expenses",0
 "ao_721800","l10n_ao.l10n_ao_chart_template",721800,"l10n_ao.ao_721","Outros","account.data_account_type_expenses",0
-"ao_722","l10n_ao.l10n_ao_chart_template",722,"l10n_ao.ao_72","Remunerações - Pessoal","account_parent.data_account_type_view",0
+"ao_722","l10n_ao.l10n_ao_chart_template",722,"l10n_ao.ao_72","Remunerações - Pessoal","account_parent_v10.data_account_type_view",0
 "ao_722100","l10n_ao.l10n_ao_chart_template",722100,"l10n_ao.ao_722","Ordenados","account.data_account_type_expenses",0
 "ao_722300","l10n_ao.l10n_ao_chart_template",722300,"l10n_ao.ao_722","Subsídio de Férias","account.data_account_type_expenses",0
 "ao_722400","l10n_ao.l10n_ao_chart_template",722400,"l10n_ao.ao_722","Subsídio de Natal","account.data_account_type_expenses",0
@@ -652,44 +652,44 @@
 "ao_722600","l10n_ao.l10n_ao_chart_template",722600,"l10n_ao.ao_722","Subsídio de Transporte","account.data_account_type_expenses",0
 "ao_722700","l10n_ao.l10n_ao_chart_template",722700,"l10n_ao.ao_722","Horas Extra / Prémios","account.data_account_type_expenses",0
 "ao_722800","l10n_ao.l10n_ao_chart_template",722800,"l10n_ao.ao_722","Outros","account.data_account_type_expenses",0
-"ao_723","l10n_ao.l10n_ao_chart_template",723,"l10n_ao.ao_72","Pensões","account_parent.data_account_type_view",0
+"ao_723","l10n_ao.l10n_ao_chart_template",723,"l10n_ao.ao_72","Pensões","account_parent_v10.data_account_type_view",0
 "ao_723100","l10n_ao.l10n_ao_chart_template",723100,"l10n_ao.ao_723","Órgãos sociais","account.data_account_type_expenses",0
 "ao_723200","l10n_ao.l10n_ao_chart_template",723200,"l10n_ao.ao_723","Pessoal","account.data_account_type_expenses",0
-"ao_724","l10n_ao.l10n_ao_chart_template",724,"l10n_ao.ao_72","Prémios para pensões","account_parent.data_account_type_view",0
+"ao_724","l10n_ao.l10n_ao_chart_template",724,"l10n_ao.ao_72","Prémios para pensões","account_parent_v10.data_account_type_view",0
 "ao_724100","l10n_ao.l10n_ao_chart_template",724100,"l10n_ao.ao_724","Órgãos sociais","account.data_account_type_expenses",0
 "ao_724200","l10n_ao.l10n_ao_chart_template",724200,"l10n_ao.ao_724","Pessoal","account.data_account_type_expenses",0
-"ao_725","l10n_ao.l10n_ao_chart_template",725,"l10n_ao.ao_72","Encargos sobre remunerações","account_parent.data_account_type_view",0
+"ao_725","l10n_ao.l10n_ao_chart_template",725,"l10n_ao.ao_72","Encargos sobre remunerações","account_parent_v10.data_account_type_view",0
 "ao_725100","l10n_ao.l10n_ao_chart_template",725100,"l10n_ao.ao_725","Órgãos sociais","account.data_account_type_expenses",0
 "ao_725200","l10n_ao.l10n_ao_chart_template",725200,"l10n_ao.ao_725","Pessoal","account.data_account_type_expenses",0
-"ao_726","l10n_ao.l10n_ao_chart_template",726,"l10n_ao.ao_72","Seguros de acidentes de trabalho e doenças profissionais","account_parent.data_account_type_view",0
+"ao_726","l10n_ao.l10n_ao_chart_template",726,"l10n_ao.ao_72","Seguros de acidentes de trabalho e doenças profissionais","account_parent_v10.data_account_type_view",0
 "ao_726100","l10n_ao.l10n_ao_chart_template",726100,"l10n_ao.ao_726","Órgãos sociais","account.data_account_type_expenses",0
 "ao_726200","l10n_ao.l10n_ao_chart_template",726200,"l10n_ao.ao_726","Pessoal","account.data_account_type_expenses",0
-"ao_727","l10n_ao.l10n_ao_chart_template",727,"l10n_ao.ao_72","Formação","account_parent.data_account_type_view",0
+"ao_727","l10n_ao.l10n_ao_chart_template",727,"l10n_ao.ao_72","Formação","account_parent_v10.data_account_type_view",0
 "ao_727100","l10n_ao.l10n_ao_chart_template",727100,"l10n_ao.ao_727","Órgãos sociais","account.data_account_type_expenses",0
 "ao_727200","l10n_ao.l10n_ao_chart_template",727200,"l10n_ao.ao_727","Pessoal","account.data_account_type_expenses",0
-"ao_728","l10n_ao.l10n_ao_chart_template",728,"l10n_ao.ao_72","Outras despesas com o pessoal","account_parent.data_account_type_view",0
+"ao_728","l10n_ao.l10n_ao_chart_template",728,"l10n_ao.ao_72","Outras despesas com o pessoal","account_parent_v10.data_account_type_view",0
 "ao_728100","l10n_ao.l10n_ao_chart_template",728100,"l10n_ao.ao_728","Órgãos socias","account.data_account_type_expenses",0
 "ao_728200","l10n_ao.l10n_ao_chart_template",728200,"l10n_ao.ao_728","Pessoal","account.data_account_type_expenses",0
-"ao_729","l10n_ao.l10n_ao_chart_template",729,"l10n_ao.ao_72","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_73","l10n_ao.l10n_ao_chart_template",73,"l10n_ao.ao_7","AMORTIZAÇÕES DO EXERCÍCIO","account_parent.data_account_type_view",0
-"ao_731","l10n_ao.l10n_ao_chart_template",731,"l10n_ao.ao_73","Imobilizações corpóreas","account_parent.data_account_type_view",0
+"ao_729","l10n_ao.l10n_ao_chart_template",729,"l10n_ao.ao_72","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_73","l10n_ao.l10n_ao_chart_template",73,"l10n_ao.ao_7","AMORTIZAÇÕES DO EXERCÍCIO","account_parent_v10.data_account_type_view",0
+"ao_731","l10n_ao.l10n_ao_chart_template",731,"l10n_ao.ao_73","Imobilizações corpóreas","account_parent_v10.data_account_type_view",0
 "ao_731200","l10n_ao.l10n_ao_chart_template",731200,"l10n_ao.ao_731","Edifícios e outras construções","account.data_account_type_expenses",0
 "ao_731300","l10n_ao.l10n_ao_chart_template",731300,"l10n_ao.ao_731","Equipamento básico","account.data_account_type_expenses",0
 "ao_731400","l10n_ao.l10n_ao_chart_template",731400,"l10n_ao.ao_731","Equipamento de carga e transporte","account.data_account_type_expenses",0
 "ao_731500","l10n_ao.l10n_ao_chart_template",731500,"l10n_ao.ao_731","Equipamento administrativo","account.data_account_type_expenses",0
 "ao_731600","l10n_ao.l10n_ao_chart_template",731600,"l10n_ao.ao_731","Taras e vasilhame","account.data_account_type_expenses",0
 "ao_731900","l10n_ao.l10n_ao_chart_template",731900,"l10n_ao.ao_731","Outras imobilizações corpóreas","account.data_account_type_expenses",0
-"ao_732","l10n_ao.l10n_ao_chart_template",732,"l10n_ao.ao_73","Imobilizações incorpóreas","account_parent.data_account_type_view",0
+"ao_732","l10n_ao.l10n_ao_chart_template",732,"l10n_ao.ao_73","Imobilizações incorpóreas","account_parent_v10.data_account_type_view",0
 "ao_732100","l10n_ao.l10n_ao_chart_template",732100,"l10n_ao.ao_732","Trespasses","account.data_account_type_expenses",0
 "ao_732200","l10n_ao.l10n_ao_chart_template",732200,"l10n_ao.ao_732","Despesas de investigação e desenvolvimento","account.data_account_type_expenses",0
 "ao_732300","l10n_ao.l10n_ao_chart_template",732300,"l10n_ao.ao_732","Propriedade industrial e outros direitos e contratos","account.data_account_type_expenses",0
 "ao_732400","l10n_ao.l10n_ao_chart_template",732400,"l10n_ao.ao_732","Despesas de constituição","account.data_account_type_expenses",0
 "ao_732900","l10n_ao.l10n_ao_chart_template",732900,"l10n_ao.ao_732","Outras imobilizações incorpóreas","account.data_account_type_expenses",0
-"ao_739","l10n_ao.l10n_ao_chart_template",739,"l10n_ao.ao_73","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_75","l10n_ao.l10n_ao_chart_template",75,"l10n_ao.ao_7","OUTROS CUSTOS E PERDAS OPERACIONAIS","account_parent.data_account_type_view",0
-"ao_751","l10n_ao.l10n_ao_chart_template",751,"l10n_ao.ao_75","Subcontratos","account_parent.data_account_type_view",0
+"ao_739","l10n_ao.l10n_ao_chart_template",739,"l10n_ao.ao_73","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_75","l10n_ao.l10n_ao_chart_template",75,"l10n_ao.ao_7","OUTROS CUSTOS E PERDAS OPERACIONAIS","account_parent_v10.data_account_type_view",0
+"ao_751","l10n_ao.l10n_ao_chart_template",751,"l10n_ao.ao_75","Subcontratos","account_parent_v10.data_account_type_view",0
 "ao_751100","l10n_ao.l10n_ao_chart_template",751100,"l10n_ao.ao_751","Subcontratos","account.data_account_type_expenses",0
-"ao_752","l10n_ao.l10n_ao_chart_template",752,"l10n_ao.ao_75","Fornecimento de serviços de terceiros","account_parent.data_account_type_view",0
+"ao_752","l10n_ao.l10n_ao_chart_template",752,"l10n_ao.ao_75","Fornecimento de serviços de terceiros","account_parent_v10.data_account_type_view",0
 "ao_752110","l10n_ao.l10n_ao_chart_template",752110,"l10n_ao.ao_752","Água","account.data_account_type_expenses",0
 "ao_752120","l10n_ao.l10n_ao_chart_template",752120,"l10n_ao.ao_752","Eletricidade","account.data_account_type_expenses",0
 "ao_752130","l10n_ao.l10n_ao_chart_template",752130,"l10n_ao.ao_752","Combustíveis e outros fluídos","account.data_account_type_expenses",0
@@ -698,7 +698,7 @@
 "ao_752160","l10n_ao.l10n_ao_chart_template",752160,"l10n_ao.ao_752","Ferramentas e utensílios de desgaste rápido","account.data_account_type_expenses",0
 "ao_752170","l10n_ao.l10n_ao_chart_template",752170,"l10n_ao.ao_752","Material de escritório","account.data_account_type_expenses",0
 "ao_752180","l10n_ao.l10n_ao_chart_template",752180,"l10n_ao.ao_752","Livros e documentação técnica","account.data_account_type_expenses",0
-"ao_75219","l10n_ao.l10n_ao_chart_template",75219,"l10n_ao.ao_752","Outros fornecimentos","account_parent.data_account_type_view",0
+"ao_75219","l10n_ao.l10n_ao_chart_template",75219,"l10n_ao.ao_752","Outros fornecimentos","account_parent_v10.data_account_type_view",0
 "ao_7521910","l10n_ao.l10n_ao_chart_template",7521910,"l10n_ao.ao_75219","Outros fornecimentos","account.data_account_type_expenses",0
 "ao_752200","l10n_ao.l10n_ao_chart_template",752200,"l10n_ao.ao_752","Comunicação","account.data_account_type_expenses",0
 "ao_752210","l10n_ao.l10n_ao_chart_template",752210,"l10n_ao.ao_752","Rendas e alugueres","account.data_account_type_expenses",0
@@ -711,77 +711,77 @@
 "ao_752290","l10n_ao.l10n_ao_chart_template",752290,"l10n_ao.ao_752","Publicidade e propaganda","account.data_account_type_expenses",0
 "ao_752300","l10n_ao.l10n_ao_chart_template",752300,"l10n_ao.ao_752","Contencioso e notariado","account.data_account_type_expenses",0
 "ao_752310","l10n_ao.l10n_ao_chart_template",752310,"l10n_ao.ao_752","Comissões a intermediários","account.data_account_type_expenses",0
-"ao_75232","l10n_ao.l10n_ao_chart_template",75232,"l10n_ao.ao_752","Assistência técnica","account_parent.data_account_type_view",0
+"ao_75232","l10n_ao.l10n_ao_chart_template",75232,"l10n_ao.ao_752","Assistência técnica","account_parent_v10.data_account_type_view",0
 "ao_7523210","l10n_ao.l10n_ao_chart_template",7523210,"l10n_ao.ao_75232","Estrangeira","account.data_account_type_expenses",0
 "ao_7523220","l10n_ao.l10n_ao_chart_template",7523220,"l10n_ao.ao_75232","Nacional","account.data_account_type_expenses",0
 "ao_752330","l10n_ao.l10n_ao_chart_template",752330,"l10n_ao.ao_752","Trabalhos executados no exterior","account.data_account_type_expenses",0
 "ao_752340","l10n_ao.l10n_ao_chart_template",752340,"l10n_ao.ao_752","Honorários e avenças","account.data_account_type_expenses",0
 "ao_752350","l10n_ao.l10n_ao_chart_template",752350,"l10n_ao.ao_752","Royalties","account.data_account_type_expenses",0
-"ao_75239","l10n_ao.l10n_ao_chart_template",75239,"l10n_ao.ao_752","Outros serviços","account_parent.data_account_type_view",0
+"ao_75239","l10n_ao.l10n_ao_chart_template",75239,"l10n_ao.ao_752","Outros serviços","account_parent_v10.data_account_type_view",0
 "ao_7523910","l10n_ao.l10n_ao_chart_template",7523910,"l10n_ao.ao_75239","Outros serviços","account.data_account_type_expenses",0
-"ao_753","l10n_ao.l10n_ao_chart_template",753,"l10n_ao.ao_75","Impostos","account_parent.data_account_type_view",0
-"ao_7531","l10n_ao.l10n_ao_chart_template",7531,"l10n_ao.ao_753","Indirectos","account_parent.data_account_type_view",0
+"ao_753","l10n_ao.l10n_ao_chart_template",753,"l10n_ao.ao_75","Impostos","account_parent_v10.data_account_type_view",0
+"ao_7531","l10n_ao.l10n_ao_chart_template",7531,"l10n_ao.ao_753","Indirectos","account_parent_v10.data_account_type_view",0
 "ao_753110","l10n_ao.l10n_ao_chart_template",753110,"l10n_ao.ao_7531","Imposto de selo","account.data_account_type_expenses",0
 "ao_753190","l10n_ao.l10n_ao_chart_template",753190,"l10n_ao.ao_7531","Outros impostos","account.data_account_type_expenses",0
-"ao_7532","l10n_ao.l10n_ao_chart_template",7532,"l10n_ao.ao_753","Directos","account_parent.data_account_type_view",0
+"ao_7532","l10n_ao.l10n_ao_chart_template",7532,"l10n_ao.ao_753","Directos","account_parent_v10.data_account_type_view",0
 "ao_753210","l10n_ao.l10n_ao_chart_template",753210,"l10n_ao.ao_7532","Impostos de capitais","account.data_account_type_expenses",0
 "ao_753220","l10n_ao.l10n_ao_chart_template",753220,"l10n_ao.ao_7532","Contribuição predial","account.data_account_type_expenses",0
 "ao_753290","l10n_ao.l10n_ao_chart_template",753290,"l10n_ao.ao_7532","Outros impostos","account.data_account_type_expenses",0
-"ao_754","l10n_ao.l10n_ao_chart_template",754,"l10n_ao.ao_75","Despesas confidenciais","account_parent.data_account_type_view",0
-"ao_755","l10n_ao.l10n_ao_chart_template",755,"l10n_ao.ao_75","Quotizações","account_parent.data_account_type_view",0
-"ao_756","l10n_ao.l10n_ao_chart_template",756,"l10n_ao.ao_75","Ofertas e amostras de existências","account_parent.data_account_type_view",0
-"ao_758","l10n_ao.l10n_ao_chart_template",758,"l10n_ao.ao_75","Outros custos e perdas operacionais","account_parent.data_account_type_view",0
-"ao_759","l10n_ao.l10n_ao_chart_template",759,"l10n_ao.ao_75","Transferência para resultados operacionais","account_parent.data_account_type_view",0
-"ao_76","l10n_ao.l10n_ao_chart_template",76,"l10n_ao.ao_7","CUSTOS E PERDAS FINANCEIROS GERAIS","account_parent.data_account_type_view",0
-"ao_761","l10n_ao.l10n_ao_chart_template",761,"l10n_ao.ao_76","Juros","account_parent.data_account_type_view",0
-"ao_7611","l10n_ao.l10n_ao_chart_template",7611,"l10n_ao.ao_761","De empréstimos","account_parent.data_account_type_view",0
+"ao_754","l10n_ao.l10n_ao_chart_template",754,"l10n_ao.ao_75","Despesas confidenciais","account_parent_v10.data_account_type_view",0
+"ao_755","l10n_ao.l10n_ao_chart_template",755,"l10n_ao.ao_75","Quotizações","account_parent_v10.data_account_type_view",0
+"ao_756","l10n_ao.l10n_ao_chart_template",756,"l10n_ao.ao_75","Ofertas e amostras de existências","account_parent_v10.data_account_type_view",0
+"ao_758","l10n_ao.l10n_ao_chart_template",758,"l10n_ao.ao_75","Outros custos e perdas operacionais","account_parent_v10.data_account_type_view",0
+"ao_759","l10n_ao.l10n_ao_chart_template",759,"l10n_ao.ao_75","Transferência para resultados operacionais","account_parent_v10.data_account_type_view",0
+"ao_76","l10n_ao.l10n_ao_chart_template",76,"l10n_ao.ao_7","CUSTOS E PERDAS FINANCEIROS GERAIS","account_parent_v10.data_account_type_view",0
+"ao_761","l10n_ao.l10n_ao_chart_template",761,"l10n_ao.ao_76","Juros","account_parent_v10.data_account_type_view",0
+"ao_7611","l10n_ao.l10n_ao_chart_template",7611,"l10n_ao.ao_761","De empréstimos","account_parent_v10.data_account_type_view",0
 "ao_761110","l10n_ao.l10n_ao_chart_template",761110,"l10n_ao.ao_7611","Bancários","account.data_account_type_expenses",0
 "ao_761120","l10n_ao.l10n_ao_chart_template",761120,"l10n_ao.ao_7611","Obrigações","account.data_account_type_expenses",0
 "ao_761130","l10n_ao.l10n_ao_chart_template",761130,"l10n_ao.ao_7611","Títulos de participação","account.data_account_type_expenses",0
 "ao_761210","l10n_ao.l10n_ao_chart_template",761210,"l10n_ao.ao_7611","De descobertos bancários","account.data_account_type_expenses",0
 "ao_761310","l10n_ao.l10n_ao_chart_template",761310,"l10n_ao.ao_7611","De mora relativos a dívidas a terceiros","account.data_account_type_expenses",0
 "ao_761410","l10n_ao.l10n_ao_chart_template",761410,"l10n_ao.ao_7611","De desconto de títulos","account.data_account_type_expenses",0
-"ao_762","l10n_ao.l10n_ao_chart_template",762,"l10n_ao.ao_76","Diferenças de câmbio desfavoráveis","account_parent.data_account_type_view",0
+"ao_762","l10n_ao.l10n_ao_chart_template",762,"l10n_ao.ao_76","Diferenças de câmbio desfavoráveis","account_parent_v10.data_account_type_view",0
 "ao_762100","l10n_ao.l10n_ao_chart_template",762100,"l10n_ao.ao_762","Realizadas","account.data_account_type_expenses",0
 "ao_762200","l10n_ao.l10n_ao_chart_template",762200,"l10n_ao.ao_762","Não realizadas","account.data_account_type_expenses",0
-"ao_763","l10n_ao.l10n_ao_chart_template",763,"l10n_ao.ao_76","Descontos de pronto pagamento concedidos","account_parent.data_account_type_view",0
+"ao_763","l10n_ao.l10n_ao_chart_template",763,"l10n_ao.ao_76","Descontos de pronto pagamento concedidos","account_parent_v10.data_account_type_view",0
 "ao_763100","l10n_ao.l10n_ao_chart_template",763100,"l10n_ao.ao_763","Descontos de pronto pagamento concedidos","account.data_account_type_expenses",0
-"ao_764","l10n_ao.l10n_ao_chart_template",764,"l10n_ao.ao_76","Amortizações de investimentos em imóveis","account_parent.data_account_type_view",0
+"ao_764","l10n_ao.l10n_ao_chart_template",764,"l10n_ao.ao_76","Amortizações de investimentos em imóveis","account_parent_v10.data_account_type_view",0
 "ao_764100","l10n_ao.l10n_ao_chart_template",764100,"l10n_ao.ao_764","Amortizações de investimentos em imóveis","account.data_account_type_expenses",0
-"ao_765","l10n_ao.l10n_ao_chart_template",765,"l10n_ao.ao_76","Provisões para aplicações financeiras","account_parent.data_account_type_view",0
-"ao_7651","l10n_ao.l10n_ao_chart_template",7651,"l10n_ao.ao_765","Investimentos financeiros","account_parent.data_account_type_view",0
+"ao_765","l10n_ao.l10n_ao_chart_template",765,"l10n_ao.ao_76","Provisões para aplicações financeiras","account_parent_v10.data_account_type_view",0
+"ao_7651","l10n_ao.l10n_ao_chart_template",7651,"l10n_ao.ao_765","Investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_765110","l10n_ao.l10n_ao_chart_template",765110,"l10n_ao.ao_7651","Subsidiárias","account.data_account_type_expenses",0
 "ao_765120","l10n_ao.l10n_ao_chart_template",765120,"l10n_ao.ao_7651","Associadas","account.data_account_type_expenses",0
 "ao_765130","l10n_ao.l10n_ao_chart_template",765130,"l10n_ao.ao_7651","Outras empresas","account.data_account_type_expenses",0
 "ao_765140","l10n_ao.l10n_ao_chart_template",765140,"l10n_ao.ao_7651","Fundos","account.data_account_type_expenses",0
 "ao_765190","l10n_ao.l10n_ao_chart_template",765190,"l10n_ao.ao_7651","Outros investimentos","account.data_account_type_expenses",0
-"ao_7652","l10n_ao.l10n_ao_chart_template",7652,"l10n_ao.ao_765","Aplicações de tesouraria","account_parent.data_account_type_view",0
+"ao_7652","l10n_ao.l10n_ao_chart_template",7652,"l10n_ao.ao_765","Aplicações de tesouraria","account_parent_v10.data_account_type_view",0
 "ao_765210","l10n_ao.l10n_ao_chart_template",765210,"l10n_ao.ao_7652","Títulos negociáveis","account.data_account_type_expenses",0
 "ao_765220","l10n_ao.l10n_ao_chart_template",765220,"l10n_ao.ao_7652","Depósitos a prazo","account.data_account_type_expenses",0
 "ao_765230","l10n_ao.l10n_ao_chart_template",765230,"l10n_ao.ao_7652","Outros depósitos","account.data_account_type_expenses",0
 "ao_765290","l10n_ao.l10n_ao_chart_template",765290,"l10n_ao.ao_7652","Outros","account.data_account_type_expenses",0
-"ao_766","l10n_ao.l10n_ao_chart_template",766,"l10n_ao.ao_76","Perdas na alienação de aplicações financeiras","account_parent.data_account_type_view",0
-"ao_7661","l10n_ao.l10n_ao_chart_template",7661,"l10n_ao.ao_766","Investimentos financeiros","account_parent.data_account_type_view",0
+"ao_766","l10n_ao.l10n_ao_chart_template",766,"l10n_ao.ao_76","Perdas na alienação de aplicações financeiras","account_parent_v10.data_account_type_view",0
+"ao_7661","l10n_ao.l10n_ao_chart_template",7661,"l10n_ao.ao_766","Investimentos financeiros","account_parent_v10.data_account_type_view",0
 "ao_766110","l10n_ao.l10n_ao_chart_template",766110,"l10n_ao.ao_7661","Subsidiárias","account.data_account_type_expenses",0
 "ao_766120","l10n_ao.l10n_ao_chart_template",766120,"l10n_ao.ao_7661","Associadas","account.data_account_type_expenses",0
 "ao_766130","l10n_ao.l10n_ao_chart_template",766130,"l10n_ao.ao_7661","Outras empresas","account.data_account_type_expenses",0
 "ao_766140","l10n_ao.l10n_ao_chart_template",766140,"l10n_ao.ao_7661","Fundos","account.data_account_type_expenses",0
 "ao_766190","l10n_ao.l10n_ao_chart_template",766190,"l10n_ao.ao_7661","Outros investimentos","account.data_account_type_expenses",0
 "ao_766210","l10n_ao.l10n_ao_chart_template",766210,"l10n_ao.ao_7661","Aplicações de títulos negociáveis","account.data_account_type_expenses",0
-"ao_767","l10n_ao.l10n_ao_chart_template",767,"l10n_ao.ao_76","Serviços bancários","account_parent.data_account_type_view",0
+"ao_767","l10n_ao.l10n_ao_chart_template",767,"l10n_ao.ao_76","Serviços bancários","account_parent_v10.data_account_type_view",0
 "ao_767100","l10n_ao.l10n_ao_chart_template",767100,"l10n_ao.ao_767","Serviços bancários","account.data_account_type_expenses",0
 "ao_769","l10n_ao.l10n_ao_chart_template",769,"l10n_ao.ao_76","Transferência para resultados financeiros","account.data_account_type_expenses",0
-"ao_77","l10n_ao.l10n_ao_chart_template",77,"l10n_ao.ao_7","CUSTOS E PERDAS FINANCEIROS EM FILIAIS E ASSOCIADAS","account_parent.data_account_type_view",0
-"ao_779","l10n_ao.l10n_ao_chart_template",779,"l10n_ao.ao_77","Transferência para resultados financeiros","account_parent.data_account_type_view",0
-"ao_78","l10n_ao.l10n_ao_chart_template",78,"l10n_ao.ao_7","OUTROS CUSTOS E PERDAS NÃO OPERACIONAIS","account_parent.data_account_type_view",0
-"ao_7801","l10n_ao.l10n_ao_chart_template",7801,"l10n_ao.ao_78","Provisões do exercício","account_parent.data_account_type_view",0
-"ao_78011","l10n_ao.l10n_ao_chart_template",78011,"l10n_ao.ao_7801","Existências","account_parent.data_account_type_view",0
+"ao_77","l10n_ao.l10n_ao_chart_template",77,"l10n_ao.ao_7","CUSTOS E PERDAS FINANCEIROS EM FILIAIS E ASSOCIADAS","account_parent_v10.data_account_type_view",0
+"ao_779","l10n_ao.l10n_ao_chart_template",779,"l10n_ao.ao_77","Transferência para resultados financeiros","account_parent_v10.data_account_type_view",0
+"ao_78","l10n_ao.l10n_ao_chart_template",78,"l10n_ao.ao_7","OUTROS CUSTOS E PERDAS NÃO OPERACIONAIS","account_parent_v10.data_account_type_view",0
+"ao_7801","l10n_ao.l10n_ao_chart_template",7801,"l10n_ao.ao_78","Provisões do exercício","account_parent_v10.data_account_type_view",0
+"ao_78011","l10n_ao.l10n_ao_chart_template",78011,"l10n_ao.ao_7801","Existências","account_parent_v10.data_account_type_view",0
 "ao_780111","l10n_ao.l10n_ao_chart_template",780111,"l10n_ao.ao_7801","Matérias-primas, subsidiárias e de consumo","account.data_account_type_expenses",0
 "ao_780112","l10n_ao.l10n_ao_chart_template",780112,"l10n_ao.ao_7801","Produtos e trabalhos em curso","account.data_account_type_expenses",0
 "ao_780113","l10n_ao.l10n_ao_chart_template",780113,"l10n_ao.ao_7801","Produtos acabados e intermédios","account.data_account_type_expenses",0
 "ao_780114","l10n_ao.l10n_ao_chart_template",780114,"l10n_ao.ao_7801","Subprodutos, desperdícios, resíduos e refugos","account.data_account_type_expenses",0
 "ao_780115","l10n_ao.l10n_ao_chart_template",780115,"l10n_ao.ao_7801","Mercadorias","account.data_account_type_expenses",0
-"ao_78012","l10n_ao.l10n_ao_chart_template",78012,"l10n_ao.ao_7801","Cobranças duvidosas","account_parent.data_account_type_view",0
+"ao_78012","l10n_ao.l10n_ao_chart_template",78012,"l10n_ao.ao_7801","Cobranças duvidosas","account_parent_v10.data_account_type_view",0
 "ao_780121","l10n_ao.l10n_ao_chart_template",780121,"l10n_ao.ao_78012","Clientes","account.data_account_type_expenses",0
 "ao_780122","l10n_ao.l10n_ao_chart_template",780122,"l10n_ao.ao_78012","Clientes-títulos a receber","account.data_account_type_expenses",0
 "ao_780123","l10n_ao.l10n_ao_chart_template",780123,"l10n_ao.ao_78012","Clientes-cobranças duvidosa","account.data_account_type_expenses",0
@@ -789,64 +789,64 @@
 "ao_780125","l10n_ao.l10n_ao_chart_template",780125,"l10n_ao.ao_78012","Participantes e participadas","account.data_account_type_expenses",0
 "ao_780126","l10n_ao.l10n_ao_chart_template",780126,"l10n_ao.ao_78012","Dívidas do pessoal","account.data_account_type_expenses",0
 "ao_780129","l10n_ao.l10n_ao_chart_template",780129,"l10n_ao.ao_78012","Outros saldos a receber","account.data_account_type_expenses",0
-"ao_78013","l10n_ao.l10n_ao_chart_template",78013,"l10n_ao.ao_7801","Riscos e encargos","account_parent.data_account_type_view",0
+"ao_78013","l10n_ao.l10n_ao_chart_template",78013,"l10n_ao.ao_7801","Riscos e encargos","account_parent_v10.data_account_type_view",0
 "ao_780131","l10n_ao.l10n_ao_chart_template",780131,"l10n_ao.ao_78013","Pensões","account.data_account_type_expenses",0
 "ao_780132","l10n_ao.l10n_ao_chart_template",780132,"l10n_ao.ao_78013","Processos judiciais em curso","account.data_account_type_expenses",0
 "ao_780133","l10n_ao.l10n_ao_chart_template",780133,"l10n_ao.ao_78013","Acidentes de trabalho","account.data_account_type_expenses",0
 "ao_780134","l10n_ao.l10n_ao_chart_template",780134,"l10n_ao.ao_78013","Garantias dadas a clientes","account.data_account_type_expenses",0
 "ao_780139","l10n_ao.l10n_ao_chart_template",780139,"l10n_ao.ao_78013","Outros riscos e encargos","account.data_account_type_expenses",0
-"ao_7802","l10n_ao.l10n_ao_chart_template",7802,"l10n_ao.ao_78","Amortizações extraordinárias","account_parent.data_account_type_view",0
+"ao_7802","l10n_ao.l10n_ao_chart_template",7802,"l10n_ao.ao_78","Amortizações extraordinárias","account_parent_v10.data_account_type_view",0
 "ao_780210","l10n_ao.l10n_ao_chart_template",780210,"l10n_ao.ao_7802","Imobilizações corpóreas","account.data_account_type_expenses",0
 "ao_780220","l10n_ao.l10n_ao_chart_template",780220,"l10n_ao.ao_7802","Imobilizações incorpóreas","account.data_account_type_expenses",0
-"ao_7803","l10n_ao.l10n_ao_chart_template",7803,"l10n_ao.ao_78","Perdas em imobilizações","account_parent.data_account_type_view",0
+"ao_7803","l10n_ao.l10n_ao_chart_template",7803,"l10n_ao.ao_78","Perdas em imobilizações","account_parent_v10.data_account_type_view",0
 "ao_780310","l10n_ao.l10n_ao_chart_template",780310,"l10n_ao.ao_7803","Vendas de imobilizações corpóreas","account.data_account_type_expenses",0
 "ao_780320","l10n_ao.l10n_ao_chart_template",780320,"l10n_ao.ao_7803","Vendas de imobilizações incorpóreas","account.data_account_type_expenses",0
 "ao_780330","l10n_ao.l10n_ao_chart_template",780330,"l10n_ao.ao_7803","Abates","account.data_account_type_expenses",0
 "ao_780390","l10n_ao.l10n_ao_chart_template",780390,"l10n_ao.ao_7803","Outras","account.data_account_type_expenses",0
-"ao_7804","l10n_ao.l10n_ao_chart_template",7804,"l10n_ao.ao_78","Perdas em existências","account_parent.data_account_type_view",0
+"ao_7804","l10n_ao.l10n_ao_chart_template",7804,"l10n_ao.ao_78","Perdas em existências","account_parent_v10.data_account_type_view",0
 "ao_780410","l10n_ao.l10n_ao_chart_template",780410,"l10n_ao.ao_7804","Quebras","account.data_account_type_expenses",0
-"ao_7805","l10n_ao.l10n_ao_chart_template",7805,"l10n_ao.ao_78","Dívidas incobráveis","account_parent.data_account_type_view",0
-"ao_7806","l10n_ao.l10n_ao_chart_template",7806,"l10n_ao.ao_78","Multas e penalidades contratuais","account_parent.data_account_type_view",0
+"ao_7805","l10n_ao.l10n_ao_chart_template",7805,"l10n_ao.ao_78","Dívidas incobráveis","account_parent_v10.data_account_type_view",0
+"ao_7806","l10n_ao.l10n_ao_chart_template",7806,"l10n_ao.ao_78","Multas e penalidades contratuais","account_parent_v10.data_account_type_view",0
 "ao_780610","l10n_ao.l10n_ao_chart_template",780610,"l10n_ao.ao_7806","Fiscais","account.data_account_type_expenses",0
 "ao_780620","l10n_ao.l10n_ao_chart_template",780620,"l10n_ao.ao_7806","Não fiscais","account.data_account_type_expenses",0
 "ao_780630","l10n_ao.l10n_ao_chart_template",780630,"l10n_ao.ao_7806","Penalidades contratuais","account.data_account_type_expenses",0
-"ao_7807","l10n_ao.l10n_ao_chart_template",7807,"l10n_ao.ao_78","Custos de reestruturação","account_parent.data_account_type_view",0
-"ao_7808","l10n_ao.l10n_ao_chart_template",7808,"l10n_ao.ao_78","Descontinuidade de operações","account_parent.data_account_type_view",0
-"ao_7809","l10n_ao.l10n_ao_chart_template",7809,"l10n_ao.ao_78","Alterações de políticas contabilísticas","account_parent.data_account_type_view",0
-"ao_7810","l10n_ao.l10n_ao_chart_template",7810,"l10n_ao.ao_78","Correcções relativas a exercícios anteriores","account_parent.data_account_type_view",0
+"ao_7807","l10n_ao.l10n_ao_chart_template",7807,"l10n_ao.ao_78","Custos de reestruturação","account_parent_v10.data_account_type_view",0
+"ao_7808","l10n_ao.l10n_ao_chart_template",7808,"l10n_ao.ao_78","Descontinuidade de operações","account_parent_v10.data_account_type_view",0
+"ao_7809","l10n_ao.l10n_ao_chart_template",7809,"l10n_ao.ao_78","Alterações de políticas contabilísticas","account_parent_v10.data_account_type_view",0
+"ao_7810","l10n_ao.l10n_ao_chart_template",7810,"l10n_ao.ao_78","Correcções relativas a exercícios anteriores","account_parent_v10.data_account_type_view",0
 "ao_781010","l10n_ao.l10n_ao_chart_template",781010,"l10n_ao.ao_7810","Estimativa impostos","account.data_account_type_expenses",0
-"ao_7811","l10n_ao.l10n_ao_chart_template",7811,"l10n_ao.ao_78","Outros custos e perdas não operacionais","account_parent.data_account_type_view",0
+"ao_7811","l10n_ao.l10n_ao_chart_template",7811,"l10n_ao.ao_78","Outros custos e perdas não operacionais","account_parent_v10.data_account_type_view",0
 "ao_781110","l10n_ao.l10n_ao_chart_template",781110,"l10n_ao.ao_7811","Donativos","account.data_account_type_expenses",0
 "ao_781120","l10n_ao.l10n_ao_chart_template",781120,"l10n_ao.ao_7811","Reembolso de subsídios à exploração","account.data_account_type_expenses",0
 "ao_781130","l10n_ao.l10n_ao_chart_template",781130,"l10n_ao.ao_7811","Reembolso de subsídios a investimentos","account.data_account_type_expenses",0
-"ao_7819","l10n_ao.l10n_ao_chart_template",7819,"l10n_ao.ao_78","Transferência para resultados não operacionais","account_parent.data_account_type_view",0
+"ao_7819","l10n_ao.l10n_ao_chart_template",7819,"l10n_ao.ao_78","Transferência para resultados não operacionais","account_parent_v10.data_account_type_view",0
 "ao_781910","l10n_ao.l10n_ao_chart_template",781910,"l10n_ao.ao_7819","Transferência para resultados não operacionais","account.data_account_type_expenses",0
-"ao_79","l10n_ao.l10n_ao_chart_template",79,"l10n_ao.ao_7","CUSTOS E PERDAS EXTRAORDINÁRIOS","account_parent.data_account_type_view",0
-"ao_791","l10n_ao.l10n_ao_chart_template",791,"l10n_ao.ao_79","Perdas resultantes de catástrofes naturais","account_parent.data_account_type_view",0
+"ao_79","l10n_ao.l10n_ao_chart_template",79,"l10n_ao.ao_7","CUSTOS E PERDAS EXTRAORDINÁRIOS","account_parent_v10.data_account_type_view",0
+"ao_791","l10n_ao.l10n_ao_chart_template",791,"l10n_ao.ao_79","Perdas resultantes de catástrofes naturais","account_parent_v10.data_account_type_view",0
 "ao_791100","l10n_ao.l10n_ao_chart_template",791100,"l10n_ao.ao_791","Perdas resultantes de catástrofes naturais","account.data_account_type_expenses",0
-"ao_792","l10n_ao.l10n_ao_chart_template",792,"l10n_ao.ao_79","Perdas resultantes de convulções politicas","account_parent.data_account_type_view",0
+"ao_792","l10n_ao.l10n_ao_chart_template",792,"l10n_ao.ao_79","Perdas resultantes de convulções politicas","account_parent_v10.data_account_type_view",0
 "ao_792100","l10n_ao.l10n_ao_chart_template",792100,"l10n_ao.ao_792","Perdas resultantes de convulções politicas","account.data_account_type_expenses",0
-"ao_793","l10n_ao.l10n_ao_chart_template",793,"l10n_ao.ao_79","Perdas resultantes de expropriações","account_parent.data_account_type_view",0
+"ao_793","l10n_ao.l10n_ao_chart_template",793,"l10n_ao.ao_79","Perdas resultantes de expropriações","account_parent_v10.data_account_type_view",0
 "ao_793100","l10n_ao.l10n_ao_chart_template",793100,"l10n_ao.ao_793","Perdas resultantes de expropriações","account.data_account_type_expenses",0
-"ao_794","l10n_ao.l10n_ao_chart_template",794,"l10n_ao.ao_79","Perdas resultantes de sinistros","account_parent.data_account_type_view",0
+"ao_794","l10n_ao.l10n_ao_chart_template",794,"l10n_ao.ao_79","Perdas resultantes de sinistros","account_parent_v10.data_account_type_view",0
 "ao_794100","l10n_ao.l10n_ao_chart_template",794100,"l10n_ao.ao_794","Perdas resultantes de sinistros","account.data_account_type_expenses",0
-"ao_799","l10n_ao.l10n_ao_chart_template",799,"l10n_ao.ao_79","Transferência para resultados extraordinários","account_parent.data_account_type_view",0
+"ao_799","l10n_ao.l10n_ao_chart_template",799,"l10n_ao.ao_79","Transferência para resultados extraordinários","account_parent_v10.data_account_type_view",0
 "ao_799100","l10n_ao.l10n_ao_chart_template",799100,"l10n_ao.ao_799","Transferência para resultados extraordinários","account.data_account_type_expenses",0
-"ao_8","l10n_ao.l10n_ao_chart_template",8,"l10n_ao.ao_0","RESULTADOS","account_parent.data_account_type_view",0
-"ao_81","l10n_ao.l10n_ao_chart_template",81,"l10n_ao.ao_8","RESULTADOS TRANSITADOS","account_parent.data_account_type_view",0
-"ao_811","l10n_ao.l10n_ao_chart_template",811,"l10n_ao.ao_81","Ano..................","account_parent.data_account_type_view",0
+"ao_8","l10n_ao.l10n_ao_chart_template",8,"l10n_ao.ao_0","RESULTADOS","account_parent_v10.data_account_type_view",0
+"ao_81","l10n_ao.l10n_ao_chart_template",81,"l10n_ao.ao_8","RESULTADOS TRANSITADOS","account_parent_v10.data_account_type_view",0
+"ao_811","l10n_ao.l10n_ao_chart_template",811,"l10n_ao.ao_81","Ano..................","account_parent_v10.data_account_type_view",0
 "ao_811100","l10n_ao.l10n_ao_chart_template",811100,"l10n_ao.ao_811","Resultado do ano","account.data_account_type_current_liabilities",0
 "ao_811200","l10n_ao.l10n_ao_chart_template",811200,"l10n_ao.ao_811","Aplicação de resultados","account.data_account_type_current_liabilities",0
 "ao_811300","l10n_ao.l10n_ao_chart_template",811300,"l10n_ao.ao_811","Corecções de erros fundamentais, no exercício seguinte","account.data_account_type_current_liabilities",0
 "ao_811400","l10n_ao.l10n_ao_chart_template",811400,"l10n_ao.ao_811","Efeito das alterações de políticas contabilísticas","account.data_account_type_current_liabilities",0
 "ao_811500","l10n_ao.l10n_ao_chart_template",811500,"l10n_ao.ao_811","Imposto relativo a correções de erros fundamentais e alterações de politicas contabilísticas","account.data_account_type_current_liabilities",0
-"ao_812","l10n_ao.l10n_ao_chart_template",812,"l10n_ao.ao_81","Ano....................","account_parent.data_account_type_view",0
+"ao_812","l10n_ao.l10n_ao_chart_template",812,"l10n_ao.ao_81","Ano....................","account_parent_v10.data_account_type_view",0
 "ao_812100","l10n_ao.l10n_ao_chart_template",812100,"l10n_ao.ao_812","Resultado do ano","account.data_account_type_current_liabilities",0
 "ao_812200","l10n_ao.l10n_ao_chart_template",812200,"l10n_ao.ao_812","Aplicação de resultados","account.data_account_type_current_liabilities",0
 "ao_812300","l10n_ao.l10n_ao_chart_template",812300,"l10n_ao.ao_812","Correcções de erros fundamentais, no exercício seguinte","account.data_account_type_current_liabilities",0
 "ao_812400","l10n_ao.l10n_ao_chart_template",812400,"l10n_ao.ao_812","Efeito das alteracções de políticas contabilísticas","account.data_account_type_current_liabilities",0
 "ao_812500","l10n_ao.l10n_ao_chart_template",812500,"l10n_ao.ao_812","Imposto relativo a correcções de erros fundamentais e alterações de políticas contabilísticas","account.data_account_type_current_liabilities",0
-"ao_82","l10n_ao.l10n_ao_chart_template",82,"l10n_ao.ao_8","RESULTADOS OPERACIONAIS","account_parent.data_account_type_view",0
+"ao_82","l10n_ao.l10n_ao_chart_template",82,"l10n_ao.ao_8","RESULTADOS OPERACIONAIS","account_parent_v10.data_account_type_view",0
 "ao_820100","l10n_ao.l10n_ao_chart_template",820100,"l10n_ao.ao_82","Vendas","account.data_account_type_current_liabilities",0
 "ao_820200","l10n_ao.l10n_ao_chart_template",820200,"l10n_ao.ao_82","Prestações de serviços","account.data_account_type_current_liabilities",0
 "ao_820300","l10n_ao.l10n_ao_chart_template",820300,"l10n_ao.ao_82","Outros proveitos operacionais","account.data_account_type_current_liabilities",0
@@ -857,27 +857,27 @@
 "ao_820800","l10n_ao.l10n_ao_chart_template",820800,"l10n_ao.ao_82","Amortizações do exercício","account.data_account_type_current_liabilities",0
 "ao_820900","l10n_ao.l10n_ao_chart_template",820900,"l10n_ao.ao_82","Outros custos operacionais","account.data_account_type_current_liabilities",0
 "ao_821900","l10n_ao.l10n_ao_chart_template",821900,"l10n_ao.ao_82","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_83","l10n_ao.l10n_ao_chart_template",83,"l10n_ao.ao_8","RESULTADOS FINANCEIROS","account_parent.data_account_type_view",0
+"ao_83","l10n_ao.l10n_ao_chart_template",83,"l10n_ao.ao_8","RESULTADOS FINANCEIROS","account_parent_v10.data_account_type_view",0
 "ao_830100","l10n_ao.l10n_ao_chart_template",830100,"l10n_ao.ao_83","Proveitos e ganhos financeiros gerais","account.data_account_type_current_liabilities",0
 "ao_830200","l10n_ao.l10n_ao_chart_template",830200,"l10n_ao.ao_83","Custos e perdas financeiros gerais","account.data_account_type_current_liabilities",0
 "ao_830900","l10n_ao.l10n_ao_chart_template",830900,"l10n_ao.ao_83","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_84","l10n_ao.l10n_ao_chart_template",84,"l10n_ao.ao_8","RESULTADOS FINANCEIROS EM FILIAIS E ASSOCIADAS","account_parent.data_account_type_view",0
+"ao_84","l10n_ao.l10n_ao_chart_template",84,"l10n_ao.ao_8","RESULTADOS FINANCEIROS EM FILIAIS E ASSOCIADAS","account_parent_v10.data_account_type_view",0
 "ao_840100","l10n_ao.l10n_ao_chart_template",840100,"l10n_ao.ao_84","Proveitos e ganhos em filiais e associadas","account.data_account_type_current_liabilities",0
 "ao_840200","l10n_ao.l10n_ao_chart_template",840200,"l10n_ao.ao_84","Custos e perdas em filiais e associadas","account.data_account_type_current_liabilities",0
 "ao_840900","l10n_ao.l10n_ao_chart_template",840900,"l10n_ao.ao_84","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_85","l10n_ao.l10n_ao_chart_template",85,"l10n_ao.ao_8","RESULTADOS NÃO OPERACIONAIS","account_parent.data_account_type_view",0
+"ao_85","l10n_ao.l10n_ao_chart_template",85,"l10n_ao.ao_8","RESULTADOS NÃO OPERACIONAIS","account_parent_v10.data_account_type_view",0
 "ao_850100","l10n_ao.l10n_ao_chart_template",850100,"l10n_ao.ao_85","Proveitos e ganhos não operacionais","account.data_account_type_current_liabilities",0
 "ao_850200","l10n_ao.l10n_ao_chart_template",850200,"l10n_ao.ao_85","Custos e perdas não operacionais","account.data_account_type_current_liabilities",0
 "ao_850900","l10n_ao.l10n_ao_chart_template",850900,"l10n_ao.ao_85","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_86","l10n_ao.l10n_ao_chart_template",86,"l10n_ao.ao_8","RESULTADOS EXTRAORDINÁRIOS","account_parent.data_account_type_view",0
+"ao_86","l10n_ao.l10n_ao_chart_template",86,"l10n_ao.ao_8","RESULTADOS EXTRAORDINÁRIOS","account_parent_v10.data_account_type_view",0
 "ao_860100","l10n_ao.l10n_ao_chart_template",860100,"l10n_ao.ao_86","Proveitos e ganhos extraordinários","account.data_account_type_current_liabilities",0
 "ao_860200","l10n_ao.l10n_ao_chart_template",860200,"l10n_ao.ao_86","Custos e perdas extraordinários","account.data_account_type_current_liabilities",0
 "ao_860900","l10n_ao.l10n_ao_chart_template",860900,"l10n_ao.ao_86","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_87","l10n_ao.l10n_ao_chart_template",87,"l10n_ao.ao_8","IMPOSTOS SOBRE OS LUCROS","account_parent.data_account_type_view",0
+"ao_87","l10n_ao.l10n_ao_chart_template",87,"l10n_ao.ao_8","IMPOSTOS SOBRE OS LUCROS","account_parent_v10.data_account_type_view",0
 "ao_870100","l10n_ao.l10n_ao_chart_template",870100,"l10n_ao.ao_87","Imposto sobre os resultados correntes","account.data_account_type_current_liabilities",0
 "ao_870200","l10n_ao.l10n_ao_chart_template",870200,"l10n_ao.ao_87","Imposto sobre os resultados extraordinários","account.data_account_type_current_liabilities",0
 "ao_870900","l10n_ao.l10n_ao_chart_template",870900,"l10n_ao.ao_87","Transferência para resultados líquidos","account.data_account_type_current_liabilities",0
-"ao_88","l10n_ao.l10n_ao_chart_template",88,"l10n_ao.ao_8","RESULTADOS LÍQUIDOS DO EXERCÍCIO","account_parent.data_account_type_view",0
+"ao_88","l10n_ao.l10n_ao_chart_template",88,"l10n_ao.ao_8","RESULTADOS LÍQUIDOS DO EXERCÍCIO","account_parent_v10.data_account_type_view",0
 "ao_880100","l10n_ao.l10n_ao_chart_template",880100,"l10n_ao.ao_88","Resultados operacionais","account.data_account_type_current_liabilities",0
 "ao_880200","l10n_ao.l10n_ao_chart_template",880200,"l10n_ao.ao_88","Resultados financeiros gerais","account.data_account_type_current_liabilities",0
 "ao_880300","l10n_ao.l10n_ao_chart_template",880300,"l10n_ao.ao_88","Resultados em filiais e associadas","account.data_account_type_current_liabilities",0
@@ -887,5 +887,5 @@
 "ao_880700","l10n_ao.l10n_ao_chart_template",880700,"l10n_ao.ao_88","Imposto sobre resultados extraordinários","account.data_account_type_current_liabilities",0
 "ao_880800","l10n_ao.l10n_ao_chart_template",880800,"l10n_ao.ao_88","Imposto sobre Rendimento","account.data_account_type_current_liabilities",0
 "ao_880900","l10n_ao.l10n_ao_chart_template",880900,"l10n_ao.ao_88","Transferência para resultados transitados","account.data_account_type_current_liabilities",0
-"ao_89","l10n_ao.l10n_ao_chart_template",89,"l10n_ao.ao_8","DIVIDENDOS ANTECIPADOS","account_parent.data_account_type_view",0
+"ao_89","l10n_ao.l10n_ao_chart_template",89,"l10n_ao.ao_8","DIVIDENDOS ANTECIPADOS","account_parent_v10.data_account_type_view",0
 "ao_890900","l10n_ao.l10n_ao_chart_template",890900,"l10n_ao.ao_89","Transferência para resultados transitados","account.data_account_type_current_liabilities",0

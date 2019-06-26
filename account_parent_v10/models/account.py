@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
@@ -110,7 +110,7 @@ class AccountJournal(models.Model):
         else:
             account_code_prefix = company.cash_account_code_prefix or company.bank_account_code_prefix or ''
 
-        liquidity_type = self.env.ref('account_parent.data_account_type_view')
+        liquidity_type = self.env.ref('account_parent_v10.data_account_type_view')
         parent_id = self.env['account.account'].search([('code','=',account_code_prefix),
                                                         ('company_id','=',company.id),('user_type_id','=',liquidity_type.id)], limit=1)
         

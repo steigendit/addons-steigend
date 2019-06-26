@@ -2,9 +2,8 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
-import models
-import wizard
+import account_chart

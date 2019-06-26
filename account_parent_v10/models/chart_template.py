@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
@@ -70,7 +70,7 @@ class AccountChartTemplate(models.Model):
         
         account_tmpl_obj = self.env['account.account.template']
         account_obj = self.env['account.account']
-        view_liquidity_type = self.env.ref('account_parent.data_account_type_view')
+        view_liquidity_type = self.env.ref('account_parent_v10.data_account_type_view')
         if not importing_parent:
 #             parent_account_id = account_obj.with_context({'show_parent_account':True}).search([('parent_id','=',False),
 #                                                              ('user_type_id','=',view_liquidity_type.id),('company_id','=',company.id)], limit=1)

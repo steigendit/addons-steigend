@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
@@ -45,9 +45,9 @@ class OpenAccountChart(models.TransientModel):
         used_context = self._build_contexts(data)
         self  = self.with_context(used_context)
         if self.env['account.account'].search([('parent_id','!=',False)],limit=1):
-            result = self.env.ref('account_parent.open_view_account_tree').read([])[0]
+            result = self.env.ref('account_parent_v10.open_view_account_tree').read([])[0]
         else:
-            result = self.env.ref('account_parent.open_view_account_noparent_tree').read([])[0]
+            result = self.env.ref('account_parent_v10.open_view_account_noparent_tree').read([])[0]
         result_context = eval(result.get('context','{}')) or {}
         used_context.update(result_context)
         result['context'] = str(used_context)

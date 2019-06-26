@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    ODOO, Open Source Management Solution
-#    Copyright (C) 2016 Steigend IT Solutions
+#    Copyright (C) 2016 - Today Steigend IT Solutions (Omal Bastin)
 #    For more details, check COPYRIGHT and LICENSE files
 #
 ##############################################################################
@@ -20,9 +20,9 @@ Also:
     - activates regional currency.
     - sets up taxes.
     """,
-    'author': 'Steigend IT Solutions',
+    'author': 'Omal Bastin / Steigend IT Solutions',
     'website': 'http://www.steigendit.com',
-    'depends': ['account_parent','l10n_multilang'],
+    'depends': ['account_parent_v10','l10n_multilang'],
     'data': [
              'data/account_chart_template.xml',
              'data/account.account.template.csv',
